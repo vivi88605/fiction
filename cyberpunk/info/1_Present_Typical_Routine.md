@@ -13,13 +13,7 @@
   - Victoria verifies job details independently whenever possible.
   - Carol handles remote intel, access, maps, cameras, schedules, and security information.
 - Jax enters the week whenever gear, implants, or bodies need repairs.
-- Victoria handles most practical household maintenance:
-  - groceries
-  - bills
-  - medical supplies
-  - ammunition and equipment upkeep
-  - repair appointments
-- Evelyn contributes unpredictably but effectively when something catches her attention. She doesn't really have a routine, so she just does whatever she feels like whenever she's awake.
+- While Victoria’s routine is very consistent, Evelyn has no routine at all — she pretty much does whatever she wants, whenever she wants.
 - Money is a recurring source of friction.
   - Victoria budgets around unstable merc income.
   - Evelyn understands the need for budgeting and still buys things she absolutely did not need.

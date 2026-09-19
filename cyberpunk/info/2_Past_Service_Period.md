@@ -1,4 +1,4 @@
-# 3_Past_Service_Period
+# 2_Past_Service_Period
 
 ## Hierarchy
 
@@ -27,18 +27,21 @@
 
   > - Victoria outranks Evelyn slightly (Senior Operative vs. Operative).
 
-## Rough Timeline
+### Rough Timeline
 
-- **Training**: age 15–18, academy track rather than boot camp — replaces normal schooling.
+- Training: age 15–18, academy track rather than boot camp — replaces normal schooling.
   - Two years general academy: education, physical conditioning, ideological indoctrination.
-  - One year specialty track: role-specific certification.
-- **Active service**: age 18–22, four years in CEF.
+  - One year specialty track (age 17–18): role-specific certification. This is where their paths first diverge before shipping out together.
+    - Standard package (spine/neck reinforcement, selective bone reinforcement, comm implant, vitals monitor, adrenal regulator) installed early in this year, alongside role-specific implants.
+    - Rehab and recalibration aren't scheduled separately — the corp folds them into the rest of the year's conditioning. What reads as continued physical training is partly recruits relearning their own bodies: movement with a reinforced skeleton, reaction time with a live booster. Concord doesn't build in recovery time so much as absorb it into the curriculum — bodies brought online, not patients cared for.
+    - Full calibration isn't guaranteed by graduation.
+- Active service: start from age 18.
 
-> - Service in the CEF has a defined "contribution period" rather than being indefinite — completing it, or being medically discharged, is treated as honorable.
-> - The academy training is nominally free — but tuition is clawed back if a recruit leaves before serving a minimum term. Four years is the point where that debt clears.
+> - Service in CEF has a defined "contribution period" rather than being indefinite — completing it, or being medically discharged, is treated as honorable.
+> - The academy training is nominally free — but tuition, along with the cost of the implants installed during the specialty year, is clawed back if a recruit leaves before serving a minimum term. Four years of active service is the point where that debt clears.
 > - Evelyn and Victoria served exactly that minimum, then chose not to renew — not a medical discharge, not desertion, just staying long enough to walk away clean, financially as well as contractually.
 
-## Evelyn and Victoria Meet
+## How They Met
 
 ### Premise
 

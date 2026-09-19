@@ -2,12 +2,14 @@
 
 ## Premise
 
+### The Replacement
+
 - Evelyn's left knee is destroyed in a job; she gets a standard replacement since she can't afford a mil-spec one.
 - The replacement is durable and doesn't degrade on its own — the real problem is a mismatch, not a defect: her reflex-boosted nervous system is faster than a standard joint is rated for.
 - Straight-line speed is nearly unaffected (predictable, rhythmic load). Evasive movement — cuts, pivots, reactive dodges — is where the desync shows up, since it demands split-second asymmetric response between joints.
 - This targets exactly the skill a breacher's job depends on — trusting her body completely in the half-second after a door goes down.
 
-### The Governor Bypass Mechanic
+### The Bypass
 
 - Standard replacements ship with a safety governor limiting torque/speed/range, because surrounding tissue and anchor points weren't built for a boosted nervous system's full output. Mil-spec replacements raise this limit safely, with reinforced anchor points to match — hers doesn't.
 - Evelyn gets access to an unlicensed override chip that unlocks the governor, letting the joint respond at full speed/torque to match her body — without fixing the underlying mismatch.
@@ -16,14 +18,14 @@
   - **Biological strain** — micro-damage at the anchor points where the joint meets bone/tissue. Not a parts problem; needs real healing time no unlicensed shop can shortcut.
 - The trap: Jax keeps solving the visible half so well that there's no feedback loop warning her about the invisible half accumulating underneath.
 
-### Compensation Behaviors
+### The Strain
 
 - **Immediate**: incomplete extension/lock (slight permanent bend on that side), stiffness that needs "warming up," a catch mid-stride without a full limp yet.
 - **Short-term**: weight shifted onto the right leg, shortened stride on the left, avoiding pivots/lunges on that side, stairs taken asymmetrically, standing with weight braced against something.
 - **Bad days**: a brace she resists wearing in front of clients (a visible tell of compromise), a cane or leaning on Victoria, worst case a full buckle with no warning.
 - **Social handling**: jokes about it before anyone can worry out loud, downplays a real limp as something mundane, avoids visible aid around clients or strangers since a compromised merc is a liability or a target.
 
-## Endgame: To Civilian Life
+## To Ordinary Life
 
 ### The Incident
 
@@ -71,40 +73,20 @@
 
 - Evelyn's first project is her own prosthetic arm.
 - The standard shell is functional but generic — shaped for average proportions, built to survive abuse, and designed to be cheap to replace. Evelyn hates it almost immediately. It looks like hospital equipment attached to her body.
-- At first she only wants to make it look less awful.
-- She pulls the shell apart, measures the mounting points, and starts modeling replacement panels with the 3D printer she bought years ago and never properly learned to use.
-- Relearning fine motor control with the prosthetic and learning CAD happen at the same time. Early prototypes are ugly, badly fitted, or impossible to assemble; some pinch when the wrist rotates, some interfere with access panels, and at least one has to be cut off because she neglected to leave enough clearance around a fastener.
-- Unlike the abandoned tutorials from years ago, she keeps going because every improvement makes the arm feel a little more like hers.
-- Her old experience as a breacher turns out to be unexpectedly useful. She already has an intuitive sense for what materials feel like when they're struck, scraped, heated, bent, or broken; she just never had formal names for most of it.
-- Jax fills in the technical gaps and starts teaching her the material side properly: polymers, composites, light alloys, coatings, adhesives, fasteners, heat tolerance, impact behavior, fatigue, and how different fabrication methods change what a material can actually survive.
+- At first she only wants to make it look less awful. She pulls the shell apart, measures the mounting points, and starts modeling replacement panels with the 3D printer she bought years ago and never properly learned to use.
+- Relearning fine motor control with the prosthetic and learning CAD happen at the same time. Early prototypes are ugly, badly fitted, or impossible to assemble; some pinch when the wrist rotates, some interfere with access panels, and at least one has to be cut off because she neglected to leave enough clearance around a fastener. Unlike the abandoned tutorials from years ago, she keeps going because every improvement makes the arm feel a little more like hers.
+- Her old experience as a breacher turns out to be unexpectedly useful. She already has an intuitive sense for what materials feel like when they're struck, scraped, heated, bent, or broken; she just never had formal names for most of it. Jax fills in the technical gaps and starts teaching her the material side properly: polymers, composites, light alloys, coatings, adhesives, fasteners, heat tolerance, impact behavior, fatigue, and how different fabrication methods change what a material can actually survive.
 - Evelyn takes to that side of the work much faster than she ever took to studying locks or security hardware. It is tactile, visible, and immediately testable — make something, abuse it, see where it fails, change it.
-- She designs and fabricates replacement housings, protective shells, fairings, access panels, cosmetic covers, grips, guards, and other external components around existing implants and prosthetics.
-- Some jobs are almost entirely aesthetic: changing silhouette, surface texture, finish, patterning, or making mass-produced hardware look less medical or industrial.
-- Others are functional: reshaping a forearm shell so it doesn't snag clothing, adding sacrificial impact panels for someone who works construction, improving grip surfaces, relocating an access hatch, reducing weight, adding weather sealing, or building a shell that can be opened quickly for maintenance.
-- Most are somewhere in between.
-- When a job requires changes to the actual machinery, firmware, power system, or biological interface, she hands that part to Jax.
-- Her work begins from known hardware with known dimensions and operating limits. She designs around it rather than reinventing it.
-- Her own arm becomes an evolving portfolio piece.
-- She keeps changing the shell long after it is medically necessary: different panels, finishes, knuckle shapes, protective pieces, and small mechanical details depending on what she is currently experimenting with.
-- That becomes one of her strengths with clients. She doesn't treat the shell as packaging around the "real" machinery; to the person wearing it every day, the shell is the part they actually see, touch, clean, bump into things, and live with.
-- Her first paid work comes through Jax's shop.
-- He has clients whose cyberware works perfectly well but whose factory housings are cracked, uncomfortable, discontinued, ugly, or prohibitively expensive to replace through the original manufacturer.
-- At first he gives Evelyn simple jobs he can inspect before they leave the shop.
-- Replacement covers become custom covers; custom covers turn into clients asking whether she can change this edge, add that feature, make theirs look like the one she built for herself.
-- Word spreads mostly through people already using Jax for repairs.
-- Evelyn is good with clients in a way Jax isn't.
-- She'll happily spend twenty minutes arguing over whether a shoulder plate should look "meaner" without treating that preference as frivolous.
-- Having hated the feeling of wearing a generic arm herself, she understands why someone might care intensely about something that has no measurable effect on performance.
-- She sketches while people talk, throws out ideas, gets distracted, comes back to the original idea, and somehow usually ends up understanding what they wanted.
+- She designs and fabricates replacement housings, protective shells, fairings, access panels, cosmetic covers, grips, guards, and other external components around existing implants and prosthetics. Her work begins from known hardware with known dimensions and operating limits. She designs around it rather than reinventing it. Her own arm becomes an evolving portfolio piece.
+- Her first paid work comes through Jax's shop. He has clients whose cyberware works perfectly well but whose factory housings are cracked, uncomfortable, discontinued, ugly, or prohibitively expensive to replace through the original manufacturer.
+- Replacement covers become custom covers; custom covers turn into clients asking whether she can change this edge, add that feature, make theirs look like the one she built for herself. Word spreads mostly through people already using Jax for repairs.
+- Evelyn is good with clients in a way Jax isn't. She'll happily spend twenty minutes arguing over whether a shoulder plate should look "meaner" without treating that preference as frivolous. She sketches while people talk, throws out ideas, gets distracted, comes back to the original idea, and somehow usually ends up understanding what they wanted.
 - Her weakness is everything surrounding the actual work: estimates, invoices, deadlines, keeping materials stocked, remembering which client wanted which revision, and not spending the deposit before buying the material it was supposed to pay for.
-- Jax refuses to become her accountant.
-- Over time she becomes competent enough to work independently, though she stays connected to Jax for jobs that cross into actual cyberware engineering.
-- The division between them becomes fairly natural: Jax makes sure the machine works; Evelyn makes sure living with the machine doesn't suck.
-- She eventually freelances, doing mostly shells and external customization for prosthetics and other visible cyberware.
+- Over time she becomes competent enough to work independently, though she stays connected to Jax for jobs that cross into actual cyberware engineering. She eventually freelances, doing mostly shells and external customization for prosthetics and other visible cyberware.
 - Custom work means inconsistent clients, revision requests, late payments, material costs, and Evelyn continuing to make catastrophically bad purchasing decisions whenever a project pays unusually well.
 - But for the first time, making things rather than surviving dangerous situations gives her enough stimulation to keep coming back to it.
 
-## Ending Image
+## The End
 
 - Two different jobs, still living together.
 - “Client changed the brief again. I preferred being shot at. Bullets had clearer feedback.”

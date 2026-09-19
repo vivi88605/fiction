@@ -100,14 +100,14 @@
 
 - Sometimes run room-entry drills before bigger jobs, out of old-unit habit.
 - Practice self-defense together, focused on close range, where Victoria is weakest. Evelyn teaches and wins almost every time.
-- Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
+  - Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
 - Although most of their hobbies are different, They sometimes play video games or watch silly cartoons together. Some of those cartoons turn out to be surprisingly good.
 
 #### Standard Implants
 
 - Both carry the same standard-issue package from CEF(Concord Expeditionary Force):
   - Reinforced spine and neck.
-  - Bbone reinforcement in the skull, ribs, forearms, and shoulders.
+  - Bone reinforcement in the skull, ribs, forearms, and shoulders.
   - Comm implant.
   - Vitals monitor.
   - Adrenal regulator.
@@ -116,11 +116,16 @@
 
 #### Notes
 
-- Their resemblance is not immediately obvious to others. Victoria's reconstruction only approximates Evelyn’s biometric template, and their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
-- When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
+- Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
+  - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
 - Victoria knows Evelyn is secretly gloomy — not every detail, but enough. She rarely brings it up since Evelyn would just deflect, and the trend has been improving, so she doesn't want to poke at it. It's part of why she quietly reads Evelyn's recklessness as self-neglect rather than just stupidity.
-- Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
-- They're both bad at opening up, so their mutual understanding relies more on observation than actual conversation.
+  - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
+- They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
+
+#### Trivia
+
+- They split bills and share chore duties, but Evelyn hates doing chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
+- Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, she comes back with too many nutritionally or functionally questionable purchases.
 
 ## Side Cast
 
