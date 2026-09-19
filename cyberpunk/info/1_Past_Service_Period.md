@@ -1,4 +1,15 @@
-# 2_Past_Service_Period
+# 1_Past_Service_Period
+
+## Summary
+
+- Structure: Concord Group (megacorp) -> Concord Expeditionary Force/CEF (its army) -> line squads. Corp culture frames service as duty/purification while actually running total surveillance and allocating resources by internal priority, not its own rhetoric.
+- Training runs age 15-18 (academy, not normal schooling); implants installed during the age 17-18 specialty year; active service starts at 18; a 4-year minimum term clears the debt for that training/those implants. Evelyn and Victoria each served exactly that minimum, then left clean.
+- How they met: Victoria is catastrophically injured (loses both eyes/half her face) in a different squad, reassigned to Turquoise Nine as its new sniper/technician. Evelyn (then in Cateye Seven) recognizes her own long-ago-sold biometric data in Victoria's reconstructed face and becomes fixated.
+- Evelyn engineers her own transfer into Turquoise Nine (making herself Victoria's subordinate) despite Victoria's open hostility.
+- Relationship arc: guilt/curiosity -> grudging professional trust built on missions -> Evelyn goes off-plan to rescue Victoria under fire -> Victoria realizes Evelyn matters when she panics over a comms blackout -> "we are not friends" bit -> settled, acknowledged friendship by the end of their service.
+- Ends with both choosing not to renew, walking away together into the mercenary life shown in the present-day file.
+
+For full scene-level detail (the meeting, dialogue beats, how the friendship actually develops step by step), read the rest of this file.
 
 ## Hierarchy
 

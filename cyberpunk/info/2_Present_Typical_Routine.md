@@ -1,4 +1,15 @@
-# 1_Present_Typical_Routine
+# 2_Present_Typical_Routine
+
+## Summary
+
+- Evelyn and Victoria share an apartment that's their anchor point; irregular weeks of downtime, prep, 2-3 paid jobs, and maintenance rather than a fixed schedule.
+- Victoria: disciplined daily routine (tea, training, errands, gear checks), keeps the shared space tidy, verifies Dell's job pitches and cross-checks Carol's intel.
+- Evelyn: no routine at all, wakes whenever, messy room, swings between high-energy stretches (more jobs/socializing/graffiti/bad purchases) and subtler low periods (darker humor, less restless).
+- Evenings sometimes include self-defense practice (Evelyn teaches, since it's her strong range) that doubles as Victoria quietly checking on Evelyn's booster/joints/state of mind.
+- Work-day shape: Dell oversells a job -> Victoria verifies/Carol supplies intel -> approach (Victoria tenses up, Evelyn gets keyed up) -> old-unit coordination during -> aftermath differs if clean (food/drinks/reset) vs bad (Victoria quiet, Evelyn funnier/darker) -> Jax if anyone's hurt.
+- Underlying theme: comfortable domestic normalcy sitting on top of trauma and tracking habits neither of them talks about directly.
+
+For the full daily/weekly detail (exact training drills, hour-by-hour routine, dialogue-level beats), read the rest of this file.
 
 ## Typical Week
 

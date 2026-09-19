@@ -25,11 +25,13 @@ Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | `0_Characters.md`                | Cast roster — appearance, personality, hobbies, implants, specialty; main pair + side cast (Jax, Dell, Carol) | Almost any scene with these characters — this is the baseline voice/personality reference               |
 | `0.5_Characters_Mental_State.md` | Interiority — trauma, coping mechanisms, unspoken feelings each character hasn't voiced                       | Writing introspective/emotional beats, or anything that hinges on subtext beneath what a character says |
-| `1_Present_Typical_Routine.md`   | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                               | Writing present-timeline slice-of-life or job/work scenes                                               |
-| `2_Past_Service_Period.md`       | Backstory — military service, how Evelyn & Victoria met, the arc from hostility to found-family               | Writing flashback/backstory scenes or anything needing historical context                               |
+| `1_Past_Service_Period.md`       | Backstory — military service, how Evelyn & Victoria met, the arc from hostility to found-family               | Writing flashback/backstory scenes or anything needing historical context                               |
+| `2_Present_Typical_Routine.md`   | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                               | Writing present-timeline slice-of-life or job/work scenes                                               |
 | `3_Future_Ordinary_Life.md`      | Endgame arc — the injury that ends their mercenary careers, transition to ordinary civilian life              | Writing later-arc or ending material                                                                    |
 
-The numeric prefixes are chronological markers (2 = past, 1 = present, 3 = future), not a read order — don't read them front-to-back by default, jump to the one the current task needs.
+The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading 1-2-3 in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
+
+`1_`, `2_`, and `3_` each open with a `## Summary` section (a handful of bullets) before their full detail. If you just need to reference or check consistency with what happens in that period, the summary is usually enough — read past it into the full file only when you're actually writing a scene set there, need exact dialogue/sequencing, or the summary doesn't cover what you need.
 
 ## arc/ structure
 
