@@ -29,6 +29,13 @@
 - Likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
 - Night person. She gets up at whatever time she feels like, anywhere from morning to afternoon.
 
+#### Mental State
+
+- Her mood runs in swings — can't-slow-down energy alternating with crashes that hit with no clear trigger, sometimes right on the heels of a high. None of it has ever been named; she just thinks of it as good days and bad days.
+- Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
+- Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
+- Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
+
 #### Hobbies
 
 - She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
@@ -75,6 +82,13 @@
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
 - Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
 - Night person but wake up at morning regardless.
+
+#### Mental State
+
+- Pessimistic by default — she doesn't expect things to go well, which is part of why she's always semi-braced for the next disaster.
+- Vigilance costs her something real; it's tiring to stay ready all the time. But not preparing feels like negligence, so she does it anyway, tired or not.
+- She gauges how much someone matters to her by whether she catches herself bracing for their death. She can't afford to do that for many people, so she doesn't let many people in.
+- She wants to protect the life she's built, but after this many years the merc work is what she knows — the skills, the income, the instincts. An ordinary job doesn't feel safer, it feels like starting over with nothing to fall back on. She hasn't raised this with Evelyn.
 
 #### Hobbies
 

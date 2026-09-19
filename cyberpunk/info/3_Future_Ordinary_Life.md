@@ -5,7 +5,7 @@
 - Evelyn's standard knee replacement doesn't match her reflex-boosted nervous system; she gets an unlicensed governor bypass to restore full speed, which quietly causes accumulating biological damage that Jax's visible repairs mask.
 - The knee fails mid-breach on a job: Evelyn is pinned by the blast, her arm is crushed beyond saving, and Victoria has to break cover under fire to pull her out. This crosses Evelyn's one real line — not getting hurt herself, but putting Victoria at risk.
 - Aftermath: both separately admit they've secretly wanted out of merc work; Victoria traces the detonator's timing fault back to a supplier cover-up, and the archival digging turns into a permanent career as a digital archivist.
-- Evelyn, recovering, starts customizing her own prosthetic arm, gets pulled into cyberware shell/housing fabrication through Jax's shop, and eventually freelances as a custom cyberware customizer.
+- Evelyn, recovering, starts customizing her own prosthetic arm (since she hates the standard one she got), gets pulled into cyberware shell/housing fabrication through Jax's shop, and eventually freelances as a custom cyberware customizer.
 - Ending: both retired from mercenary work, same two people and dynamic, but their problems are now wonderfully mundane instead of life-threatening.
 
 For full scene-level detail (the injury sequence, the conversation, how each career transition unfolds), read the rest of this file.
@@ -103,4 +103,4 @@ For full scene-level detail (the injury sequence, the conversation, how each car
 - “Someone put a historical romance in political theory today.”
 - Their problems have become wonderfully mundane.
 - The same two people, same dynamic, but the scale of what threatens their lives has collapsed.
-- Danger no longer holding either of them together.
+- Danger is no longer the thing holding them together.
