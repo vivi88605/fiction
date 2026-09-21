@@ -21,13 +21,13 @@ Only edit `info/` when the user is explicitly updating canon/worldbuilding — o
 
 Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 
-| File                             | Covers                                                                                                        | Read when...                                                                                            |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `0_Characters.md`                | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast (Jax, Dell, Carol) | Almost any scene with these characters — this is the baseline voice/personality/interiority reference |
-| `0.5_Origin_Backstory.md`        | Origin trauma each carries (Evelyn's past darkness, Victoria's injury/reconstruction) and the guilt/fascination thread tying them together   | Writing about the emotional root of their bond, or scenes referencing the biometric-data/face backstory |
-| `1_Past_Service_Period.md`       | Backstory — military service, how Evelyn & Victoria met, the arc from hostility to found-family               | Writing flashback/backstory scenes or anything needing historical context                               |
-| `2_Present_Typical_Routine.md`   | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                               | Writing present-timeline slice-of-life or job/work scenes                                               |
-| `3_Future_Ordinary_Life.md`      | Endgame arc — the injury that ends their mercenary careers, transition to ordinary civilian life              | Writing later-arc or ending material                                                                    |
+| File                           | Covers                                                                                                                                        | Read when...                                                                                            |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `0_Characters.md`              | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast (Jax, Dell, Carol) | Almost any scene with these characters — this is the baseline voice/personality/interiority reference   |
+| `0.5_Origin_Backstory.md`      | Origin trauma each carries (Evelyn's past darkness, Victoria's injury/reconstruction) and the guilt/fascination thread tying them together    | Writing about the emotional root of their bond, or scenes referencing the biometric-data/face backstory |
+| `1_Past_Service_Period.md`     | Backstory — military service, how Evelyn & Victoria met, the arc from hostility to found-family                                               | Writing flashback/backstory scenes or anything needing historical context                               |
+| `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                                                               | Writing present-timeline slice-of-life or job/work scenes                                               |
+| `3_Future_Ordinary_Life.md`    | Endgame arc — the injury that ends their mercenary careers, transition to ordinary civilian life                                              | Writing later-arc or ending material                                                                    |
 
 The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading 1-2-3 in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
@@ -49,7 +49,7 @@ arc/
 - `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). Read it before generating or revising prose for that beat.
 - Prose is what gets iterated on. Generating a new pass means writing a new `vN.md`, never overwriting an older one — old versions stay as history/rollback points.
 - The current prose version is always whichever `vN.md` has the highest number. No separate `latest`/`current` file to keep in sync.
-- By default, read `outline.md` plus only the latest `vN.md` when working on a beat. Earlier prose versions are history, not required context — open them only if the user asks to compare, revert, or see how a draft evolved.
+- **Do not** read earlier versions prior to generating a new one so every iteration stays fresh and diverse.
 
 ## Adding new settings or info files
 
