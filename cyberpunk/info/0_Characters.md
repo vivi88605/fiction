@@ -19,11 +19,11 @@
 #### Personality
 
 - Cheerful, careless, and jokey; tends to downplay things even when they're bad.
-- Speaks energetically, prone to tangents — she'll jump to something random with no clear lead-in.
+- Speaks energetically, prone to tangents — she'll jump to random topics without any clear lead-in, sometimes bringing up weirdly abstract or philosophical subjects.
 - Her humor is either teasing and narcissistic or sarcastic and dark, depending on her mood and the situation.
+- Short attention span.
 - Poor financial decisions.
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
-- Dates all kinds of people across all genders, but rarely enters an actual relationship.
 - As irresponsible as she might be, she actually takes promises seriously. That's why it's rare for her to promise something.
 - Lying is a last resort for her, reserved for real danger or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
 - Likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
@@ -31,7 +31,7 @@
 
 #### Mental State
 
-- Her mood runs in swings — can't-slow-down energy alternating with crashes that hit with no clear trigger, sometimes right on the heels of a high. None of it has ever been named; she just thinks of it as good days and bad days.
+- Her mood comes in swings — restless, non-stop energy followed by crashes that strike out of nowhere. Unnamed and unexamined, she simply frames it as good days and bad days, and keeps up a cheerful demeanor anyway.
 - Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
@@ -40,7 +40,6 @@
 
 - She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
 - Hums when she's in a good mood; actual singing has been banned by the landlord.
-- She started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
 
 #### Personalized Implants
 
@@ -72,13 +71,14 @@
 #### Personality
 
 - Composed, cautious, and serious most of the time; comes across as hard to approach, which is basically accurate.
+- Speaks precisely and sparingly; only talks when she has something to say. She keeps basic politeness intact unless her patience runs out.
+- Avoids swearing on principle, though she slips occasionally under stress.
+- Short-tempered, but she rarely shows it.
+- Her words can be sharp, but her actions are gentle.
 - Always looks tired.
-- Speaks precisely and sparingly; only talks when she has something to say. Avoids swearing on principle, though she slips occasionally under stress.
 - Notices things before they become emergencies and acts on it early, even when overruled.
 - Good at keeping herself functioning even when she's mentally in an actual crisis.
-- Short-tempered, although she rarely shows it.
 - Highly disciplined; keeps up routines regardless of how she feels that day.
-- Her words can be sharp, but her actions are gentle.
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
 - Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
 - Night person but wake up at morning regardless.
@@ -92,7 +92,7 @@
 
 #### Hobbies
 
-- Enjoys reading (specifically novels — not shows or movies); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it. (Evelyn knows she's reading when she stares into the void for too long.)
+- Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it. (Evelyn knows she's reading when she stares into the void for too long.)
 - She may or may not have been writing her own novel, but she won't admit it. She barely lets people know what she's reading to begin with.
 
 #### Personalized Implants
@@ -105,8 +105,6 @@
 - Trains daily without fail, regardless of how she's feeling.
 
 ### Relationship
-
-#### Dynamic
 
 - Platonic, found-family dynamic. They've known each other for years and have lived together ever since they left the unit.
 
@@ -128,18 +126,21 @@
 - Alongside the vitals monitor, they kept a passive location ping running between them at all times — both systems quietly repurposed to report only to each other once neither of them was tied to the unit anymore.
 - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
-#### Notes
+### Notes
 
 - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
   - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
 - Victoria knows Evelyn is secretly gloomy — not every detail, but enough. She rarely brings it up since Evelyn would just deflect, and the trend has been improving, so she doesn't want to poke at it. It's part of why she quietly reads Evelyn's recklessness as self-neglect rather than just stupidity.
   - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
 - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
+- They're both stubborn and don't like inconveniencing people.
 
 #### Trivia
 
 - They split bills and share chore duties, but Evelyn hates doing chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
 - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, she comes back with too many nutritionally or functionally questionable purchases.
+- Evelyn dates all kinds of people across all genders, but rarely enters an actual relationship.
+- Evelyn started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
 
 ## Side Cast
 
