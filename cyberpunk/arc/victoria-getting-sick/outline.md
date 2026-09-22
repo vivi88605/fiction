@@ -7,8 +7,6 @@
 **Worst-point effects:** Severe dizziness, weakness, cognitive slowing, poor judgment, and mild confusion
 Victoria is aware from the beginning that the illness may be contagious. She tries to reduce Evelyn's exposure by isolating in her room, minimizing shared-space use, and handling as much of her own care as possible. This starts as reasonable caution, but as Victoria becomes weaker, infection control gradually becomes one more justification for refusing help she increasingly needs.
 
-Their linked vitals implants make each person's readings available to the other, but they are not constant caregiver alarms. Fever and an elevated pulse within the expected range for an illness do not automatically wake or notify Evelyn. A sudden, severe blood-pressure drop can cross the emergency threshold, however, allowing the established system to matter when Victoria collapses without preventing the deterioration that leads to it.
-
 ---
 
 ## Day 1 — Manageable
@@ -73,6 +71,7 @@ Their linked vitals implants make each person's readings available to the other,
   - **Victoria:** unnecessary help means unnecessary exposure.
   - **Evelyn:** infection precautions stop being useful if Victoria hurts herself trying to avoid being helped.
 - Victoria is feverish and irritable but still cognitively competent enough to be responsible for what she says.
+- She knows distantly that part of her frustration comes from knowing Evelyn is secretly worried about her. But she is too tired to acknowledge it.
 
 ### Argument
 
@@ -85,22 +84,23 @@ Their linked vitals implants make each person's readings available to the other,
 - Evelyn argues that they already share an apartment and she is going to check on her anyway.
 - Victoria correctly points out that prior exposure does not make further exposure irrelevant.
 - The argument stops being purely practical.
-- Victoria snaps at Evelyn for joking / not taking the contagion risk seriously.
+- Victoria snaps at Evelyn for not taking the contagion risk seriously.
+  - She's also aware that Evelyn genuinely doesn't care if she catches it too, which only fuels her anger further.
 - Finally: **“Would you please stop?”**
-- Evelyn backs off, hurt and irritated.
-- The empty container remains beside Victoria's bed. Victoria fully intends to refill it shortly, but falls asleep before doing so.
+- Evelyn backs off hurt.
 - Victoria realizes she was unfair but does not have the energy or emotional bandwidth to repair it immediately.
-  **Emotional consequence:** asking Evelyn for help is now harder, because Victoria has explicitly told her to stop checking on her.
+- The empty container remains beside Victoria's bed. Victoria intends to refill it shortly, but falls asleep before doing so.
+- **Emotional consequence:** asking Evelyn for help is now harder, because Victoria has explicitly told her to stop checking on her.
 
 ---
 
 ## Night 2 — Deterioration
 
 - Victoria sleeps for several hours.
+- She wakes very thirsty, weak, foggy, and dizzy.
 - Fever remains high.
 - Dehydration and low blood pressure have worsened.
-- She wakes very thirsty, weak, foggy, and dizzy.
-- The water beside her is still empty, making the unresolved object from the argument an immediate practical problem.
+- The water beside her is still empty.
 - She considers waking Evelyn.
 - She decides against it for three reasons:
   1. She still believes she can get the water herself.
@@ -115,10 +115,9 @@ Their linked vitals implants make each person's readings available to the other,
 - Reaches the kitchen and gets water.
 - On standing/moving again, her blood pressure drops badly.
 - Vision dims / balance goes / legs stop cooperating.
-- She spills the water and ends up on the floor.
+- She ends up on the floor.
 - The sudden blood-pressure drop pushes her vitals past the implant's emergency threshold. The alert reaches Evelyn at roughly the same time as the sound of the spill.
-- She remains conscious.
-- Initially treats it as a temporary setback:
+- She initially treats it as a temporary setback:
   - waits
   - tries to stand
   - fails
@@ -128,28 +127,28 @@ Their linked vitals implants make each person's readings available to the other,
 
 ### Evelyn Finds Her
 
-- Evelyn wakes from the vitals alert and the noise.
-- The location ping confirms that Victoria is motionless in the kitchen rather than in bed.
+- Evelyn wakes from the vitals alert.
 - Finds Victoria on the kitchen floor.
 - Victoria's first concern is still contagion:
   - **“Don't.”**
   - **“You'll catch it.”**
-- Evelyn realizes Victoria is still trying to protect her while being unable to stand.
+- Evelyn realizes Victoria is still trying to protect her.
+- Evelyn asks whether she can stand.
 - Victoria initially insists she can get up.
 - She tries and fails.
-- Evelyn asks whether she can stand.
 - After a pause, Victoria finally admits:
   - **“…No.”**
 - This is the point where her threshold for accepting physical assistance breaks.
 - Evelyn helps her up.
 - Victoria cannot walk reliably even with assistance and has to put significant weight on Evelyn.
-- Evelyn gets her back to bed.
+- Evelyn initially intends to get her back to bed.
+- Evelyn realized she might have to contact Jax, and ended up carrying her to a couch in their living room.
 
 ---
 
 ## Late Night 2 / Early Day 3 — Home Care Stops Being Enough
 
-- Evelyn checks Victoria properly.
+- Evelyn checks Victoria's vitals properly.
 - The combination is now concerning:
   - persistent fever
   - significant dehydration
@@ -157,13 +156,15 @@ Their linked vitals implants make each person's readings available to the other,
   - poor intake
   - severe weakness
   - worsening cognitive slowing / mild confusion
-- Evelyn contacts Jax.
+- Evelyn calls Jax.
+  - "I know what time it is,"
+  - "No, nobody's shot. Nobody's shot, listen—"
 - She gives him both what she can observe and the recent trend from Victoria's vitals monitor.
 - Jax decides she has crossed the threshold for home care.
 - Victoria initially argues that moving her is unnecessary.
 - Jax asks simple orientation questions, then asks Victoria how much she has drunk and when.
-- Victoria gives a confident answer that does not fit the still-full drinks, the empty bedside container, or the trend in her vitals.
-- When asked to verify the sequence, she cannot reconstruct it. She also gets something obvious wrong — the date, time, or something she was just told.
+- Victoria gives a confident answer that does not fit the trend in her vitals.
+- When asked to verify the sequence, she cannot reconstruct it. She also gets something obvious wrong — the date, time, something she was just told.
 - Faced with information she cannot reconcile or independently verify, she realizes that her own assessment is no longer reliable.
 - She stops resisting the decision.
 
@@ -173,7 +174,6 @@ Their linked vitals implants make each person's readings available to the other,
 
 - Flu itself remains the underlying illness; dehydration and hypotension are what pushed her into needing clinical care.
 - Jax treats the dehydration, manages the fever, and monitors her.
-- The kitchen collapse remains the physical climax. The clinic is the sustained aftermath rather than a second, larger medical emergency.
 - Victoria reaches her physical and cognitive low point:
   - sleeps constantly
   - cannot stand without help
@@ -185,9 +185,10 @@ Their linked vitals implants make each person's readings available to the other,
   - mild disorientation
 - She has too little energy and cognitive bandwidth left to regulate herself normally.
 - Earlier irritability gives way to exhausted compliance.
-- The dramatic focus shifts to Evelyn having to remain beside her with nothing immediate left to fight or fix.
+- She drifts in and out, looking for Evelyn every time she surfaces.
+- She wakes up weeping once, when Evelyn tries to comfort her, she quietly leaning toward her.
+- Evelyn having to remain beside her with nothing immediate left to fight or fix.
 - Evelyn's humor becomes increasingly thin as she gets frightened.
-- If Victoria fails to respond to a joke or question immediately, Evelyn's tone drops from teasing to an unguarded **“Vic?”**
 
 ---
 
@@ -204,8 +205,10 @@ Their linked vitals implants make each person's readings available to the other,
   - being unable to stand
   - Evelyn finding her
   - needing to be moved to Jax's clinic
+  - waking up from a dream she couldn't remember
 - Her embarrassment returns before her strength does.
 - She is now fully capable of understanding how dependent she still is, which is its own frustration.
+- She feels like an idiot.
 
 ---
 
@@ -243,26 +246,24 @@ Their linked vitals implants make each person's readings available to the other,
   - Evelyn: “Want me to get that?”
   - Victoria almost says no.
   - Pauses.
-  - **“…Actually, yes. Thanks.”**
-    The change is deliberately small. Victoria does not suddenly enjoy being cared for; she simply becomes slightly better at acknowledging need before reaching complete incapacity.
+  - **“…Yes. Thanks.”**
+- The change is deliberately small. Victoria does not suddenly enjoy being cared for; she simply becomes slightly better at acknowledging need before reaching complete incapacity.
 
 ---
 
 ## Apology
 
 - Once Victoria has enough energy for a real conversation, she addresses the argument.
-- She does not apologize for being concerned about infecting Evelyn.
-- She does apologize for turning that concern and her frustration into hostility toward Evelyn.
-- Approximate emotional point:
-  - **“I was right to be concerned about exposing you. I wasn't right to take it out on you every time you tried to help.”**
+- She apologize for turning her concern and frustration into hostility toward Evelyn.
+- Her point:
+  - She was right to be concerned about exposing Evelyn.
+  - She wasn't right to take it out on Evelyn every time she tried to help.
 - Evelyn accepts the apology and almost certainly ruins the seriousness with a joke.
 - Victoria having enough energy to glare properly is reassuring.
 
 ---
 
-# Coda — Evelyn Gets Sick
-
-## A Few Days Later
+## Coda — Evelyn Gets Sick
 
 - Victoria is mobile again but still recovering.
 - Evelyn develops the first symptoms after her exposure during Victoria's illness.
@@ -271,14 +272,5 @@ Their linked vitals implants make each person's readings available to the other,
 - Victoria looks up immediately.
 - Evelyn attempts her own version of “I'm functional, therefore I'm fine.”
 - Victoria recognizes the maneuver immediately.
-
-### Optional Final Beat
-
-- Evelyn reaches for something from the couch/bed and visibly decides getting up is too much.
-- Victoria notices but waits instead of immediately moving.
-- Evelyn glances at her.
-  **Evelyn:** “Can you get that?”
-  Victoria gets it without comment.
-  After a beat:
-  **Victoria:** “See? That wasn't difficult.”
+- She also recognizes that her overcaution likely backfired, causing a worse exposure that resulted in this. She almost feels like laughing at their shared stubbornness.
 - End on their usual dynamic restored, but with communication marginally better than before.

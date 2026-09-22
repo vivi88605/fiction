@@ -19,7 +19,7 @@
 #### Personality
 
 - Cheerful, careless, and jokey; tends to downplay things even when they're bad.
-- Speaks energetically, prone to tangents — she'll jump to random topics without any clear lead-in, sometimes bringing up weirdly abstract or philosophical subjects.
+- Speaks energetically, prone to tangents — she'll jump to random topics without any clear lead-in.
 - Her humor is either teasing and narcissistic or sarcastic and dark, depending on her mood and the situation.
 - Short attention span.
 - Poor financial decisions.
@@ -81,7 +81,7 @@
 - Highly disciplined; keeps up routines regardless of how she feels that day.
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
 - Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
-- Night person but wake up at morning regardless.
+- Night person, but she tries to sleep before 1:00 AM and sets her alarm for 8:00 AM.
 
 #### Mental State
 
@@ -92,8 +92,9 @@
 
 #### Hobbies
 
-- Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it. (Evelyn knows she's reading when she stares into the void for too long.)
-- She may or may not have been writing her own novel, but she won't admit it. She barely lets people know what she's reading to begin with.
+- Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it.
+- Prefers digital copies she can read directly via her artificial eyes so that others won't know what she's reading. (Evelyn knows she's reading when she stares into the void for too long.)
+- She may or may not have been writing her own novel, but she won't admit it.
 
 #### Personalized Implants
 
@@ -110,10 +111,11 @@
 
 #### Things they do together
 
-- Sometimes run room-entry drills before bigger jobs, out of old-unit habit.
+- Run room-entry drills before bigger jobs, out of old-unit habit.
 - Practice self-defense together, focused on close range, where Victoria is weakest. Evelyn teaches and wins almost every time.
   - Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
 - Although most of their hobbies are different, They sometimes play video games or watch silly cartoons together. Some of those cartoons turn out to be surprisingly good.
+- Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
 
 #### Standard Implants
 
@@ -137,7 +139,11 @@
 
 #### Trivia
 
+- People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she doesn't mind.
+- Evelyn mostly calls Victoria "Vic", or whatever is within her name: "Victor", "Tori", "Ree", "Ria". Victoria used to object if it was too absurd, but she doesn't bother reacting to it anymore.
+- Victoria sometimes calls Evelyn "Ev" since Evelyn keeps wanting her to call her by a nickname. Most of the time, she still defaults to calling people just by their first name.
 - They split bills and share chore duties, but Evelyn hates doing chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
+- Evelyn names their sweeping robot Jeffery.
 - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, she comes back with too many nutritionally or functionally questionable purchases.
 - Evelyn dates all kinds of people across all genders, but rarely enters an actual relationship.
 - Evelyn started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
