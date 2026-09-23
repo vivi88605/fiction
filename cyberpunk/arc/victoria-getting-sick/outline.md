@@ -19,7 +19,7 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Mostly stays in her room and tries to minimize shared surfaces/contact.
 - Evelyn offers water, food, tea, etc.
 - Victoria politely declines when she can still do things herself.
-- **Help threshold:** “No, thank you. I can get it.”
+- “No, thank you. I can get it.”
 - At this stage, Victoria's judgment is sound and she really is capable of caring for herself.
 
 ### Afternoon / Evening
@@ -37,7 +37,7 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
   - cannot concentrate well enough to read
   - stops checking minor household tasks
 - Getting up begins to produce mild dizziness.
-- Evelyn starts leaving water/food near her rather than repeatedly asking.
+- Evelyn starts leaving water/food near her.
 - Victoria accepts this as practical but continues discouraging Evelyn from staying near her unnecessarily.
 
 ---
@@ -70,8 +70,7 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Their disagreement develops two layers:
   - **Victoria:** unnecessary help means unnecessary exposure.
   - **Evelyn:** infection precautions stop being useful if Victoria hurts herself trying to avoid being helped.
-- Victoria is feverish and irritable but still cognitively competent enough to be responsible for what she says.
-- She knows distantly that part of her frustration comes from knowing Evelyn is secretly worried about her. But she is too tired to acknowledge it.
+- Victoria knows distantly that part of her frustration comes from knowing Evelyn is secretly worried about her, which makes her feel bad. But she is too tired to acknowledge it.
 
 ### Argument
 
@@ -86,9 +85,10 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - The argument stops being purely practical.
 - Victoria snaps at Evelyn for not taking the contagion risk seriously.
   - She's also aware that Evelyn genuinely doesn't care if she catches it too, which only fuels her anger further.
-- Finally: **“Would you please stop?”**
+- **“Would you please stop?”**
 - Evelyn backs off hurt.
 - Victoria realizes she was unfair but does not have the energy or emotional bandwidth to repair it immediately.
+  - Victoria is feverish and irritable but still cognitively clear enough to be responsible for what she says.
 - The empty container remains beside Victoria's bed. Victoria intends to refill it shortly, but falls asleep before doing so.
 - **Emotional consequence:** asking Evelyn for help is now harder, because Victoria has explicitly told her to stop checking on her.
 
@@ -104,8 +104,8 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - She considers waking Evelyn.
 - She decides against it for three reasons:
   1. She still believes she can get the water herself.
-  2. She does not want to reverse herself immediately after telling Evelyn to stop hovering.
-  3. She does not want to bring Evelyn into close contact unnecessarily.
+  2. She does not want to bring Evelyn into close contact unnecessarily.
+  3. She does not want to reverse herself immediately after telling Evelyn to stop hovering.
 - Going herself therefore feels responsible rather than reckless.
 
 ### Collapse
@@ -115,19 +115,18 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Reaches the kitchen and gets water.
 - On standing/moving again, her blood pressure drops badly.
 - Vision dims / balance goes / legs stop cooperating.
-- She ends up on the floor.
-- The sudden blood-pressure drop pushes her vitals past the implant's emergency threshold. The alert reaches Evelyn at roughly the same time as the sound of the spill.
-- She initially treats it as a temporary setback:
+- The next thing she registers is her cheek touching the floor tile and water dampening her pants.
+- The sudden blood-pressure drop pushes her vitals past the implant's emergency threshold.
+- Victoria initially treats it as a temporary setback:
   - waits
   - tries to stand
   - fails
   - waits longer
-  - tries again
-- Her cognition is now impaired enough that she does not fully recognize repeated inability to stand as evidence that the situation is no longer manageable.
+- Her cognition is now impaired enough that she does not fully recognize inability to stand as evidence that the situation is no longer manageable.
 
 ### Evelyn Finds Her
 
-- Evelyn wakes from the vitals alert.
+- Evelyn wakes from the vitals alert and the sound of something shattered.
 - Finds Victoria on the kitchen floor.
 - Victoria's first concern is still contagion:
   - **“Don't.”**
@@ -142,11 +141,11 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Evelyn helps her up.
 - Victoria cannot walk reliably even with assistance and has to put significant weight on Evelyn.
 - Evelyn initially intends to get her back to bed.
-- Evelyn realized she might have to contact Jax, and ended up carrying her to a couch in their living room.
+- Evelyn realizes the situation is worse than she thought, ending up carrying her to the living room couch.
 
 ---
 
-## Late Night 2 / Early Day 3 — Home Care Stops Being Enough
+## Home Care Stops Being Enough
 
 - Evelyn checks Victoria's vitals properly.
 - The combination is now concerning:
@@ -170,15 +169,13 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 
 ---
 
-## Day 3 — Jax's Clinic / Low Point
+## Late Night 2 / Early Day 3 — Jax's Clinic / Low Point
 
-- Flu itself remains the underlying illness; dehydration and hypotension are what pushed her into needing clinical care.
 - Jax treats the dehydration, manages the fever, and monitors her.
 - Victoria reaches her physical and cognitive low point:
   - sleeps constantly
   - cannot stand without help
   - becomes dizzy even sitting up too quickly
-  - shaky hands
   - slow responses
   - difficulty following longer conversations
   - occasional repetition / forgetting something just said
@@ -186,9 +183,10 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - She has too little energy and cognitive bandwidth left to regulate herself normally.
 - Earlier irritability gives way to exhausted compliance.
 - She drifts in and out, looking for Evelyn every time she surfaces.
-- She wakes up weeping once, when Evelyn tries to comfort her, she quietly leaning toward her.
 - Evelyn having to remain beside her with nothing immediate left to fight or fix.
 - Evelyn's humor becomes increasingly thin as she gets frightened.
+- She wakes up weeping quietly. When Evelyn clumsily tries to comfort her, she leans toward her hand for a bit.
+- Evelyn stays still for a long time.
 
 ---
 
@@ -212,17 +210,12 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 
 ---
 
-## Day 4 — Home
+## Days 4–6 — Frustrating Recovery
 
 - Once fever, hydration, cognition, and blood pressure are sufficiently stable, Jax lets her go home.
 - Victoria assumes being home means she is nearly functional again.
 - It does not.
 - Evelyn helps her home but deliberately tries not to hover as much.
-
----
-
-## Days 4–6 — Frustrating Recovery
-
 - Victoria repeatedly overestimates what “better” means.
 - Attempts small parts of her normal routine:
   - makes tea
@@ -268,8 +261,6 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Victoria is mobile again but still recovering.
 - Evelyn develops the first symptoms after her exposure during Victoria's illness.
 - Victoria notices before Evelyn admits anything is wrong.
-- Evelyn coughs / shivers / looks unusually tired.
-- Victoria looks up immediately.
 - Evelyn attempts her own version of “I'm functional, therefore I'm fine.”
 - Victoria recognizes the maneuver immediately.
 - She also recognizes that her overcaution likely backfired, causing a worse exposure that resulted in this. She almost feels like laughing at their shared stubbornness.

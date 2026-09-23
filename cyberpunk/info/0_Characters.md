@@ -140,13 +140,14 @@
 #### Trivia
 
 - People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she doesn't mind.
-- Evelyn mostly calls Victoria "Vic", or whatever is within her name: "Victor", "Tori", "Ree", "Ria". Victoria used to object if it was too absurd, but she doesn't bother reacting to it anymore.
+- Evelyn mostly calls Victoria "Vic"—or whatever is hidden in her name when she feels like annoying her: "Victor", "Tori", "Ree", "Ria". Victoria used to object when it was too absurd, but she no longer bothers reacting.
 - Victoria sometimes calls Evelyn "Ev" since Evelyn keeps wanting her to call her by a nickname. Most of the time, she still defaults to calling people just by their first name.
 - They split bills and share chore duties, but Evelyn hates doing chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
 - Evelyn names their sweeping robot Jeffery.
 - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, she comes back with too many nutritionally or functionally questionable purchases.
 - Evelyn dates all kinds of people across all genders, but rarely enters an actual relationship.
 - Evelyn started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
+- Victoria is a quiet crier when drunk. However, she rarely drinks, let alone enough to reach that stage.
 
 ## Side Cast
 
