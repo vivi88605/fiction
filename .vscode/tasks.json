@@ -1,0 +1,51 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Read aloud (neural)",
+      "detail": "Render the open file with edge-tts and open the mp3 in VS Code",
+      "type": "shell",
+      "command": "python",
+      "args": [".vscode/read_aloud.py", "${file}", "${input:ttsVoice}", "${input:ttsRate}"],
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Read aloud (instant, robotic)",
+      "detail": "Windows SAPI voice, no rendering wait, no seek bar",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "Add-Type -AssemblyName System.Speech; $s = New-Object System.Speech.Synthesis.SpeechSynthesizer; $s.SelectVoice('Microsoft Zira Desktop'); $s.Rate = 1; $s.Speak((Get-Content -Raw '${file}'))"
+      ],
+      "presentation": { "reveal": "silent", "panel": "dedicated" },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "ttsVoice",
+      "type": "pickString",
+      "description": "Voice",
+      "default": "en-US-BrianNeural",
+      "options": [
+        "en-US-AvaNeural",
+        "en-US-EmmaNeural",
+        "en-US-AndrewNeural",
+        "en-US-BrianNeural",
+        "en-GB-SoniaNeural",
+        "en-GB-RyanNeural",
+        "en-AU-NatashaNeural"
+      ]
+    },
+    {
+      "id": "ttsRate",
+      "type": "pickString",
+      "description": "Speed",
+      "default": "+0%",
+      "options": ["-25%", "-10%", "+0%", "+10%", "+25%"]
+    }
+  ]
+}
