@@ -88,7 +88,6 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - **“Would you please stop?”**
 - Evelyn backs off hurt.
 - Victoria realizes she was unfair but does not have the energy or emotional bandwidth to repair it immediately.
-  - Victoria is feverish and irritable but still cognitively clear enough to be responsible for what she says.
 - The empty container remains beside Victoria's bed. Victoria intends to refill it shortly, but falls asleep before doing so.
 - **Emotional consequence:** asking Evelyn for help is now harder, because Victoria has explicitly told her to stop checking on her.
 
