@@ -24,7 +24,7 @@
 - Short attention span.
 - Poor financial decisions.
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
-- As irresponsible as she might be, she actually takes promises seriously. That's why it's rare for her to promise something.
+- As irresponsible as she seems, she actually takes promises seriously. That's why she rarely promises anything.
 - Lying is a last resort for her, reserved for real danger or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
 - Likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
 - Night person. She gets up at whatever time she feels like, anywhere from morning to afternoon.
@@ -34,17 +34,19 @@
 - Her mood comes in swings — restless, non-stop energy followed by crashes that strike out of nowhere. Unnamed and unexamined, she simply frames it as good days and bad days, and keeps up a cheerful demeanor anyway.
 - Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
+- She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
 #### Hobbies
 
 - She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
 - Hums when she's in a good mood; actual singing has been banned by the landlord.
+  - Her singing is actually decent; it's just too loud. She sings everything like she's singing some military anthem.
 
 #### Personalized Implants
 
-- Right artificial eye.
 - Reflex booster, standard issue for breachers.
+- Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
 - Her joints were never reinforced or replaced — standard reinforcement or joint replacement costs agility. A version that preserves full agility exists, but it's priced well outside a merc's income.
 - She has no problems about replacing her body parts, as long as it's stronger or "cooler" — the only thing stopping her from going full-body cyborg is money.
@@ -98,7 +100,7 @@
 
 #### Personalized Implants
 
-- Both eyes are artificial, replaced after the injury that cost her the original face.
+- Both eyes are artificial, replaced after the injury that cost her the original face at 18.
 
 #### Specialty
 
@@ -107,7 +109,9 @@
 
 ### Relationship
 
-- Platonic, found-family dynamic. They've known each other for years and have lived together ever since they left the unit.
+- Platonic, found-family dynamic.
+- They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean.
+- They've lived together ever since they left CEF.
 
 #### Things they do together
 
@@ -126,7 +130,8 @@
   - Vitals monitor.
   - Adrenal regulator.
 - Alongside the vitals monitor, they kept a passive location ping running between them at all times — both systems quietly repurposed to report only to each other once neither of them was tied to the unit anymore.
-- Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
+  - The vitals monitor only alerts the other person when it exceeds a certain threshold. They can't just look up each other's data freely—for privacy's sake.
+  - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
 ### Notes
 
@@ -139,14 +144,15 @@
 
 #### Trivia
 
-- People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she doesn't mind.
+- People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she likes nicknames.
 - Evelyn mostly calls Victoria "Vic"—or whatever is hidden in her name when she feels like annoying her: "Victor", "Tori", "Ree", "Ria". Victoria used to object when it was too absurd, but she no longer bothers reacting.
 - Victoria sometimes calls Evelyn "Ev" since Evelyn keeps wanting her to call her by a nickname. Most of the time, she still defaults to calling people just by their first name.
 - They split bills and share chore duties, but Evelyn hates doing chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
 - Evelyn names their sweeping robot Jeffery.
+- Evelyn started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
 - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, she comes back with too many nutritionally or functionally questionable purchases.
 - Evelyn dates all kinds of people across all genders, but rarely enters an actual relationship.
-- Evelyn started learning 3D modeling after buying a ridiculously high-end 3D printer, but failed to finish the tutorial three times.
+- Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.
 - Victoria is a quiet crier when drunk. However, she rarely drinks, let alone enough to reach that stage.
 
 ## Side Cast

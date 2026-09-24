@@ -126,7 +126,7 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 
 ### Evelyn Finds Her
 
-- Evelyn wakes from the vitals alert and the sound of something shattered.
+- Evelyn wakes from the vitals alert.
 - Finds Victoria on the kitchen floor.
 - Victoria's first concern is still contagion:
   - **“Don't.”**
@@ -182,10 +182,10 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
   - mild disorientation
 - She has too little energy and cognitive bandwidth left to regulate herself normally.
 - Earlier irritability gives way to exhausted compliance.
-- She drifts in and out, looking for Evelyn every time she surfaces.
+  - Whenever Victoria collapses, it tends to be severe—the direct result of maintaining high functionality at a high internal cost.
 - Evelyn having to remain beside her with nothing immediate left to fight or fix.
 - Evelyn's humor becomes increasingly thin as she gets frightened.
-- She wakes up weeping quietly. When Evelyn clumsily tries to comfort her, she leans toward her hand for a bit.
+- Victoria wakes up weeping quietly. When Evelyn clumsily tries to comfort her, she leans toward her hand for a bit.
 - Evelyn stays still for a long time.
 
 ---
@@ -215,8 +215,6 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
 - Once fever, hydration, cognition, and blood pressure are sufficiently stable, Jax lets her go home.
 - Victoria assumes being home means she is nearly functional again.
 - It does not.
-- Evelyn helps her home but deliberately tries not to hover as much.
-- Victoria repeatedly overestimates what “better” means.
 - Attempts small parts of her normal routine:
   - makes tea
   - tidies something
@@ -240,7 +238,7 @@ Victoria is aware from the beginning that the illness may be contagious. She tri
   - Victoria almost says no.
   - Pauses.
   - **“…Yes. Thanks.”**
-- The change is deliberately small. Victoria does not suddenly enjoy being cared for; she simply becomes slightly better at acknowledging need before reaching complete incapacity.
+- The change is deliberately small. Victoria simply becomes slightly better at acknowledging need before reaching complete incapacity.
 
 ---
 
