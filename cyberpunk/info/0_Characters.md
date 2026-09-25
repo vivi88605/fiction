@@ -100,7 +100,7 @@
 
 #### Personalized Implants
 
-- Both eyes are artificial, replaced after the injury that cost her the original face at 18.
+- Both eyes are artificial, replaced after the injury that cost her the upper half of her original face at 18.
 
 #### Specialty
 
@@ -136,6 +136,7 @@
 ### Notes
 
 - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
+  - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
   - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
 - Victoria knows Evelyn is secretly gloomy — not every detail, but enough. She rarely brings it up since Evelyn would just deflect, and the trend has been improving, so she doesn't want to poke at it. It's part of why she quietly reads Evelyn's recklessness as self-neglect rather than just stupidity.
   - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
