@@ -33,6 +33,7 @@
 
 - Her mood comes in swings — restless, non-stop energy followed by crashes that strike out of nowhere. Unnamed and unexamined, she simply frames it as good days and bad days, and keeps up a cheerful demeanor anyway.
 - Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
+- The downplaying is mostly for other people's sake: she doesn't want anyone worrying about her. She often aims her jokes at making someone else feel better, and keeps the ones that would land wrong to herself.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
 - She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.

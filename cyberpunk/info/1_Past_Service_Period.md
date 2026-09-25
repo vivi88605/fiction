@@ -41,6 +41,8 @@ For full scene-level detail (the meeting, dialogue beats, how the friendship act
 ### Rough Timeline
 
 - Training: age 15–18, academy track rather than boot camp — replaces normal schooling.
+  - Training sections are named by gem-cutting stage, not by gem: _Rough_ + number for the general academy years, _Facet_ + number for the specialty year. A recruit only gets a gem-numbered squad on assignment. In the corp's framing, nobody gets a gem until they're finished being cut.
+  - Evelyn's specialty-year section: Facet Four.
   - Two years general academy: education, physical conditioning, ideological indoctrination.
   - One year specialty track (age 17–18): role-specific certification. This is where their paths first diverge before shipping out together.
     - Standard package (spine/neck reinforcement, selective bone reinforcement, comm implant, vitals monitor, adrenal regulator) installed early in this year, alongside role-specific implants.
