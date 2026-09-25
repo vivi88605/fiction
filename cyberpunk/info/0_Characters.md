@@ -154,6 +154,7 @@
 - Evelyn dates all kinds of people across all genders, but rarely enters an actual relationship.
 - Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.
 - Victoria is a quiet crier when drunk. However, she rarely drinks, let alone enough to reach that stage.
+- Victoria completely lacks a sense of fashion. Evelyn, on the other hand, takes care of buying clothes for both of them, which is why they end up with over 20 different kinds of jackets in their apartment.
 
 ## Side Cast
 
