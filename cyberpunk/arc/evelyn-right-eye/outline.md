@@ -1,4 +1,4 @@
-# Evelyn Right Eye Arc — Plot Beats
+# Her Right Eye — Plot Beats
 
 ## Setup
 
@@ -108,12 +108,11 @@
 ## Retraining
 
 - Back in the shoot house. Mira's hands shake on the trigger whenever Evelyn is the one at the door.
-- Mira can't look at Evelyn's right eye. Her gaze slides to the left one every time.
+- Mira can't look at Evelyn's eyes. Her gaze slides down every time.
 - Evelyn asks for a different pair partner "so Mira can relax." She frames it as a kindness, and it is one. It's also a relief, and she doesn't examine that.
 - At the door with the new partner, the thought arrives calmly, almost comfortingly: _worst case, I lose another piece. They'll give me a new one._ She believes it completely.
 - She lets the booster drive and stops bracing. She's faster than she has ever been.
 - Instructors: _whatever they did to that booster, it worked._ Her flinch is gone, and they log it as a calibration success. Nobody, Evelyn included, reads it any other way.
-- She starts browsing the implant catalog on breaks, the things she can't afford yet. It's the first sign of the canon attitude: body parts are fine to replace as long as the new ones are stronger or cooler.
 
 ---
 
@@ -122,7 +121,7 @@
 - Graduation at 18 and assignments. Mira is posted to a different squad.
 - Mira: _promise you'll write?_ Evelyn: _obviously._ She doesn't say _promise_. (Canon: she takes promises seriously, which is why she rarely makes them.)
 - Facet Four gets its assignments. Evelyn is posted to Cateye Seven.
-- She reads it twice, and the joke comes right away: _Lost an eye, got a Cateye. Upgrade._ It's the same line she gave herself at the mirror, now as a punchline. She keeps it to herself, because out loud it would land on Mira.
+- She reads it twice, and the joke comes right away: _CatEYE Seven, you've got to be kidding me,_ She keeps it to herself, because out loud it would land on Mira.
 - Mira reads the posting over her shoulder, glances at Evelyn's right eye, and goes quiet. Evelyn grins and starts talking about something else.
 - Final beat: at the transit point she walks past a reflective window, catches herself in it. She still can't tell which one is fake, and she has decided it doesn't matter. It's just a part.
 - Hand-off: a few months later, someone else is walking around with the face she sold. (Not stated in the arc. It sets up the meeting in `1_Past_Service_Period.md`.)

@@ -1,4 +1,4 @@
-# Victoria False Intel Arc — Plot Beats
+# The False Intel — Plot Beats
 
 ## Setup
 
