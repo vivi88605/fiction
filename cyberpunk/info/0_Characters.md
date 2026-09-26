@@ -38,6 +38,13 @@
 - She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
+#### Backstory
+
+- Years ago, back in the unit, she was in a much darker place — secretly seeking out pain, didn't care whether she woke up the next day. None of it showed; she was exactly this cheerful and jokey on the surface then too.
+- Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying.
+- But the recovery isn't clean: the swings between restless highs and crashes that come from nowhere are the current shape of what used to be flat gloom.
+- Her self-preservation instinct may or may not have been lost along with her right eye. She isn't sure and genuinely doesn't care anymore.
+
 #### Hobbies
 
 - She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
@@ -93,6 +100,13 @@
 - She gauges how much someone matters to her by whether she catches herself bracing for their death. She can't afford to do that for many people, so she doesn't let many people in.
 - She wants to protect the life she's built, but after this many years the merc work is what she knows — the skills, the income, the instincts. An ordinary job doesn't feel safer, it feels like starting over with nothing to fall back on. She hasn't raised this with Evelyn.
 
+#### Backstory
+
+- During her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
+- Concord had no scan of her original face on file. The unit's reconstruction contract went to the cheapest provider available, who filled in the missing upper half using purchased biometric template data that was simply close enough, rather than rebuilding her actual features. It just happened to be data Evelyn had sold off long before the two of them ever met.
+- She went in knowing she'd come out with a slightly different face and believing she'd be fine with that. She wasn't.
+- She came out of it wearing a stranger's face and a lasting refusal to trust information she hasn't verified herself.
+
 #### Hobbies
 
 - Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it.
@@ -133,6 +147,11 @@
 - Alongside the vitals monitor, they kept a passive location ping running between them at all times — both systems quietly repurposed to report only to each other once neither of them was tied to the unit anymore.
   - The vitals monitor only alerts the other person when it exceeds a certain threshold. They can't just look up each other's data freely—for privacy's sake.
   - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
+
+#### How They Met
+
+- The scan sale and Victoria's reconstruction both happened before the two of them ever met. Evelyn had no idea what her sold data had been used for until she ran into a stranger looking suspiciously familiar.
+- That's exactly why Evelyn wouldn't leave Victoria alone once they crossed paths. Evelyn already bothers everyone indiscriminately, but finding someone walking around with her own face was impossible for her to ignore — equal parts guilt, and the morbid fascination of someone else "having it" now. Victoria's guardedness never stood a chance against that combination.
 
 ### Notes
 
