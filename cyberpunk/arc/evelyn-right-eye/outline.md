@@ -91,7 +91,8 @@
 - She asks whether it can do thermal, zoom, a glowing iris. It's standard issue, so no; anything more costs extra. She jokes about it and resolves to be rich someday.
 - The last step: _honestly? Kind of an upgrade._ This time she isn't saying it for anyone else.
 - The replacement cost goes onto her implant debt, which clears at four years of service. _I owe the corp an eye now._
-- The tech matches the iris color from her left eye. In the mirror, she looks for a long time and can't tell which eye is the real one.
+- Standard issue comes in one blue. It's close to her left eye, but brighter and more saturated, and too even. Across a room nobody would notice. Up close it looks manufactured.
+- In the mirror, she looks for a long time. She can tell which eye is the real one right away, and she likes it. It looks like a part, which is what it is.
 - She finds that funny. She winks at herself with the right one.
 
 ---
@@ -123,7 +124,7 @@
 - Facet Four gets its assignments. Evelyn is posted to Cateye Seven.
 - She reads it twice, and the joke comes right away: _CatEYE Seven, you've got to be kidding me,_ She keeps it to herself, because out loud it would land on Mira.
 - Mira reads the posting over her shoulder, glances at Evelyn's right eye, and goes quiet. Evelyn grins and starts talking about something else.
-- Final beat: at the transit point she walks past a reflective window, catches herself in it. She still can't tell which one is fake, and she has decided it doesn't matter. It's just a part.
+- Final beat: at the transit point she walks past a reflective window, catches herself in it. From this distance the two eyes match. Up close they don't, and she has decided it doesn't matter. It's just a part.
 - Hand-off: a few months later, someone else is walking around with the face she sold. (Not stated in the arc. It sets up her later meeting with Victoria.)
 
 ---
@@ -140,7 +141,7 @@
 | Rounding-off         | Done _to_ her: the threat shrinks step by step until it's gone | Done _by_ her: the loss shrinks step by step until it's "just an eye" |
 | Review outcome       | "No further action": the injustice                             | Closes the way she wanted: the kindness                               |
 | Records              | Pulls them and finds the truth                                 | Refuses the trace; looking would make it a big deal again             |
-| Mirror               | Looks once, never again                                        | Looks constantly; can't tell which eye is fake, and it doesn't matter |
+| Mirror               | Looks once, never again                                        | Looks constantly; the fake eye shows up close, and she likes that    |
 | Relationship to body | Can't accept the replaced part                                 | Accepts it so completely that every part becomes replaceable          |
 | Ends with            | A rule: _intel is a claim, not a fact_                         | A belief: _it's just a part_                                          |
 

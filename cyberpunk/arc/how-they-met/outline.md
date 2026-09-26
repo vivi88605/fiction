@@ -29,6 +29,8 @@
 - Evelyn is fascinated.
 - Victoria is horrified and furious.
 - The resemblance is not exact enough that strangers instantly mistake them for each other, but once pointed out it is unmistakable.
+- Up close at the glass, the eyes: Victoria's two and Evelyn's right are the same standard-issue blue, saturated and obviously manufactured. Three of the four eyes in the reflection match. The odd one out is Evelyn's natural left eye.
+- Evelyn notices first and is delighted. Victoria notices a second later and it makes things worse: it's the one detail that isn't a coincidence of templates, just two people who both lost eyes to the same service.
 - Evelyn, attempting to lighten the mood: “On the bright side, excellent taste.”
 - Victoria: “Leave me alone.”
 - Evelyn does not leave her alone.

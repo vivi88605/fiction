@@ -55,6 +55,7 @@
 
 - Reflex booster, standard issue for breachers.
 - Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
+  - A brighter and more saturated blue that looks artificial up close.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
 - Her joints were never reinforced or replaced — standard reinforcement or joint replacement costs agility. A version that preserves full agility exists, but it's priced well outside a merc's income.
 - She has no problems about replacing her body parts, as long as it's stronger or "cooler" — the only thing stopping her from going full-body cyborg is money.
@@ -116,6 +117,7 @@
 #### Personalized Implants
 
 - Both eyes are artificial, replaced after the injury that cost her the upper half of her original face at 18.
+  - The same saturated, artificial-looking blue as Evelyn's right eye. Her biological eyes had been a little greener.
 
 #### Specialty
 

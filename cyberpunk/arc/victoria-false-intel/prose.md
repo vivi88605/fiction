@@ -330,9 +330,9 @@ That was worse than anything else. She couldn't disown it. If it had been all so
 
 And the eyes were blue.
 
-Hers had been blue too. Mostly. A little greener than this, especially in daylight — a shade no one had ever remarked on, that she'd never thought about once in eighteen years. These were a clean, clear blue, calibrated to match a template. The difference was so slight that nobody else alive would ever notice it.
+Hers had been blue too. Mostly. A little greener than this, especially in daylight — a shade no one had ever remarked on, that she'd never thought about once in eighteen years. These were standard issue: a saturated, even blue with no flecks in it and no darker ring at the edge, the blue of something that came out of a box. Half the ward had eyes like these. Nobody would ever look at them twice.
 
-She noticed it. It was the only thing she could see.
+She did. It was the only thing she could see.
 
 She stood at the sink for a long time. She didn't touch the face. She didn't cry, because she didn't know how that would work anymore, and she didn't want to find out standing here. She just looked, steadily, the way she'd have looked through a scope at something she needed to remember exactly — the brow, the bridge, the eyes, the blue, the seam she couldn't find.
 

@@ -464,13 +464,13 @@ _I owe the corp an eye,_ she thought, and liked the sound of it, and said it to 
 
 ---
 
-The tech matched the iris before they discharged her.
+Before they discharged her, she asked the tech to match the iris.
 
-He brought a little color card up to her left eye and held it there, moving it along, squinting between her and a screen, and then he tapped something and said, "There," and the right eye went slightly warm for a second behind her face.
+"Standard issue comes in one color," he said. He brought a little color card up anyway and held it by her left eye, then by her right, squinting between them like a man pricing paint. "Close, though. Same family. Custom tint's aftermarket."
 
-"That's it?"
+"And aftermarket costs extra."
 
-"That's it. Take a look."
+"Now you're learning. Take a look."
 
 There was a mirror above the sink by the door. She went and stood in front of it.
 
@@ -478,11 +478,11 @@ The face in it was hers. It had the bruised hollow under the right side, going y
 
 She looked at them for a long time.
 
-She tried to find the new one. She'd assumed it would be obvious: a little too shiny, maybe, or a little too still, the pupil a slightly wrong shape, _something._ She leaned in close. She leaned back. She closed the left one and looked at the right, and closed the right and looked at the left, and opened both and looked at both, and she could not tell.
+From where she stood, they matched. She leaned in close, and the right one gave itself away at once. It was blue with the volume turned up, brighter and more saturated than the left, and too even all the way through: no flecks, no darker ring at the edge. It was the blue of something that came out of a box. Next to it, her left eye looked a little washed out. It had never looked washed out before. It had never had anything to compete with.
 
-She could not tell which one was the real one.
+She'd thought finding the fake would take a while. It didn't take any time at all. It sat in her face like a sticker.
 
-That was _funny._ That was the funniest thing that had happened in two weeks. She stood at the sink and grinned at herself, and her reflection grinned back with two identical blue eyes, one of which she owned and one of which was on a payment plan.
+That was _funny._ That was the funniest thing that had happened in two weeks. She stood at the sink and grinned at herself, and her reflection grinned back with one blue eye she owned and one bluer one on a payment plan.
 
 She winked at herself with the right one.
 
@@ -568,7 +568,7 @@ It came calmly. It didn't feel like a revelation or a decision. It came the way 
 
 _Worst case, I lose another piece. They'll give me a new one._
 
-She tested it, the way she'd tested _it's just an eye_ on that first morning. It held. Of course it held. She'd lost an eye and got an eye, and the new one was, if anything, better; she couldn't tell it from the old one; it was on a payment plan. What was a hand? A hand was a part. What was a knee? A part. What was a face? Parts. They had a bay for it. They had a whole bay.
+She tested it, the way she'd tested _it's just an eye_ on that first morning. It held. Of course it held. She'd lost an eye and got an eye, and the new one was, if anything, better; it was bluer than the old one; it was on a payment plan. What was a hand? A hand was a part. What was a knee? A part. What was a face? Parts. They had a bay for it. They had a whole bay.
 
 She believed it completely. It was one of the most comforting things she'd ever thought.
 
@@ -668,9 +668,9 @@ The girl in the glass had a new CEF uniform and a bag and blond hair that needed
 
 Evelyn looked at them for a while.
 
-She still couldn't tell which one was the fake. She'd been checking for two months, in mirrors, in windows, in the backs of spoons. She'd never gotten it right, not once. At first that had been funny, and then it had been interesting, and now, standing in the transit concourse with her gate call coming up on her implant, she found it had become something else. It wasn't funny or interesting anymore. It was just true.
+From this far away, in dark glass, they matched. She knew that if she walked up and put her nose to the window, the right one would give itself away: too bright, too even, the blue of something that came out of a box. She'd been checking for two months, in mirrors, in windows, in the backs of spoons, and it gave itself away every time. At first that had been funny, and then it had been interesting, and now, standing in the transit concourse with her gate call coming up on her implant, she found it had become something else. It wasn't funny or interesting anymore. It was just true.
 
-It didn't matter which one was which. It never had. An eye was an eye. A part was a part. You lost one and they gave you another one, and afterward nobody could tell, not even you, and you walked around in the world exactly the same as before.
+It didn't matter which one was which. It never had. An eye was an eye. A part was a part. You lost one and they gave you another one, a little bluer than the last, and you walked around in the world exactly the same as before.
 
 It was just a part.
 
