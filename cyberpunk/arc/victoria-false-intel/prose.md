@@ -1,0 +1,489 @@
+# The False Intel
+
+## Quiet Sector
+
+The brief said the sector was stabilized, and Victoria had no reason to read it twice.
+
+She read it once, properly, the way the academy had taught her: terrain, sightlines, friendly positions, extraction, threat summary. The threat summary was two lines long. _Residual hostile presence assessed as negligible. Sector designated stabilized as of 0400._ A campaign milestone was attached to the designation in a smaller font, the kind of administrative footnote that meant someone above the squad cared about the date more than the ground. That wasn't her business. Her business was the overwatch position on the east side of the ridge, and the rifle, and the four hundred meters of broken road the squad would be walking down while she watched it.
+
+She checked the rifle instead.
+
+Bolt. Chamber. Magazine seated, magazine pulled, magazine seated again. Scope caps. The windage turret, which she'd zeroed two days ago and checked yesterday and was checking now, because a turret that had been correct yesterday was a claim about yesterday. Battery on the rangefinder. Spare battery. The spare battery's charge. She did it in the same order every time, and when she reached the end she started over at the bolt, and nobody in Garnet Four said anything about it anymore, which she understood to be a kind of acceptance.
+
+She had been with them for four months. She knew them the way she knew the rifle's weight — accurately, and from the outside. Actual was the squad leader, a flat, unhurried voice that never said more than the order needed. Tamber was the medic and talked the most. Brand and Ox walked point and rear. Wicket was the other one, the one who'd been in the squad longest and ran comms, and who sometimes filled a silence on the net with something that was meant to be funny.
+
+"Needle, you awake up there?"
+
+"Yes."
+
+"She's awake," Wicket told the rest of the channel. "Said one whole word. Big day."
+
+Someone laughed. Victoria settled her cheek against the stock and didn't.
+
+It wasn't that the joke was bad. It was that laughing on a live net was noise, and noise was a thing you controlled. She'd said as much once, early, and Tamber had looked at her for a while and then offered her a ration bar — the good kind, the one with the chocolate coating that everyone hoarded — and Victoria had said _no, thank you_, and Tamber had shrugged and eaten it herself. That was most of what Victoria knew about Tamber. She liked the chocolate ones. She shared them.
+
+The overwatch position was a low concrete parapet on the lip of a collapsed service building, chosen off the map for its sightlines. It had excellent sightlines. From it she could see the whole length of the road, the two cross-streets, the rooftops on the far side where anyone with sense would set up if they wanted to shoot at the squad. The parapet came up to about the middle of her face when she was prone. Below that line, concrete. Above it, her eyes, the scope, and the open air.
+
+The brief said cover wasn't the concern. So the position had been picked for what it could see.
+
+She put her eye to the glass and the world narrowed into something she could hold.
+
+That was what she liked about the scope, though she wouldn't have used the word _liked_. Through it, things were exactly where they were. A window frame at three hundred and twelve meters. A dead vehicle at three-eighty. Dust drifting left to right at a speed she could read in the way it moved over the asphalt. The reticle sat on each thing and made it a number, and the numbers didn't argue. She walked the glass along the far rooftops, slow, one section at a time. Empty. Empty. A bird. Empty.
+
+"Garnet moving," Actual said.
+
+Down on the road the squad came into the edge of her view, small and deliberate, spaced correctly. She held them in the bottom of the scope and kept the top of it on the rooftops, and she was thinking — she would remember this later, because she would go over it many times — about wind. There was a slight crosswind coming up from the south that hadn't been in the forecast. She was thinking that she'd have to hold a little right if she had to take a shot at the far rooftops. She was thinking that it was a quiet morning.
+
+The last thing she saw with her own eyes was a window, through glass, at three hundred and twelve meters. There was nothing in it.
+
+## White
+
+There was no sound first.
+
+There was pressure — a hand the size of the whole sky pressing down on her all at once, not from any one direction, pushing the air out of her and the thoughts out of her head. Then white. Not light, exactly. The absence of everything else.
+
+Then the sound arrived, late, as if it had had to travel from very far away to reach her, and it didn't stop when it should have. It kept going. It turned into a ringing that took up all the room in her skull and left nowhere else to stand.
+
+She was on her side. She didn't remember getting there.
+
+Heat, down the left side of her body, as if she were lying too close to something. Grit in her mouth. Dust and the flat metallic taste of — she didn't know of what. Her tongue moved over her teeth and they were all there, and some part of her that was still running the academy checklist noted that: _teeth. Jaw. Mouth._ The concrete was under her cheek. The parapet was still there. She could feel it, rough and warm, against the lower part of her face.
+
+She opened her eyes.
+
+Nothing.
+
+She opened them again — or tried to, or thought she did; she couldn't feel whether anything happened — and there was still nothing. Not dark. Dark was a thing you could see. This was an absence where the world should have been, and the ringing poured into it and filled it up.
+
+Her hands were moving. She noticed them from a distance. They'd found the rifle without her. The right one closed around the grip and the left one found the fore-end, the way they had ten thousand times, and held it. It was the only thing she could feel that made sense.
+
+Inside her head, something was alarming.
+
+It took her a moment to place it. The vitals monitor — the implant, the soft internal tone that was supposed to be for the medic's feed and not for her, except that at a certain threshold it bled through. It was going steadily. _Critical. Critical. Critical._ The system knew she was hurt. It knew before she did. It was telling someone.
+
+Comms. Comms were still in her head too, through the ringing, tinny and overlapping.
+
+"—contact, contact, indirect—"
+
+"—where did that come from—"
+
+"Needle's position, that was Needle's—"
+
+"Tamber, go, go—"
+
+"Wicket, sound off. Wicket."
+
+A gap.
+
+"Wicket, sound off."
+
+She waited for the joke. There should have been a joke. There was always something from Wicket on the net, filling the space.
+
+"Wicket."
+
+Nothing came back. It kept not coming back. Actual said the callsign a third time, and then stopped saying it, and somehow the stopping was worse.
+
+_Report._ The thought surfaced out of her training whole and complete, the way it had been built to. She was overwatch. Overwatch saw. Overwatch told everyone else what it saw — position, direction, count. That was the entire function of the job. She pressed her mouth toward the comm pickup, tasted dust, and opened it.
+
+"Needle," she said. Her voice came out wrong, thick and too loud inside her own head. "Needle. Contact—"
+
+Contact from where. She didn't know. She hadn't seen it. She couldn't see anything.
+
+"Contact—" Direction. She didn't have a direction. She had heat on the left side and that meant nothing. "Position—" Her position. She was at her position. Wasn't she. She didn't know if she'd moved. She didn't know which way the road was. Count — she had no count. She had nothing. She was supposed to produce information and there was none in her. It was all on the far side of that absence.
+
+"Needle, stop talking," someone said. Actual. "We've got your position. Stay down. Stop talking."
+
+She kept trying anyway, for a while. It didn't sound like words by the end.
+
+After that it came in pieces, and the pieces didn't join.
+
+Hands on her. Being turned, which was the first time she knew she could hurt that much. Someone taking the rifle out of her hands and her not letting them, and then letting them. Being lifted. A voice — Tamber — very close to her ear, very calm, saying _I've got you, I've got you, don't talk, Needle, don't try to talk._ Something pressing over the top half of her face, firm, and staying there. A hand on her shoulder that stayed too.
+
+Motion. The loud flat thud of rotors, felt through the frame under her rather than heard.
+
+"The squad," she said, or tried to. "Is everyone—Wicket. Is—"
+
+The hand on her shoulder tightened a little.
+
+Nobody answered her.
+
+Then the dark closed the rest of the way.
+
+## The Dark
+
+She woke and didn't know if she'd woken.
+
+That was the first thing she had to work out. It was the same absence as before — no light, no shapes, no difference between her eyes open and closed, if they were open or closed. The ringing was quieter now, pushed back to the edges. In its place there were sounds she could pick apart: a steady electronic pulse to her right, a ventilation hum above, a door somewhere that sighed on a pneumatic hinge.
+
+A medical facility. She could smell it. She could feel the thin mattress and the rail at her side, and when she lifted a hand — slowly, because her arm felt very far away — she found bandages. Gauze and tape, layered thick, over everything above her nose. She followed them up. They went all the way around.
+
+Her fingers moved down, carefully, the way you'd check a weapon you'd dropped. Her nose, or the bottom of it — bandaged too, at the bridge. Below that, her upper lip. Her mouth. Her chin. Her jaw. Skin. Hers. Dry, cracked at the corners, but hers. She stayed there for a while with her fingertips on her own mouth.
+
+Someone came in. Soft-soled shoes, unhurried. A voice she didn't know said her name and asked if she could hear. She said yes. Her voice worked.
+
+They told her clinically, which she was grateful for.
+
+Both eyes: gone. Not damaged. Gone. The upper portion of the face — the orbital structures, the brow, the bridge of the nose, the bone and tissue above a line the physician described to her in anatomical terms she mostly understood — had been destroyed. The skull reinforcement had held. That was, the physician said, the reason they were having this conversation. The mouth and jaw were intact; the parapet had covered them. Reconstruction would be scheduled. Optic implants would follow reconstruction, once the sockets had healed enough to take them.
+
+"Do you have any questions?"
+
+She had many. She asked the ones that had answers. How long until reconstruction. How long until the implants. What was the success rate for optic integration at her age. The physician told her, and she filed each number where she could find it again.
+
+She didn't ask what she looked like. There was no point. She couldn't see.
+
+It was a few days before she found out about her hair.
+
+Nobody had mentioned it. She was lying on her side, trying to find a position where the bandages didn't press, and she reached up to push her hair back out of the way from habit, and her hand met bristle. Short, sparse, scratchy against her palm, the whole curve of her skull. She moved her hand slowly from the crown to the back of her neck and it was the same all the way. Of course they had. For the surgery. Obviously for the surgery.
+
+She took her hand away and put it flat on the mattress and didn't touch her head again for a while.
+
+---
+
+She kept herself functioning the only way she knew how, which was to make the dark into something she could map.
+
+The room first. The electronic pulse was the monitor, to the right, close. The ventilation was centered, overhead, slightly toward her feet. The door was to the left and ahead — she learned it by listening to people come in, counting the time between the hinge and their voice reaching the bed. When she was allowed up, she stood beside the bed with one hand on the rail and walked it: seven steps to the door. Four and a half to the bathroom, through a narrower door on the right that stuck on its track. Two steps from the bathroom door to the sink. She walked each distance until she stopped needing to count it, and then counted it anyway.
+
+Then the staff. There was a nurse whose shoes squeaked on the left one only, who came on in the morning and hummed without knowing he was doing it. There was one who moved so quietly Victoria only knew she was in the room when she spoke, which Victoria disliked, and learned to listen for — a faint click of a tablet stylus, a breath. There was the physician, heavy-footed, always slightly hurried. By the end of the first week she could name them all before they said a word.
+
+Then time. Nobody told her the hour unless she asked, and she didn't like having to ask, so she kept it herself. Meals were one marker. The shift change was another — a louder door, voices overlapping in the corridor, the morning nurse's hum. She counted between them and was right more often than not, and when she checked, casually, by asking the quiet nurse what time it was, the answer was usually within ten minutes of her guess. She took some comfort from that. Her internal clock still worked. Something did.
+
+The casualty figures reached her as numbers.
+
+A squad liaison — or someone speaking for one; the message was relayed — informed her that Garnet Four had sustained one killed in action and three wounded, herself included. The killed-in-action was Wicket.
+
+She lay very still and tried to put a face to the callsign.
+
+She had one. She was sure she had one. Four months. She'd shared a transport with him. She'd heard him laugh at his own jokes on the net a hundred times, and she could hear the laugh now, clearly. But when she reached for the face, what she found was a general impression — dark hair, maybe, or maybe she was thinking of Ox — and the angle of someone's shoulders from behind, and nothing she could hold still long enough to look at.
+
+She'd had four months to look at him, and she hadn't bothered, because there'd been plenty of time.
+
+She hadn't started bracing for any of them yet. She'd been planning to, eventually, in the way you planned to learn a route once you knew you'd be walking it often. It had seemed premature. Now she lay in the dark and understood that it had been a failure — not the bracing itself, but the not-yet. She hadn't let him in far enough to lose him properly. Now she never would, and the space where the grief should have been was just another absence she couldn't see into.
+
+---
+
+The automated messages arrived through her comm implant in a synthetic voice, pleasant and neutral and faintly warm.
+
+_This is a Concord Duty of Care notice. Your recovery is important to us. Resources for your wellbeing are available on request._
+
+_This is a Concord Duty of Care notice. You have been recommended for a Commendation for Conduct Under Fire. Details will be provided when available._
+
+_This is a Concord Duty of Care notice. At Concord, no one gets left behind._
+
+She listened to each one to the end. She believed them. She was eighteen and blind and lying in a bed whose exact dimensions she had memorized, and it was comforting to hear it said — that somewhere, in a system much larger than the room, she was on a list. That she was being accounted for. That there was an upstream, and it knew where she was.
+
+No one from the squad came. They had redeployed; the quiet nurse told her so when Victoria asked, as if it were obvious, which it was. There was one message, a week in, short and text-only, read to her by the same synthetic voice:
+
+_Needle — heard you're doing ok. Glad. Take care of yourself. — Tamber._
+
+She had the voice play it twice. Then she didn't ask for it again.
+
+## Reconstruction
+
+The physician explained that they couldn't wait.
+
+The bone framework had to go in early — within the first couple of weeks, before the swelling set and the tissue scarred in ways that would make everything later harder. So reconstruction would begin while she was still blind. That made sense to her. She told them so.
+
+The reconstruction liaison was a different voice, a man who spoke in the practiced, even rhythm of someone who had given the same explanation many times. He told her there was a problem with the source data.
+
+"Concord doesn't have a scan of your original face on file," he said. "Your academy intake biometrics are partial — they were for identification, not modeling. There's not enough to rebuild from."
+
+"What happens in that case?"
+
+"It's standard practice to work from a biometric template. A licensed base structure, matched as closely as possible to your remaining features and your records. It's the usual approach for injuries like yours. The result will be very natural."
+
+"But not my face."
+
+"A slightly different face," he said. "Your lower face will be your own, of course. The upper face will be — close. It won't look like an injury. It will just look like a face."
+
+She thought about it for what she considered an appropriate length of time.
+
+She had never spent much time looking at her own face. It had been a face; it had done what faces did. Other people seemed to attach more importance to theirs than she did to hers. What mattered was whether she could see, shoot, function, be cleared. If the price of that was looking slightly different, it was a small price. It was a reasonable one. She could see that clearly — more clearly than the people who got upset about these things, probably. She was being sensible.
+
+"That's acceptable," she said.
+
+The contract had already been awarded to a provider. She didn't know that it had gone to the lowest bid. She wouldn't have thought to ask. The consent documentation arrived as a file she couldn't read, and the synthetic voice offered to summarize it, and she said yes, and it did — procedure, risks, recovery timeline, a clause about template licensing that it read as quickly and warmly as all the rest. At the end it asked her to confirm by voice.
+
+"I authorize," she said, and her own mouth — the part that was still hers — made the words.
+
+---
+
+The surgeries happened in the dark, so she knew them only by what she could feel.
+
+Going under was the same each time: a cold spread up her arm, a voice counting, and nothing. Coming up was different each time. Once, a heavy pressure over her whole upper face, as if someone had set a stone there, which eased by degrees over two days. Once, a deep ache in the bone of her brow that throbbed with her pulse and made it hard to think in straight lines. Dressings changed by hands she learned to recognize. The swelling came in and pushed the bandages tight and sat there for days, and then very slowly began to go down. Under the gauze, the new tissue tightened as it healed, a drawing sensation, like skin that had been stretched over something slightly too large.
+
+In between, she touched her mouth.
+
+She did it without thinking, at first. Then she noticed she was doing it and kept doing it anyway. Her upper lip. The corners. The line of her jaw back to her ear. Hers, unchanged, the one part of her face she could still check against her memory of it. Above them there was only bandage, and under the bandage there was something being built that she couldn't feel the shape of.
+
+The post-op report was read to her by the synthetic voice.
+
+_Reconstruction completed. Outcome within acceptable parameters._
+
+She thought: good. That's good. And she meant it.
+
+---
+
+The liaison who delivered the after-action summary was not the reconstruction liaison, and not the physician. She came in with quick, precise footsteps and sat down, and Victoria heard a tablet case open.
+
+"I'm authorized to give you the summary findings on the incident," the liaison said. "The determination is that the attack represented an enemy adaptation. The capability used was not anticipated and could not reasonably have been foreseen. The investigation found no procedural failure on the part of your squad."
+
+"Understood."
+
+"Sector status is unchanged."
+
+Victoria paused.
+
+"Unchanged," she said.
+
+"Stabilized, yes. The incident is classified as isolated."
+
+"Understood."
+
+"There's one more thing. Your billet with Garnet Four has been filled, to preserve operational continuity. You'll be reassigned once you're medically cleared. You don't need to worry about that now."
+
+"Thank you."
+
+The liaison left. Victoria lay there and listened to the ventilation.
+
+_Sector status unchanged._ Something about it sat wrong, like a round that had seated a millimeter off. A stabilized sector, and an isolated incident, and a capability no one could have foreseen, and all three of those things were true at once. It was fine. They were upstream. They had the full picture; she had a bed and a bandage. She noticed the dissonance, precisely, and set it somewhere she could find it later, and didn't look at it.
+
+## Eyes Online
+
+The optic surgery was scheduled seven weeks after the hit, once the sockets had healed enough to hold the implants.
+
+She went under in the dark and came up in the dark, and for a day there was only a new kind of pressure, deep in the orbits, and a faint warmth she could feel along paths she'd never been able to feel before. The technician told her not to expect anything until activation. She didn't.
+
+Activation was in a quiet room with a chair that reclined. The tech — a young woman with a voice that sounded like she was always about to ask a question — told her it might be disorienting.
+
+"Ready?"
+
+"Yes."
+
+A click, somewhere in her skull, that she felt rather than heard.
+
+The first thing she saw wasn't the world.
+
+It was text. White on black, very sharp, scrolling upward faster than she could read it — firmware strings, version numbers, a column of hardware checks marked _OK_ in a narrow typeface. Then a grid: fine lines, perfectly square, filling everything, pulsing once. A crosshair appeared at the center and a small line of text beneath it said _CALIBRATION: FOCUS HERE_, and she did, because it was an instruction, and she had always been good with instructions.
+
+The grid tightened. The crosshair moved to the left; she followed it. To the right. Up. Down. Diagnostic figures in the corner ticked over. _Tracking: nominal. Depth: calibrating._
+
+Then, without any transition she could identify, the world arrived.
+
+The room. The chair. The tech's hand on the console, and the tech herself, leaning in, dark hair clipped back, a small silver ring in one ear. White walls. A cabinet with a dented corner. Everything so sharp it looked cut out. The edges of things were clean in a way she didn't remember edges being. A faint overlay floated at the margin of her vision — a range tag on the far wall, _3.4m_, which faded out when she stopped looking at it.
+
+It was clearer than her own eyes had ever been.
+
+She sat with that for a moment, and something came to her quietly, with no weight to it at first. Everything she saw now was being handed to her. Every edge, every color, every shape was a system's rendering of the world — accurate, probably, very accurate, but _given_. Her own sight had become a feed. And she'd have no way of knowing, from inside it, if the feed was wrong.
+
+"How is it?" the tech asked.
+
+"Good," Victoria said. "What's the source for the range overlay? Stereo disparity, or is there an active component?"
+
+The tech blinked. "Both, sort of. There's a low-power emitter for—"
+
+"What's the error at distance?"
+
+---
+
+She was good at calibration. She'd been good at every kind of calibration she'd ever done. She held the crosshair steady, tracked the targets smoothly, gave clean answers when asked whether a line looked straight or a color looked true.
+
+And she asked too many questions. She knew she was doing it. What the refresh rate was. How the color profile had been set and against what reference. What happened when the emitter was obstructed. Whether the overlay could be disabled. Where the firmware updates came from and whether she'd be notified before they installed. The tech answered what she could and started bringing a second tech to the sessions for the rest, and on the third day she told Victoria, not unkindly, that most people just wanted to know when they could go home.
+
+Victoria had never cared much how her own eyes worked. They had worked. That had been enough. It was the first time in her life she'd wanted to know exactly how the thing that told her the truth was built.
+
+Her face was still dressed.
+
+There was a mirror above the sink in her room. She'd known it was there — she'd put her hands on it in the dark, cool and smooth — but it had been only a surface then. Now it was a mirror. She could have looked at any time. The dressings covered most of the upper half of her face, but not all of it, and the swelling was still there under them; she could feel it.
+
+She didn't look. There was no point, she told herself, until the swelling went down. She'd only be looking at an injury, not a result. She'd wait until there was something to assess.
+
+It was a reasonable excuse. That was exactly what made it so easy to keep using.
+
+## The Face
+
+Over the following weeks the dressings came off in stages.
+
+First the heavy packing, leaving thinner gauze. Then the gauze over the brow, leaving strips at the bridge of the nose and under the eyes. She caught pieces of herself without meaning to — a sliver of reflection in the dark screen of a tablet, the curve of a brow in the steel of a supply cart — and looked away before they resolved into anything. They were swollen, discolored, unfinished. There was still an excuse.
+
+Each day the swelling subsided a little more, and the pieces she didn't look at became a little more like someone's.
+
+Then one morning the last of the strips came off, and the nurse with the squeaky shoe said, "Well. That's settled nicely," in the voice of someone admiring a job well done, and left.
+
+It was a face now. It had been for a few days, probably. She'd known that.
+
+She stood up and walked the four and a half steps to the bathroom, which she no longer needed to count, and the two steps to the sink, and she looked.
+
+She'd gone in expecting to be fine. She had already done this part. She had thought it through in the dark, carefully, and reached a conclusion, and the conclusion was that a face was a face and she didn't need hers. She had agreed. _Acceptable._ She had said it herself.
+
+She wasn't fine.
+
+It wasn't a stranger's face. That was the first thing, and the worst. If a stranger had looked back at her, she could have filed it — a new piece of equipment, unfamiliar, something to get used to. But the lower half was her own. Her mouth, which she'd touched a hundred times in the dark to make sure. Her jaw. Her chin, with the slight asymmetry she'd always had. Those were hers, exactly.
+
+Above them was someone else.
+
+Someone else's brows, finer than hers had been, at a slightly different angle. Someone else's nose bridge, narrower and straighter. Someone else's eyes, set in someone else's orbits, the lids folding in a way hers never had. And the join — she looked for the join, because there had to be one, and she could barely find it. It had been blended with real skill across the cheekbones and the sides of the nose, so the two halves flowed into each other as though they had always belonged together.
+
+It wasn't scarred. It wasn't ugly. That was what was wrong with it. It was _plausible_. Anyone who looked at her would see an ordinary, somewhat tired young woman and never think twice. Nobody would ever know there was a seam.
+
+She opened her mouth — to say something, she didn't know what — and watched her own mouth move under those eyes.
+
+That was worse than anything else. She couldn't disown it. If it had been all someone else, she could have kept herself at a distance from it. But she was in there, the bottom half of her, speaking. Her own mouth, making words, under a stranger's gaze.
+
+And the eyes were blue.
+
+Hers had been blue too. Mostly. A little greener than this, especially in daylight — a shade no one had ever remarked on, that she'd never thought about once in eighteen years. These were a clean, clear blue, calibrated to match a template. The difference was so slight that nobody else alive would ever notice it.
+
+She noticed it. It was the only thing she could see.
+
+She stood at the sink for a long time. She didn't touch the face. She didn't cry, because she didn't know how that would work anymore, and she didn't want to find out standing here. She just looked, steadily, the way she'd have looked through a scope at something she needed to remember exactly — the brow, the bridge, the eyes, the blue, the seam she couldn't find.
+
+She had decided it was acceptable. Nobody had forced her. Nobody had lied. She'd been told _a slightly different face_ and she'd assessed it and signed off on it, in her own voice. Her own judgment of herself had been wrong, and she'd trusted it anyway, because it had seemed so sensible from the inside.
+
+Then she turned away from the mirror and did not look again.
+
+Not that day, and not on purpose afterward. It didn't take long to become automatic. A dark window at night: her eyes slid off it. A polished door, the glass of a medical cabinet, the black screen of a tablet between uses: she angled her head without deciding to. Within a week she'd stopped noticing she was doing it.
+
+She did not ask where the face had come from. She could have. There would be a record somewhere — a template license, a provider, a source. She had the clause in her consent file; she could have had the synthetic voice read it again. She didn't. It sat at the edge of her attention like the mirror, and she turned away from it the same way.
+
+## Pulling the Records
+
+Rehab was mostly waiting.
+
+Physical therapy for the parts of her that had been knocked around. Neurological sessions for the optic integration. Check-ins with physicians who looked at readouts and said _good_. Between them, long hours with nothing in them. She'd never been good with nothing. She read what she could get — the facility library was small and mostly manuals — and when she ran out of that, she did what seemed like the most useful thing available.
+
+She requested the after-action and intelligence records for the incident. Through proper channels, using the correct forms, citing her involvement and her clearance level.
+
+She wasn't suspicious. She wanted to be clear with herself about that, and she was. The summary had said _enemy adaptation_. Adaptation meant the enemy had done something new, and something new was something she hadn't known to look for. She wanted to understand what it was, so the next time — and there would be a next time; she'd be reassigned — she'd recognize it. It was the most professional thing she could think of to do with the time.
+
+The records took eleven days to clear. When they arrived she read them in her room, on a tablet held at an angle that kept its dark border from catching her reflection.
+
+It took her one afternoon to find it.
+
+Six days before the hit, a forward reconnaissance drone had logged signatures consistent with an active hostile indirect-fire capability within range of the grid her squad would later move through. It was there, in the drone's own log, timestamped, with coordinates and a confidence estimate. The drone had seen it.
+
+She traced it forward.
+
+The drone log was summarized at the first analytic layer and the capability was flagged _unconfirmed_ — accurately; nobody had confirmed it. That summary was rolled into a sector report two days later, where _unconfirmed_ became _low confidence_, which was also accurate, as far as it went; there'd been no second sighting. The sector report went into a regional consolidation, where the entry was compressed to a single line: _residual indirect-fire risk, assessed low_. Reasonable. It was one line among hundreds. Then the regional consolidation went into the squad-level brief for the milestone, the one that designated the sector _stabilized_, and in that brief the line wasn't there at all.
+
+She went back and read each step again. Then she pulled the overwatch selection record, and found the note — terse, standard — that the position had been chosen to maximize observation, _cover a secondary concern given sector status_.
+
+She sat back.
+
+She'd been expecting a mistake. Someone who'd missed something. A bad decision, a careless officer, a breach. Something with edges she could get her hands around. She went back through the chain looking for it, and at every step what she found was someone doing their job correctly. _Unconfirmed_ was true. _Low confidence_ was true. _Residual_ was a fair word for something no one had seen twice. Leaving a low-priority residual out of a squad brief to keep it readable was a defensible editorial decision; she'd have done it herself, probably, if she'd been the one editing. Every single step could be justified. No one had lied.
+
+At the end of the chain, she found a name. The analyst who'd compiled the final brief. She looked them up. Mid-level, three years in the role, a clean record. A queue with hundreds of items in it and a deadline tied to a milestone. They'd rounded off one more small number on one more line.
+
+She looked for something to hate in that, and there was nothing. Just a person, working a queue.
+
+That was the worst part, and she knew it was the worst part while she was still sitting there. There was no one who'd decided to put her behind a parapet that was too low. No one had chosen for Wicket to stop answering. The system had wanted the sector to be stabilized, because stabilized was what the milestone needed, and so at every level the information had been shaped very slightly toward that. Not falsified. Smoothed. Rounded. Until the thing the drone had seen didn't fit anywhere, and fell off the edge.
+
+She had been the rounding error.
+
+_Within acceptable parameters._ She thought of it without meaning to, and then couldn't stop. It was the same sentence. Her face had been signed off with it. The sector had been signed off with it. She was living inside it now, from the brow up.
+
+---
+
+She filed a formal report, because that was what you did.
+
+She wrote it carefully. She laid out the chain of consolidation, step by step, with citations. She didn't accuse anyone. She recommended that indirect-fire indicators be retained at squad level regardless of confidence rating when overwatch positions were being selected on the basis of cover assessment. It was two pages. It was, she thought, a good report.
+
+It came back in four days with a status tag.
+
+**Reviewed. No further action.**
+
+There was nothing else attached. No explanation, no reviewer name. She read the three words a few times and then closed the file.
+
+The next morning there was a new item on her schedule. It had been added automatically.
+
+_Concord Duty of Care: Wellness Check-In. Attendance recommended._
+
+She looked at it for a long time.
+
+She understood what it was now. The same way she'd understood _sector status unchanged_, except this time she let herself look straight at it. Her access to the records had been logged. The report had been logged. Somewhere a pattern had been matched — soldier, recent trauma, requesting sensitive materials, filing complaints — and the system had responded in the way it was built to respond. With care. With concern for her wellbeing. With a synthetic voice and a slot on her schedule that said _recommended_ and meant something slightly different.
+
+She thought about the voice that had told her, in the dark, that no one got left behind. She had believed it. She thought, with no bitterness she could locate, that it had probably been true. Nobody had left her behind. They'd kept very close track of her the entire time.
+
+She attended the check-in. She answered every question calmly and correctly. She said she was adjusting well.
+
+There was no vow afterward. No moment she could have pointed to. Only a rule that set itself in her quietly, the way bone sets, and never came out again:
+
+_Intel is a claim. Not a fact._
+
+## Retraining
+
+The first time she was allowed back on a range, she missed.
+
+Not badly — the round went into the edge of the target — but she hadn't missed a shot like that since the academy. Her body and the feed disagreed. The implants rendered the target sharper than she'd ever seen anything, and her hands, which had learned to shoot with the eyes she'd been born with, kept trying to correct for things that weren't there anymore. A tiny lag she couldn't consciously perceive. A depth cue that was fractionally different. She fired forty rounds and walked every one of them in, and at the end her group was acceptable, and she hated the word.
+
+The rangefinder was flawless.
+
+That was the problem. It was so good that it would be easy to just trust it. Look at the target, read the number, hold, fire. The overlay would give her range to the centimeter and a wind estimate calculated from the drift of dust she could now see in more detail than any human eye. She'd never have to estimate anything again.
+
+So she started estimating everything.
+
+Before she let herself look at the readout, she'd judge the range with the old methods — reticle subtensions, known object sizes, the way the light fell — and the wind by the grass and the mirage. She'd write the estimate down. Then she'd look at the readout and write that down too. Then she'd shoot. Every session. Two columns in a notebook, her own judgment beside the system's.
+
+At first her column was wrong more often than she liked. She kept going. After a few weeks it was wrong less. After a couple of months, the two columns were close enough that when they disagreed, she paid attention to the disagreement — which one had moved, and why. Optics could be spoofed. Optics could be damaged. She'd had her own eyes taken away once already. If it happened again, she intended to still know how far away things were.
+
+She trained every day. No exceptions — not when she was sore, not when the neurological sessions left her with a headache that sat behind the implants like a thumb pressing. It was the one thing in her life she controlled from beginning to end: her body, her rifle, her numbers. No one upstream touched any of it.
+
+In the evenings she read firmware notes.
+
+She'd put in a request for the technical documentation on her implants — full documentation, not the patient summaries — and been told it wasn't generally available, and put in another request with a different justification, and gotten about half of it. She read it all. Then she found the patch logs and read those, every update since the model had been released, what each one had changed and what it hadn't said it changed. It was dense and dull and she didn't mind. She refused to be the only person in the room who didn't understand what she was seeing.
+
+There were other things, too, left over, that she didn't read about. She kept them small and physical so she wouldn't have to think of them as anything else. A certain high pitch — an alarm, the whine of certain engines — made her flinch, a short, sharp contraction she couldn't stop and learned to finish before anyone noticed. She slept badly, in pieces. Sometimes, standing in a corridor or sitting in the mess, she'd find her right hand closed around nothing, fingers curled to a grip that wasn't there.
+
+She functioned anyway. She'd always been good at that.
+
+Her hair was growing back.
+
+She noticed it the way she noticed everything now, sideways, without a mirror. The bristle had softened. Then it was long enough to push her fingers through. Then, one morning, it fell into her eyes — her new eyes — and she had to brush it back, and she stood still for a moment with her hand on it.
+
+It was the same color it had always been. The same texture, as far as she could tell. It was coming back exactly as it had been, a little at a time, and nothing about it was anyone else's.
+
+She decided she wouldn't cut it.
+
+## Reassignment
+
+She was medically cleared eight months after the hit.
+
+She wasn't going back to Garnet Four. Her billet had been filled; the squad had been rebuilt around the gap with people she'd never met. Actual had rotated to a staff post. Tamber had transferred. She learned this from a roster, not a person.
+
+Her new assignment was Turquoise Nine. Senior Operative, marksman-technician. Second-in-command.
+
+It was a promotion. A small one, and it arrived with a formal notice that used the word _recognition_. She read the notice once and understood it the way she now understood most things that came from upstream. It was compensation, and it was the cheapest kind available — a title, a slightly higher pay grade, a little more authority over people she didn't know. It cost Concord nothing. She accepted it, because refusing would also have cost her nothing and gained her less.
+
+---
+
+Turquoise Nine was temporarily running out of a forward staging area that it shared with another squad — a sprawl of prefab structures and vehicle bays on hard-packed ground, dust everywhere, rising in sheets whenever anything moved. She arrived on a supply transport in the late afternoon with her kit and her rifle case and a respirator pulled up over her nose and mouth against the dust.
+
+It covered her from the nose down. Only her eyes and brows showed above it. She didn't think about that. She was thinking about the dust getting into the rifle case seals.
+
+The Field Officer met her at the vehicle bay. A broad, weathered man who looked at her for a second longer than people usually did, and then held out a hand. She shook it.
+
+"You're the new Senior."
+
+"Yes, sir."
+
+"Brief's at nineteen hundred. You'll have the packet by then."
+
+She had the packet at eighteen-ten. She read it once, properly, the way she'd always read them — terrain, sightlines, friendly positions, extraction, threat summary. Then she pulled the sources.
+
+All of them. Every report the packet cited, and the reports those reports had been built from, as far down as her clearance would let her go. She read them line by line, and she compared what each layer said to what the layer beneath it had said, and she made notes where a _probable_ had become a _likely_, where a sighting had been dropped between one consolidation and the next. There were three. None of them seemed to matter much. She wrote them down anyway.
+
+At the brief, she asked about all three.
+
+The Field Officer answered the first question. At the second, he looked at her over the table for a moment, then answered it too. At the third, someone at the back of the room let out a breath that wasn't quite a laugh. The Field Officer said he'd look into it, in the tone of a man who wasn't going to, and moved on.
+
+By the next day she was the difficult one. She heard it said once, not quite out of her hearing, in the mess. She didn't turn around. She didn't care. She'd been easy, once, and trusting, and it had cost her the top half of her head.
+
+---
+
+The next evening, she crossed the staging area toward the Turquoise equipment bay to check the rifle seals again. The dust had settled for once. The low sun came in flat across the ground and turned the prefab windows into sheets of copper light.
+
+She passed one. A long window in the side of the other squad's ready room, dark inside, lit gold on the outside, and for the length of three steps it held a clear reflection of anyone walking by.
+
+She didn't look. Her head angled away from it without her deciding anything, the way it always did now, and her eyes stayed on the bay doors ahead.
+
+Across the yard, somewhere behind her, in a knot of the other squad's people standing around a vehicle, someone had stopped talking in the middle of a sentence.
+
+Victoria didn't hear the silence. She was counting the seals on the rifle case in her head, in order, and thinking about the wind.
