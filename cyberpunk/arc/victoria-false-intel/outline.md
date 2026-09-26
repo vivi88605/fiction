@@ -139,4 +139,4 @@
 - Arrives at the staging area, which Turquoise Nine is currently sharing with another squad. It's dusty; she has a respirator/dust mask up over her lower face — only her eyes and brow are visible.
 - First brief: she reads the intel packet, then pulls the sources behind it and checks them line by line. The Field Officer notices. Within a day she's "the difficult one," and she doesn't care.
 - She walks past a reflective window without looking.
-- Final line: somewhere across the staging area, someone has stopped mid-sentence to stare at her. She doesn't notice. → hands off to "Why are you staring at me?" in `1_Past_Service_Period.md`.
+- Final line: somewhere across the staging area, someone has stopped mid-sentence to stare at her. She doesn't notice. → hands off to her meeting with Evelyn.

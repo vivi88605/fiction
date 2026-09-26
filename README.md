@@ -12,9 +12,9 @@ arc/<beat-name>/
   prose.md     <- the finished prose
 ```
 
-If you only want the stories, read the `prose.md` files. `outline.md` is the plan each one was written from.
+`<setting>/arc/README.md` lists the beats in chronological order. If you only want the stories, read the `prose.md` files. `outline.md` is the plan each one was written from.
 
-`<setting>/info/` is the reference material the stories are written against: the cast (appearance, personality, implants), their backstory and how their lives unfold over time. It contains spoilers for the later arcs.
+`<setting>/info/` is the reference material the stories are written against: the cast (appearance, personality, implants), their backstory and their present-day routine. It contains spoilers for the arcs.
 
 ## How it's written
 

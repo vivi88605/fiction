@@ -4,7 +4,7 @@
 
 **When:** Evelyn is 17, in the specialty year, breacher track. It's a few weeks after her reflex booster was installed, and the cohort ships out at 18.
 
-**Where she is inside:** This is the dark period from `0.5_Origin_Backstory.md`. She's quietly seeking out pain and doesn't much care whether she wakes up tomorrow. None of that shows. On the surface she's exactly as loud, cheerful, and jokey as she is at 27.
+**Where she is inside:** This is the dark period in her backstory. She's quietly seeking out pain and doesn't much care whether she wakes up tomorrow. None of that shows. On the surface she's exactly as loud, cheerful, and jokey as she is at 27.
 
 **Squad:** Facet Four, her specialty-year training section. Training sections are named by gem-cutting stage: _Rough_ for the general academy years, _Facet_ for the specialty year. Recruits get a gem-numbered squad on assignment. Nobody gets a gem until they're finished being cut. The instructor is never named; the section calls them "Instructor," and Evelyn calls them nothing to their face.
 
@@ -124,11 +124,11 @@
 - She reads it twice, and the joke comes right away: _CatEYE Seven, you've got to be kidding me,_ She keeps it to herself, because out loud it would land on Mira.
 - Mira reads the posting over her shoulder, glances at Evelyn's right eye, and goes quiet. Evelyn grins and starts talking about something else.
 - Final beat: at the transit point she walks past a reflective window, catches herself in it. She still can't tell which one is fake, and she has decided it doesn't matter. It's just a part.
-- Hand-off: a few months later, someone else is walking around with the face she sold. (Not stated in the arc. It sets up the meeting in `1_Past_Service_Period.md`.)
+- Hand-off: a few months later, someone else is walking around with the face she sold. (Not stated in the arc. It sets up her later meeting with Victoria.)
 
 ---
 
-## Parallels with `victoria-false-intel` (writer reference)
+## Parallels with Victoria's injury (writer reference)
 
 |                      | Victoria                                                       | Evelyn                                                                |
 | -------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- |

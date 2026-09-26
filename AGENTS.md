@@ -4,8 +4,8 @@ This repo is for generating plotbeats and prose for original-character (OC) stor
 
 ## Layout
 
-- `<setting>/info/` — worldbuilding & character bible. Canon reference, effectively read-only. Source of truth for personality, voice, relationships, and history.
-- `<setting>/arc/` — plotbeats, outlines, and prose drafts. Generated output goes here, not in `info/`. See "arc/ structure" below.
+- `<setting>/info/` — worldbuilding & character bible. Canon reference, effectively read-only. Source of truth for personality, voice, relationships, setting, and the summary of each period. Holds **facts**, not scene-by-scene beats.
+- `<setting>/arc/` — plotbeats, outlines, and prose drafts. Generated output goes here, not in `info/`. Holds **events**: each `outline.md` is canon for the event it covers. `arc/README.md` lists the beats in chronological order. See "arc/ structure" below.
 
 ## Read selectively — don't load the whole bible every time
 
@@ -24,13 +24,12 @@ Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 | File                           | Covers                                                                                                                     | Read when...                                                                                          |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | `0_Characters.md`              | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast | Almost any scene with these characters — this is the baseline voice/personality/interiority reference |
-| `1_Past_Service_Period.md`     | Backstory — military service, how Evelyn & Victoria met, the arc from hostility to found-family                            | Writing flashback/backstory scenes or anything needing historical context                             |
+| `1_Past_Service_Period.md`     | Service-era setting — Concord/CEF hierarchy, training & service timeline; summary of the meeting and friendship arc        | Writing flashback/backstory scenes or anything needing historical/setting context                     |
 | `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                                            | Writing present-timeline slice-of-life or job/work scenes                                             |
-| `3_Future_Ordinary_Life.md`    | Endgame arc — the injury that ends their mercenary careers, transition to ordinary civilian life                           | Writing later-arc or ending material                                                                  |
 
-The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading 1-2-3 in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
+The numeric prefixes are chronological (1 = past, 2 = present) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading them in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
-`1_`, `2_`, and `3_` each open with a `## Summary` section (a handful of bullets) before their full detail. If you just need to reference or check consistency with what happens in that period, the summary is usually enough — read past it into the full file only when you're actually writing a scene set there, need exact dialogue/sequencing, or the summary doesn't cover what you need.
+`1_` and `2_` each open with a `## Summary` section (a handful of bullets) before their full detail. If you just need to reference or check consistency with what happens in that period, the summary is usually enough — read past it into the full file only when you need the setting detail it holds. For exact dialogue/sequencing of an event, go to that event's outline (find it in `arc/README.md`).
 
 ## arc/ structure
 
@@ -46,6 +45,8 @@ arc/
       20260926-1512.md
 ```
 
+- When adding or renaming a beat folder, update `arc/README.md` (chronological position).
+- Keep files decoupled: `info/` files and outlines don't name other files or beat folders. Refer to events by what happens ("her later meeting with Victoria"), not by where they're written. `arc/README.md` is the only place that maps events to folders.
 - `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). Read it before generating or revising prose for that beat.
 - Prose is what gets iterated on. Generating a new pass means writing a new `drafts/YYYYMMDD-HHMM.md` (local time, no colons; an optional short tag suffix like `20260926-1430-slower-pacing.md` is fine). Never overwrite an existing draft.
 - `prose.md` is the version the user picked. Only the user promotes a draft to `prose.md` — never write or overwrite `prose.md` unless explicitly asked.

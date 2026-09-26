@@ -1,16 +1,8 @@
-# 3_Future_Ordinary_Life
+# To Ordinary Life — Plot Beats
 
-## Summary
+## Setup
 
-- Evelyn's standard knee replacement doesn't match her reflex-boosted nervous system; she gets an unlicensed governor bypass to restore full speed, which quietly causes accumulating biological damage that Jax's visible repairs mask.
-- The knee fails mid-breach on a job: Evelyn is pinned by the blast, her arm is crushed beyond saving, and Victoria has to break cover under fire to pull her out. This crosses Evelyn's one real line — not getting hurt herself, but putting Victoria at risk.
-- Aftermath: both separately admit they've secretly wanted out of merc work; Victoria traces the detonator's timing fault back to a supplier cover-up, and the archival digging turns into a permanent career as a digital archivist.
-- Evelyn, recovering, starts customizing her own prosthetic arm (since she hates the standard one she got), gets pulled into cyberware shell/housing fabrication through Jax's shop, and eventually freelances as a custom cyberware customizer.
-- Ending: both retired from mercenary work, same two people and dynamic, but their problems are now wonderfully mundane instead of life-threatening.
-
-For full scene-level detail (the injury sequence, the conversation, how each career transition unfolds), read the rest of this file.
-
-## Premise
+**When:** after the present-day status quo. The knee replacement, the bypass, and the strain all happen after the present; the incident is where they come due.
 
 ### The Replacement
 
@@ -35,9 +27,9 @@ For full scene-level detail (the injury sequence, the conversation, how each car
 - **Bad days**: a brace she resists wearing in front of clients (a visible tell of compromise), a cane or leaning on Victoria, worst case a full buckle with no warning.
 - **Social handling**: jokes about it before anyone can worry out loud, downplays a real limp as something mundane, avoids visible aid around clients or strangers since a compromised merc is a liability or a target.
 
-## To Ordinary Life
+---
 
-### The Incident
+## The Incident
 
 - The knee fails during the retreat from Evelyn's own breach charge — she's triggered it and needs to clear the blast radius, but the joint buckles instead of completing the movement.
 - She drops hard beside the breached frame and instinctively catches herself with her right arm.
@@ -50,7 +42,7 @@ For full scene-level detail (the injury sequence, the conversation, how each car
 - This is the moment the governor bypass stops being a close call and becomes the direct cause of the injury that ends her career — while the undisclosed detonator fault gives Victoria one more failure in the chain that she cannot leave unexplained.
 - There's no same-day fix available this time, and even Jax has nothing casual to say about it.
 
-### The Conversation
+## The Conversation
 
 - This incident crosses Evelyn's one real line: not getting hurt herself, but putting Victoria in harm's way.
 - It is a whole different level of guilt than what she normally brushes off.
@@ -59,7 +51,7 @@ For full scene-level detail (the injury sequence, the conversation, how each car
 - Evelyn doesn't argue that the detonator fault caused everything. She knows better. The supplier's failure made it worse, but the reason she was still beside the breach when it went off was her own.
 - Both of them separately admit they've each secretly wanted out, for reasons they didn't think they were allowed to say out loud.
 
-### Victoria and the Archive
+## Victoria and the Archive
 
 - Victoria needs to know exactly what happened.
 - She already knows Evelyn's knee failed first. There is no mystery there, and she isn't trying to absolve her of it. What bothers her is the timing. The charge detonated earlier than the telemetry says it should have.
@@ -79,7 +71,7 @@ For full scene-level detail (the injury sequence, the conversation, how each car
 - Temporary work becomes training, and training becomes a permanent position as a digital archivist.
 - She never has a dramatic moment of deciding to reinvent herself. She simply keeps coming back until, at some point, mercenary work is no longer the thing she does.
 
-### Evelyn and Cyberware Customization
+## Evelyn and Cyberware Customization
 
 - Evelyn's first project is her own prosthetic arm.
 - The standard shell is functional but generic — shaped for average proportions, built to survive abuse, and designed to be cheap to replace. Evelyn hates it almost immediately. It looks like hospital equipment attached to her body.
