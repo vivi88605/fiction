@@ -6,7 +6,7 @@
       "detail": "Render the open file with edge-tts and open the mp3 in VS Code",
       "type": "shell",
       "command": "python",
-      "args": [".vscode/read_aloud.py", "${file}", "${input:ttsVoice}", "${input:ttsRate}"],
+      "args": ["tools/read-aloud/read_aloud.py", "${file}", "${input:ttsVoice}", "${input:ttsRate}"],
       "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
       "problemMatcher": []
     },

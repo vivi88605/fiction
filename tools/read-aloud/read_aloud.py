@@ -1,6 +1,6 @@
 """Render a prose file to speech with edge-tts, then open it in VS Code's audio preview.
 
-Usage: python .vscode/read_aloud.py <file.md> [voice] [rate]
+Usage: python tools/read-aloud/read_aloud.py <file.md> [voice] [rate]
 """
 import asyncio
 import pathlib
@@ -40,11 +40,12 @@ async def main() -> None:
     if not text:
         sys.exit(f"{src.name} has no readable prose in it")
 
-    repo_root = pathlib.Path(__file__).resolve().parent.parent
+    repo_root = pathlib.Path(__file__).resolve().parents[2]  # tools/read-aloud/ -> repo root
     out_dir = repo_root / ".tts"
     out_dir.mkdir(exist_ok=True)
-    # Beat folders all reuse v1/v2/v3, so qualify the name with its parent.
-    out = out_dir / f"{src.parent.name}-{src.stem}.mp3"
+    # Every beat has a prose.md and a drafts/ folder, so qualify the name with the beat folder.
+    beat = src.parent.parent if src.parent.name == "drafts" else src.parent
+    out = out_dir / f"{beat.name}-{src.stem}.mp3"
 
     print(f"{voice} @ {rate} -> {out.name} ({len(text):,} chars)", flush=True)
     await edge_tts.Communicate(text, voice, rate=rate).save(str(out))
