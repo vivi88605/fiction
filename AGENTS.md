@@ -35,21 +35,22 @@ The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — t
 
 ## arc/ structure
 
-Each beat gets its own subfolder under `arc/`: one single outline file, plus multiple versions of the prose written from it.
+Each beat gets its own subfolder under `arc/`: one single outline file, one picked prose file, and a gitignored folder of timestamped drafts.
 
 ```
 arc/
   <beat-name>/
-    outline.md   <- single outline/plotbeat, edited in place (git tracks its history)
-    v1.md
-    v2.md
-    v3.md        <- current prose (highest number)
+    outline.md             <- single outline/plotbeat, edited in place (tracked)
+    prose.md               <- the picked/canonical prose (tracked)
+    drafts/                <- gitignored, local only
+      20260926-1430.md
+      20260926-1512.md
 ```
 
 - `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). Read it before generating or revising prose for that beat.
-- Prose is what gets iterated on. Generating a new pass means writing a new `vN.md`, never overwriting an older one — old versions stay as history/rollback points.
-- The current prose version is always whichever `vN.md` has the highest number. No separate `latest`/`current` file to keep in sync.
-- **Do not** read earlier versions prior to generating a new one so every iteration stays fresh and diverse.
+- Prose is what gets iterated on. Generating a new pass means writing a new `drafts/YYYYMMDD-HHMM.md` (local time, no colons; an optional short tag suffix like `20260926-1430-slower-pacing.md` is fine). Never overwrite an existing draft.
+- `prose.md` is the version the user picked. Only the user promotes a draft to `prose.md` — never write or overwrite `prose.md` unless explicitly asked.
+- **Do not** read earlier drafts prior to generating a new one so every iteration stays fresh and diverse. Read `prose.md` only when the user asks to revise or build on the picked version.
 
 ## Adding new settings or info files
 

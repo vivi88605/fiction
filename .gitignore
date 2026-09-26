@@ -1,1 +1,4 @@
 .tts/
+**/arc/*/drafts/
+__pycache__/
+*.pyc
