@@ -42,7 +42,7 @@ For checking consistency with a period, the opening section is usually enough; r
 
 ## arc/ and side/ structure
 
-Each beat gets its own subfolder under `arc/` (or piece under `side/`): one single outline file, one picked prose file, and a gitignored folder of timestamped drafts.
+Both directories use the same per-piece layout, so promoting a side piece is just a folder move. Each beat gets its own subfolder under `arc/` (or piece under `side/`): one single outline file, one picked prose file, and a gitignored folder of timestamped drafts.
 
 ```
 arc/
@@ -54,13 +54,25 @@ arc/
       20260926-1512.md
 ```
 
-- When adding or renaming a beat folder, update `arc/README.md` (chronological position and tags) or `side/README.md` (assumptions and tags).
+### Shared rules
+
+- When adding or renaming a beat folder, update `arc/README.md` (chronological position and tags) or `side/README.md` (premise source, assumptions, and tags).
 - If it's unclear whether a new piece is canon, ask; default to `side/` for standalone whump or slice-of-life requests.
 - Keep files decoupled: `info/` files and outlines don't name other files or beat folders. Refer to events by what happens ("her later meeting with Victoria"), not by where they're written. `arc/README.md` and `side/README.md` are the only places that map events to folders.
-- `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). Read it before generating or revising prose for that beat.
+- `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). When a beat has one, read it before generating or revising prose for that beat.
 - Prose is what gets iterated on. Generating a new pass means writing a new `drafts/YYYYMMDD-HHMM.md` (local time, no colons; an optional short tag suffix like `20260926-1430-slower-pacing.md` is fine). Never overwrite an existing draft.
 - `prose.md` is the version the user picked. Only the user promotes a draft to `prose.md` — never write or overwrite `prose.md` unless explicitly asked.
 - **Do not** read earlier drafts prior to generating a new one so every iteration stays fresh and diverse. Read `prose.md` only when the user asks to revise or build on the picked version.
+
+### arc/ specifics
+
+- Every beat has an `outline.md`. A side piece promoted to `arc/` gets one first, even a short one written back from the prose.
+
+### side/ specifics
+
+- `side/ideas.md` is the backlog: one bold-titled bullet per idea, and these bullets are the premises for side pieces.
+- `outline.md` is optional. Without one, the piece's idea bullet is its premise: find it via `side/README.md` and work from that bullet plus the user's request.
+- Keep the bullet in `ideas.md` once a piece exists. If the user changes the premise, suggest updating the bullet so later drafts start from the same place.
 
 ## Adding new settings or info files
 
