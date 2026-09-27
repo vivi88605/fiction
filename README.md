@@ -14,6 +14,8 @@ arc/<beat-name>/
 
 `<setting>/arc/README.md` lists the beats in chronological order. If you only want the stories, read the `prose.md` files. `outline.md` is the plan each one was written from.
 
+`arc/` is canon: those events happen in the timeline, in that order. `<setting>/side/` holds non-canon pieces with the same layout: one-shots and what-ifs that don't have to fit the timeline. Its README notes what each piece assumes.
+
 `<setting>/info/` is the reference material the stories are written against: the cast (appearance, personality, implants), their backstory and their present-day routine. It contains spoilers for the arcs.
 
 ## How it's written

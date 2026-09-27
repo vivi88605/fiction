@@ -9,7 +9,7 @@
 
 ### Appearance
 
-- 161cm.
+- 158cm.
 - Blond hair with a wolf cut to her shoulder.
 - Blue eyes. The right one is slightly "bluer".
 - Looks similar to Victoria.
@@ -76,7 +76,7 @@
 
 ### Appearance
 
-- 168cm.
+- 165cm.
 - Blond hair with a ponytail to her waist.
 - Blue eyes.
 - Looks similar to Evelyn.
@@ -148,6 +148,7 @@
 - **Resemblance**
   - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
   - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
+  - Evelyn cuts her own hair and insists on trimming Victoria's bangs too — otherwise Victoria would never bother to style them — which sometimes results in them having similar bangs.
   - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
   - Evelyn's feelings about Victoria wearing her face were equal parts guilt and morbid fascination at someone else "having it". It was why she latched on when they first met, and Victoria's guardedness never stood a chance.
 - **Mutual Awareness**
@@ -156,14 +157,6 @@
   - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
   - They're both stubborn and don't like inconveniencing others.
 
-### Vitals & Location Link
-
-- After leaving the unit, they repurposed their vitals monitors and location pings to report only to each other.
-- The location ping runs passively at all times.
-- Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
-- Live vitals viewing opens only while a job is active.
-- Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
-
 ### Things they do together
 
 - Run room-entry drills before bigger jobs, out of old-unit habit.
@@ -171,6 +164,14 @@
   - Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
 - Although most of their hobbies are different, They sometimes play video games or watch silly cartoons together. Some of those cartoons turn out to be surprisingly good.
 - Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
+
+### Vitals & Location Link
+
+- After leaving the unit, they repurposed their vitals monitors and location pings to report only to each other.
+- The location ping runs passively at all times.
+- Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
+- Live vitals viewing opens only while a job is active.
+- Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
 ## Trivia
 
