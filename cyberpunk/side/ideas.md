@@ -22,7 +22,7 @@
 
 ## Hurt/comfort
 
-- **Blind.** A power spike or an EMP on a job fries Victoria's eyes. Both are artificial, so she has no working eye at all. Evelyn has to lead her out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Afterwards, at Jax's, the eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
+- **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
 
 - **The crash after the job.** A job goes clean, and Evelyn is loud and happy on the drive home. Then a crash hits from nowhere, with no trigger, and she can't get off the couch for two days. No blood in this one. Victoria doesn't know what to call it, so she brings tea, doesn't ask questions, and reads in the same room. This fits your "comfort through observation, not conversation" dynamic.
 
