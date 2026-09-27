@@ -21,16 +21,16 @@ Only edit `info/` when the user is explicitly updating canon/worldbuilding — o
 
 Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 
-| File                           | Covers                                                                                                                     | Read when...                                                                                          |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `0_Characters.md`              | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast | Almost any scene with these characters — this is the baseline voice/personality/interiority reference |
+| File                           | Covers                                                                                                                                                  | Read when...                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `0_Characters.md`              | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast                              | Almost any scene with these characters — this is the baseline voice/personality/interiority reference |
 | `0_Technology.md`              | Tech rules — "high tech, low life" test, cyberware tiers, neural depth & maintenance, data/biometrics, weapons, hacking, restricted AI, power structure | Any scene involving implants, repairs, hacking, surveillance, or tech that needs to stay consistent   |
-| `1_Past_Service_Period.md`     | Service-era setting — Concord/CEF hierarchy, training & service timeline; summary of the meeting and friendship arc        | Writing flashback/backstory scenes or anything needing historical/setting context                     |
-| `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                                            | Writing present-timeline slice-of-life or job/work scenes                                             |
+| `1_Past_Service_Period.md`     | Service-era setting — Concord/CEF hierarchy & wars, academy & deployment life; summary of the meeting and friendship arc                                | Writing flashback/backstory scenes or anything needing historical/setting context                     |
+| `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                                                                         | Writing present-timeline slice-of-life or job/work scenes                                             |
 
 The numeric prefixes are chronological (1 = past, 2 = present) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading them in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
-`1_` and `2_` each open with a `## Summary` section (a handful of bullets) before their full detail. If you just need to reference or check consistency with what happens in that period, the summary is usually enough — read past it into the full file only when you need the setting detail it holds. For exact dialogue/sequencing of an event, go to that event's outline (find it in `arc/README.md`).
+`1_` opens with an `## Arc Summary` — the period's event throughline (how they met through leaving service) — followed by the setting detail. `2_` opens with a `## Summary` digest of the present-day status quo before its full detail. For checking consistency with a period, the opening section is usually enough; read on only when you need the setting or routine detail below it. For exact dialogue/sequencing of an event, go to that event's outline (find it in `arc/README.md`).
 
 ## arc/ structure
 

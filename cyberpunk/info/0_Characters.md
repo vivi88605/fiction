@@ -11,7 +11,7 @@
 
 - 161cm.
 - Blond hair with a wolf cut to her shoulder.
-- Blue eyes.
+- Blue eyes. The right one is slightly "bluer".
 - Looks similar to Victoria.
 
 ### Personality
@@ -39,10 +39,13 @@
 
 ### Backstory
 
+- Grew up poor. Before enrolling in the CEF academy at 15, she had already sold her own biometric templates for cash. The academy meant food, a bed, and a future, with the bill deferred.
+- Family isn't part of her life. Questions about them get a joke and a change of subject.
 - Years ago, back in the unit, she was in a much darker place — secretly seeking out pain, didn't care whether she woke up the next day. None of it showed; she was exactly this cheerful and jokey on the surface then too.
 - Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying.
 - But the recovery isn't clean: the swings between restless highs and crashes that come from nowhere are the current shape of what used to be flat gloom.
 - Her self-preservation instinct may or may not have been lost along with her right eye. She isn't sure and genuinely doesn't care anymore.
+  - "Worst case, I lose another piece. Then I'll get a new one."
 
 ### Hobbies
 
@@ -103,10 +106,12 @@
 
 ### Backstory
 
+- Grew up inside Concord's orbit and enrolled in the CEF academy at 15 as a believer; it was the natural next step.
 - During her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
 - With no 3D scan of her original face to rebuild from, the unit's reconstruction filled in the missing upper half with purchased biometric template data that was simply close enough. It just happened to be data Evelyn had sold off long before the two of them ever met.
 - She went in knowing she'd come out with a slightly different face and believing she'd be fine with that. She wasn't.
 - She came out of it wearing a stranger's face and a lasting refusal to trust information she hasn't verified herself.
+- Cut contact with her family after leaving the CEF.
 
 ### Hobbies
 
@@ -145,7 +150,6 @@
   - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
   - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
   - Evelyn's feelings about Victoria wearing her face were equal parts guilt and morbid fascination at someone else "having it". It was why she latched on when they first met, and Victoria's guardedness never stood a chance.
-
 - **Mutual Awareness**
   - Victoria knows Evelyn is secretly gloomy — not every detail, but enough. She rarely brings it up since Evelyn would just deflect, and the trend has been improving, so she doesn't want to poke at it. It's part of why she quietly reads Evelyn's recklessness as self-neglect rather than just stupidity.
   - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
@@ -173,6 +177,7 @@
 - **Nicknames**
   - People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she likes nicknames.
   - Evelyn mostly calls Victoria "Vic"—or whatever else she can dig out of her name when she feels like annoying her: "Victor", "Tori", "Ree", "Ria". Victoria used to object when it got too absurd, but has stopped reacting.
+  - Evelyn also calls Victoria "Needle" on occasion, which was Victoria's callsign in CEF. Evelyn's was "Doorbell," but Victoria rarely uses that.
   - Victoria sometimes calls Evelyn "Ev" because Evelyn keeps pushing for it. Otherwise she defaults to first names, with everyone.
 - **Social Life**
   - Evelyn has lots of friends (mostly from bars). She also dates all kinds of people across all genders, but rarely ends up in an actual relationship.

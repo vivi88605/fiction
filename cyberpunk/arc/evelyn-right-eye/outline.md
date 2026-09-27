@@ -141,7 +141,7 @@
 | Rounding-off         | Done _to_ her: the threat shrinks step by step until it's gone | Done _by_ her: the loss shrinks step by step until it's "just an eye" |
 | Review outcome       | "No further action": the injustice                             | Closes the way she wanted: the kindness                               |
 | Records              | Pulls them and finds the truth                                 | Refuses the trace; looking would make it a big deal again             |
-| Mirror               | Looks once, never again                                        | Looks constantly; the fake eye shows up close, and she likes that    |
+| Mirror               | Looks once, never again                                        | Looks constantly; the fake eye shows up close, and she likes that     |
 | Relationship to body | Can't accept the replaced part                                 | Accepts it so completely that every part becomes replaceable          |
 | Ends with            | A rule: _intel is a claim, not a fact_                         | A belief: _it's just a part_                                          |
 
