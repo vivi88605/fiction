@@ -193,6 +193,8 @@
 - **Liquor**
   - Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.
   - Victoria is a quiet crier when drunk, but she rarely drinks, let alone enough to get there.
+- **Birthday**
+  - They were born the same year—Victoria on January 14 and Evelyn on June 7.
 
 ---
 

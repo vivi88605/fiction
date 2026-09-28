@@ -42,14 +42,14 @@ For checking consistency with a period, the opening section is usually enough; r
 
 ## arc/ and side/ structure
 
-Both directories use the same per-piece layout, so promoting a side piece is just a folder move. Each beat gets its own subfolder under `arc/` (or piece under `side/`): one single outline file, one picked prose file, and a gitignored folder of timestamped drafts.
+Both directories use the same per-piece layout, so promoting a side piece is just a folder move. Each beat gets its own subfolder under `arc/` (or piece under `side/`): one single outline file, one picked prose file, and a folder of timestamped drafts.
 
 ```
 arc/
   <beat-name>/
-    outline.md             <- single outline/plotbeat, edited in place (tracked)
-    prose.md               <- the picked/canonical prose (tracked)
-    drafts/                <- gitignored, local only
+    outline.md             <- single outline/plotbeat, edited in place
+    prose.md               <- the picked/canonical prose, edited in place
+    drafts/
       20260926-1430.md
       20260926-1512.md
 ```
