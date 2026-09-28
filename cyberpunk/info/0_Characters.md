@@ -170,7 +170,7 @@
 - After leaving the unit, they repurposed their vitals monitors and location pings to report only to each other.
 - The location ping runs passively at all times.
 - Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
-- Live vitals viewing opens only while a job is active.
+- Live vitals viewing is switched on manually by both of them at the start of a job and switched off once they're clear.
 - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
 ## Trivia

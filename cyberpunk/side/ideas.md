@@ -4,7 +4,21 @@
 
 - **Jeffery's funeral.** The sweeping robot dies under Evelyn's bed. Evelyn holds a full memorial. Victoria says it's a machine, then spends two hours at the soldering station bringing it back. Evelyn announces a resurrection. Victoria says nothing and starts dusting.
 
-- **Tutorial attempt #4.** Evelyn finally finishes the 3D modeling tutorial because she wants to print something for Victoria, and the gift is a secret. It comes out slightly wrong. Victoria keeps it on the shelf she keeps perfectly tidy, where it's the only thing that's slightly wrong.
+- **The roommate, in person.** Evelyn's bar friends finally meet the Victoria they've heard about for years, and she's exactly as scary as they were told. One of them mentions a novel Victoria has read. Victoria ends up in a forty-minute conversation and forgets she didn't want to be there. Evelyn watches, feeling proud and a little jealous.
+
+- **Stakeout soap opera.** A nine-hour watch with nothing happening. Evelyn is bored on comms and starts inventing life stories for people on the street. Victoria treats it like an observation drill and corrects her with real details: that man has been past three times, and his shoes don't match his jacket. By hour seven they've built a full soap opera with a love triangle. When the target finally shows up, they're both a little disappointed.
+
+- **Range day, reversed.** Evelyn comes along to Victoria's budgeted live-fire session. Evelyn is great up close and hopeless at distance. For once Victoria is the teacher, and Evelyn is exactly the stubborn, sore-losing student Victoria usually is. Victoria isn't gleeful about it the way Evelyn would be, but she's close.
+
+- **Unlocked.** Evelyn spends two nights planning an elaborate breach, and Victoria briefs her on the door hardware in detail. On the night of the job, the door is unlocked. Evelyn takes it personally. Victoria notes it in her log with no comment, and that bothers Evelyn more.
+
+- **Doorbell.** On a clean job Victoria slips and uses Evelyn's old callsign over comms, which she almost never does. Evelyn doesn't say anything in the moment, since she's a professional. After the job, she won't stop talking about it.
+
+- **The nickname ledger.** Victoria has apparently been keeping a private list of every ridiculous variation of her name Evelyn has ever used. Evelyn discovers it and is delighted—until she realizes Victoria has also been rating them.
+
+- **Mystery novelist.** Evelyn finds a page of fiction Victoria forgot to hide. She doesn’t tease her about writing; instead, she spends the day loudly theorizing about the unnamed author and declaring them “obviously brilliant, devastatingly mysterious, probably very attractive.” Victoria nearly dies of restraint.
+
+- **Domestic target practice.** Victoria uses a harmless training laser to deal with a pest Evelyn insists she can catch manually. It turns into a precision operation with Evelyn acting as spotter. Jeffery complicates the mission. Neither will admit they had fun.
 
 - **The karaoke alarm.** Evelyn's heart rate crosses the alert threshold at midnight while she's at a bar. Victoria shows up braced for the worst and finds Evelyn doing a duet with strangers, belting it like a military anthem. Evelyn pulls her onto the stage. Whether Victoria actually sings is up to you.
 
@@ -12,19 +26,13 @@
 
 - **Jacket inspection.** A job needs Victoria to blend in, so Evelyn runs a fashion show with all 20-something jackets in the apartment. Victoria rejects every one and picks the one she always wears. Evelyn is devastated. Later Victoria tries one of the others on quietly, when she's alone.
 
-- **Cartoon marathon.** No jobs and nothing to prep. The silly cartoon turns out to be good, and by episode 9 Victoria is arguing about character motivations with complete seriousness. Evelyn is delighted to have made her invested.
-
-- **Victoria wins once.** In one sparring session Victoria actually pins Evelyn. Evelyn demands a rematch right away. Victoria refuses, then and forever, to protect her one win. It becomes a running bit.
-
-- **Grocery day.** Victoria is swamped with prep and has to let Evelyn do the shopping. Evelyn comes back with what she swears is a balanced haul, which is mostly snacks, and tries to cook a "healthy" dinner to prove her point.
-
 - **Guess the book.** Victoria is reading on her eye implant, staring into space. Evelyn narrates the plot she imagines from Victoria's small facial reactions and gets more and more dramatic. Victoria won't confirm or deny anything, but her mouth twitches at the right moments.
 
 ## Hurt/comfort
 
 - **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
 
-- **The crash after the job.** A job goes clean, and Evelyn is loud and happy on the drive home. Then a crash hits from nowhere, with no trigger, and she can't get off the couch for two days. No blood in this one. Victoria doesn't know what to call it, so she brings tea, doesn't ask questions, and reads in the same room. This fits your "comfort through observation, not conversation" dynamic.
+- **Crash after a job.** A job goes clean, and Evelyn is loud and happy on the drive home. Then a crash hits from nowhere, with no trigger. She's still up and still joking, but the jokes have gone flat, and she hasn't left her room much in two days. Victoria doesn't know what to call it, so she brings tea, doesn't ask questions, and reads in the same room.
 
 - **Drunk Victoria.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
 

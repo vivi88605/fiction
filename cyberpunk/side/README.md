@@ -11,3 +11,4 @@ Tags: `slice-of-life`, `whump`, `h/c`, `h/nc`, `au` — combine freely. "Premise
 | [bangs-day](bangs-day/) | Bangs day | Present day, an ordinary maintenance day at Jax's; Victoria already knows the face is Evelyn's sold template | slice-of-life |
 | [jefferys-funeral](jefferys-funeral/) | Jeffery's funeral | Present day, a quiet downtime afternoon; Jeffery has been part of the household for a couple of years | slice-of-life |
 | [blind](blind/) | Blind | Present day, a job that turns out to have military-grade countermeasures; Victoria's eyes and Evelyn's right eye are old CEF models on third-party firmware | whump, h/c |
+| [crash-after-the-job](crash-after-the-job/) | The crash after the job | Present day, right after a clean job; the crash is the subtle, still-functional kind, not an incapacitating one; Victoria has no name for it | h/c |
