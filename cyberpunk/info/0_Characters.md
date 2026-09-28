@@ -143,8 +143,8 @@
 ### Dynamic
 
 - Platonic, found-family dynamic.
-- They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean.
-- They've lived together ever since they left CEF.
+- They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean; they've lived together ever since.
+- Whether or not there were ever subtle feelings between them, years of sharing a life transformed whatever was there into purely a sense of family.
 - **Resemblance**
   - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
   - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.

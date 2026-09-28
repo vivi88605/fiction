@@ -1,0 +1,251 @@
+# The Bunk Inspection
+
+The warning came in over the squad channel at 0914, flat and fast, the way Actual said everything that mattered.
+
+"Sector's walking the refit barracks. Starting at the east end. We're fourth. Call it five minutes."
+
+Victoria was already standing. Her bunk had been inspection-ready since 0600, because it was always inspection-ready, because the alternative was a morning like this one. She did a single pass of her own area out of habit—blanket squared, boots aligned on the painted line, locker shut and sealed—and then turned, as everyone in Turquoise Nine was turning, toward the far corner.
+
+Evelyn was sitting cross-legged on her mattress with a stylus behind one ear and a ration bar in her mouth, surrounded by what could only be described as terrain.
+
+"Five minutes," she said around the bar. "That's fine. That's so much time."
+
+It was not so much time.
+
+The bunk itself was not visible. There was a blanket somewhere under the sketch sheets, and under the blanket was a second blanket that did not belong to Evelyn and that Victoria was fairly sure belonged to a support gunner from Garnet Six two rows over. There were three uniform shirts in three stages of wearing, a single sock on the floor and its partner, inexplicably, on top of the light fixture. There were cans. There was a paper bag from the civilian vendor outside the gate that Victoria had personally watched Evelyn tell the gate guard was "medical." Her locker door stood half open, and the inside of it looked like it had been packed by someone throwing things at it from across the room, which, Victoria had also personally witnessed, it had.
+
+"Four minutes and forty seconds," Victoria said.
+
+"You have a clock in your eyes. That's cheating."
+
+"Get off the bed."
+
+Evelyn looked up. Whatever she saw in Victoria's face made her swallow the rest of the ration bar in one bite and get off the bed.
+
+---
+
+Victoria had not planned to help. She registered that fact somewhere in the back of her head, distantly, the way she might register wind shifting on a range: noted, not acted on. The rational position was that Evelyn's bunk was Evelyn's inclusion, and Evelyn had collected enough inclusions over her career that one more would change nothing but the length of a lecture.
+
+But Actual had said _we're fourth_, not _she's fourth_. A bad bunk went on the squad's refit report. And Turquoise Nine's refit report went up under the name of its Senior Operative, directly below Actual's.
+
+So: help. Efficiently.
+
+"Paper," Victoria said, and Evelyn scooped the sketches into a stack with more care than she'd shown anything else in the room. Victoria didn't look at them. She'd seen the edges of a few before—street corners, a gunner's profile, a lot of hands—and had decided a while ago that she was not going to ask. "Bottom of the locker, flat, under the spare trousers. Cans."
+
+"Recycling's all the way down at—"
+
+"Under the bunk frame. Against the back rail. He won't crouch."
+
+"How do you know he won't crouch?"
+
+"Sector inspectors don't crouch." Victoria stripped the gunner's blanket off the mattress, folded it into a tight rectangle in four movements, and put it into Evelyn's arms. "Two rows over. Garnet Six. Blue tag. Go."
+
+Evelyn went. Victoria heard her say _hi, sorry, this is yours, don't ask_ and a gunner's baffled _what_ and then Evelyn was back, faster than Victoria had expected. Breacher reflexes were wasted on almost everything, but not, apparently, on this.
+
+"Shirts."
+
+"Which shirts?"
+
+"The two you've worn go in the laundry sack. The one you haven't goes on you. You're wearing the one with the stain."
+
+Evelyn looked down at herself. "That's not a stain, that's—"
+
+"It's a stain."
+
+Evelyn changed shirts. Victoria turned her back to give her the thirty seconds of privacy the barracks didn't otherwise offer and used them on the blanket. Regulation corners: tuck, fold at forty-five, tuck again. She'd done it so many times at the academy that her hands had stopped needing her for it years ago. Rough Eight had been inspected twice a day for two years, and a single visible crease had been an inclusion. By the end of it nobody in her section made a bed so much as _installed_ one.
+
+"Wow," said Evelyn, behind her. "That's disturbing."
+
+"Three minutes."
+
+"Can you do mine like that every day?"
+
+"No."
+
+"What if I paid you."
+
+"In what?"
+
+Evelyn considered this. "Vendor food."
+
+"Sock," Victoria said, and pointed at the light fixture without looking up.
+
+Evelyn jumped for it, caught it, and landed nearly silent. Victoria had seen her do the same thing through a window frame on a raid three weeks ago, under fire, and had thought at the time—annoyingly—that it was very good. It was very good now, too, for a sock.
+
+---
+
+The locker was the real problem.
+
+Victoria opened it all the way and stood in front of it for one second, which was the longest she allowed herself to stand in front of any problem.
+
+There was the paper bag of vendor snacks, which was contraband. There was a small, dented flask, which was contraband in a much more serious category. There were four spray cans in colors the CEF had never issued anything in, a portable speaker with a civilian network chip that was not registered to the base, a deck of cards stamped with another squad's insignia, a jar of something red with a hand-lettered label that said _DO NOT_, and approximately forty loose hair ties.
+
+And, underneath it all, a completely regulation-standard set of issued kit, which Evelyn owned and simply never used.
+
+"Okay," Evelyn said, coming up beside her. "So."
+
+"Where were you planning to put all of this."
+
+"I had a plan."
+
+"What was the plan?"
+
+"The plan was nobody was going to inspect us until next week."
+
+Victoria closed her eyes briefly. It didn't help; the display behind them kept counting. Two minutes and fifty-one seconds.
+
+"Issued kit out," she said. "All of it. Onto the bunk."
+
+They pulled it out together. Victoria set it in the order the regulation card listed, top shelf to bottom, and Evelyn handed her things before she asked for them, which was new. Victoria noticed that, too, and filed it with the window frame and the sock. There had been a time, not long ago, when every object Evelyn handed her came with a joke about her face attached. Somewhere in the last few rotations the jokes had gotten less frequent and the handing had gotten better.
+
+She didn't know what to do with that yet. So she folded.
+
+Fatigues in a stack with the fold edges out. Undershirts rolled to the width of a hand. Socks rolled and tucked, a row of six. Boots on the lower shelf, toe-out. Helmet on the top shelf, strap coiled once inside the shell. Rain layer folded into its own pouch. Regulation card taped at eye level on the inside of the door. Evelyn's card had been taped upside down. Victoria turned it over.
+
+"The rest of it," Evelyn said. "The, um. Non-issue."
+
+"Laundry sack."
+
+"They open the laundry sacks."
+
+"Not on a walk-through."
+
+"Vic." Evelyn held up the flask. "They'd open the laundry sack for this."
+
+It was a fair point. Victoria took the flask out of her hand and looked around the corner of their bay for any place in it that a Sector inspector walking a refit barracks at speed would not look. The bunk frame: too obvious, and already full of cans. The ceiling panels: too slow. The drain: no.
+
+"Two minutes," she said, more to herself than to Evelyn.
+
+"I've got it," Evelyn said. "Go stand at your bunk. You look suspicious hovering here. You look like my accomplice."
+
+"I _am_ your—"
+
+"You're my superior officer," Evelyn corrected, with enormous sincerity. "And you have nothing to do with any of this. Go. I've got it."
+
+Victoria looked at her for a second. Evelyn looked back, bright-eyed and entirely composed in a way that Victoria had learned, over the last several months, meant absolutely nothing about whether Evelyn was composed.
+
+The corridor door at the east end of the barracks opened. Boots. The low murmur of an inspector talking to somebody's squad leader.
+
+Victoria went and stood at her bunk.
+
+She did not look back. She heard the soft sounds of Evelyn moving—a rustle, a click, another click, quick and light—and then Evelyn slid into place beside her own bunk and came to attention a half second before the inspector turned the corner, as if she'd been standing there all morning thinking about nothing.
+
+---
+
+The inspector was a Sector staff officer with a tablet, a clean uniform, and the specific expression of a man who had walked through six barracks already that morning and would walk through six more. Actual walked a pace behind him. The rest of Turquoise stood by their bunks and didn't breathe.
+
+He checked the medic's area. He checked both gunners'. He stopped at Evelyn's.
+
+Victoria watched him from the corner of her eye. He looked at the bunk—corners, tension, the flat plane of it—and then at the locker, open for inspection, its contents stacked so squarely that the shelves looked like a diagram of themselves. He took a very small step closer. He looked at the socks.
+
+"Operative," he said.
+
+"Sir," said Evelyn.
+
+He glanced at his tablet. Victoria knew what it was showing him, because she'd seen Evelyn's file herself when Evelyn transferred in: a record so full of inclusions it read like a geological core. He looked at the tablet, and then at the locker, and then at Evelyn, who gazed straight ahead with the serene, empty expression of someone who had never in her life owned a jar labeled _DO NOT_.
+
+"Hm," said the inspector, and made a note, and moved on.
+
+He reached Victoria. He looked at her bunk, and her locker, which she opened for him and which looked—as it always did—exactly like Evelyn's did now. He glanced at her record, which was clean, and at her face for no longer than people usually glanced at her face.
+
+"Senior Operative."
+
+"Sir."
+
+He didn't step closer. He didn't look at her socks. He made a note, said something to Actual about Turquoise Nine being "a credit to the refit rotation," and walked on to Beryl Five.
+
+Victoria closed her locker. It sealed with the soft click of its lock taking her print.
+
+Across the bay, Evelyn caught her eye and very slightly raised her eyebrows. It was the most controlled expression of triumph Victoria had ever seen on her. It lasted exactly as long as it took Actual to walk past and mutter, not quite under his breath, "I don't want to know," and then Evelyn was grinning outright.
+
+Victoria let herself exhale.
+
+It had worked. That was the part she hadn't expected. Not that the bunk would pass—she'd made the bunk—but that the locker would, and that it had taken less than five minutes, and that for some of those minutes it had felt less like cleaning up after a subordinate and more like the last few raids had: two people moving through a problem without needing to talk about it.
+
+She didn't know what to do with that, either.
+
+---
+
+It was an hour later, after the inspection had cleared the building and the barracks had come back to its normal noise, that Victoria opened her locker to change for afternoon calibration.
+
+She stopped.
+
+Nothing was wrong. Everything was exactly where she had put it. Fatigues. Undershirts. Six rolled socks in a row. Boots toe-out. Helmet on the top shelf.
+
+She looked at the socks.
+
+They were very slightly larger than they had been this morning. Not much. Maybe three millimeters in diameter. The kind of difference nobody would ever see who hadn't rolled those exact socks at the exact same width every day for five years.
+
+She took the first one out and unrolled it. Inside was a foil-wrapped vendor pastry, slightly crushed.
+
+The second sock held a hair tie wrapped around a cluster of other hair ties. The third held a small jar with a hand-lettered label. The fourth sock, which was not her sock at all but a very good imitation of one of hers, rolled to the same width, held a deck of cards with Beryl Five's insignia on the back.
+
+Victoria put the socks down. She reached up and lifted her helmet off the top shelf. The flask was nested inside it, wedged in with the coiled strap so it wouldn't rattle. She put the helmet down, and crouched, because Sector inspectors didn't crouch but she did, and found four spray cans lying flat behind her boots, painted over—just the caps—in the exact shade of the locker's interior.
+
+The speaker was in her rain-layer pouch.
+
+She stayed crouched there for a while.
+
+"Vic?" Evelyn's voice came from the end of the bay, then closer, then stopped. "Ah."
+
+Victoria stood up. She turned around. Evelyn was standing at the edge of her area holding two cans of something from the vendor, one of which she had clearly been planning to offer as a peace gesture, and wearing the expression of a person who had calculated this moment in advance and still found it funnier than expected.
+
+"When," Victoria said.
+
+"When you went to stand at your bunk. Your locker was still open, you'd just closed Garnet's blanket thing, and I thought—" Evelyn spread her hands, cans and all. "Where's the one place in this building nobody's ever going to look?"
+
+"_My locker_."
+
+"Your locker," Evelyn agreed. "Best-inspected locker on base. He didn't even step toward it. It's the safest place in the world. Honestly, Needle, I'd trust it over a bank."
+
+"If he had looked—"
+
+"He wasn't going to look."
+
+"_If_ he had looked," Victoria said, and heard her own voice go cold and very even, the way it did right before she stopped being polite, "that would have been my inclusion. Not yours. Mine. My name is on the locker."
+
+Evelyn's grin faltered for a second. It was a small thing, the barest hitch, and then it came back—but Victoria had seen it go. She had the feeling that Evelyn had not, in fact, fully considered that part. That she had thought _nobody inspects Victoria_ and had not thought one step further, to what it would mean if somebody did.
+
+"Yeah," Evelyn said, quieter. "Yeah. Okay. That's fair. I'll get it out. Right now, I'll—"
+
+She reached past Victoria toward the locker. Victoria didn't move out of the way.
+
+The honest answer, the one that was procedurally correct, was that all of it should go into a bag and the bag should go to Actual. Victoria knew that. She had been raised on that. Two years ago she would have done it without a second thought, and been proud of doing it.
+
+She looked at the locker. The jar that said _DO NOT_. The flask in her helmet. The cards Evelyn had almost certainly won off Beryl Five, which were the reason Beryl Five's gunner had been glaring at their bay for a week. The caps painted to match the locker wall—that had taken time. That had been done _before_ this morning. Evelyn had been saving that trick for something.
+
+"Leave it," Victoria said.
+
+Evelyn stopped with her hand halfway out. "What?"
+
+"It passed inspection." Victoria picked up the unrolled sock with the pastry in it, rewrapped the pastry, and rolled the sock back around it—neatly, this time, to exactly the right width. "It stays where it passed."
+
+Evelyn stared at her.
+
+"You'll know where it is," Victoria went on, putting the sock back in its row. "You'll ask before you take anything out. And you will not put anything _else_ in here without telling me first."
+
+"Are you—" Evelyn's voice climbed in delight. "Are you my _accomplice_ now?"
+
+"I'm the one whose name is on the locker."
+
+"That's a yes."
+
+"That's a condition."
+
+"That's a _yes_," Evelyn said, and set one of the cans on Victoria's bunk—on the very edge, not quite touching the blanket, like an offering placed at a shrine. Then she wandered back toward her own area, humming, loud enough that the medic looked up.
+
+Victoria turned back to the locker.
+
+It was wrong, now, in a way she could feel. Not the contraband itself—she'd made her peace with that faster than she would ever admit—but the arrangement. The speaker was too bulky for the rain-layer pouch; it pulled the fold out of true. The flask sat a few degrees crooked in the helmet. The caps were painted well, but the cans behind her boots weren't aligned with anything.
+
+She took it all out again.
+
+Then she put it back: flask straight, strap coiled around it once. Speaker moved to the back of the top shelf behind the helmet, where it fit. Cans lined up parallel along the rear wall, caps all facing the same direction. The socks re-rolled, every one, to exactly the same width, so that the ones with something inside were indistinguishable from the ones without.
+
+If it was going to be in her locker, it was going to be in order.
+
+When she was done she stood back and looked at it, and it looked like any other regulation locker in the CEF. Perfect. Inspected. Clean.
+
+On her bunk, the vendor can sat sweating a small ring onto the blanket.
+
+Victoria moved it to the floor, and then, after a moment, opened it.

@@ -1,5 +1,7 @@
 ## Fluff
 
+### Present
+
 - **Bangs day.** Evelyn trims Victoria's bangs and gets them almost exactly like her own. She insists it's an accident. The same afternoon at Jax's shop, Jax looks twice, then a third time, and asks if he's seeing double.
 
 - **Jeffery's funeral.** The sweeping robot dies under Evelyn's bed. Evelyn holds a full memorial. Victoria says it's a machine, then spends two hours at the soldering station bringing it back. Evelyn announces a resurrection. Victoria says nothing and starts dusting.
@@ -27,6 +29,22 @@
 - **Jacket inspection.** A job needs Victoria to blend in, so Evelyn runs a fashion show with all 20-something jackets in the apartment. Victoria rejects every one and picks the one she always wears. Evelyn is devastated. Later Victoria tries one of the others on quietly, when she's alone.
 
 - **Guess the book.** Victoria is reading on her eye implant, staring into space. Evelyn narrates the plot she imagines from Victoria's small facial reactions and gets more and more dramatic. Victoria won't confirm or deny anything, but her mouth twitches at the right moments.
+
+### Service era
+
+- **The bunk inspection.** _(Middle period.)_ Turquoise gets five minutes’ warning before an inspection, and Evelyn’s bunk area looks like a small explosive event. Victoria helps her make it regulation-ready with terrifying efficiency. The inspection passes—then Victoria discovers half of Evelyn’s contraband has been hidden in her perfectly ordered locker.
+
+- **The first trim.** _(Middle period, when they trust each other on the job.)_ Victoria's bangs have grown into her scope picture and she keeps pushing them aside mid-sight. Evelyn offers to cut them. It means letting someone hold scissors next to eyes Victoria lost once already, so she says no three times before she says yes. Evelyn is very careful and pretends not to be. This works as a prequel to _Bangs day_, and the likeness could start right here.
+
+- **Contraband.** _(Any time after Evelyn's transfer.)_ As second-in-command, Victoria confiscates Evelyn's junk food stash at a forward staging area. Then she hands it back at one piece a day and logs each one. Evelyn complains about the tyranny while also looking forward to the handout. On the last day of the rotation, Victoria issues two.
+
+- **Doorbell.** _(Later.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
+
+- **Same year.** _(Middle to late.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report. Each is sure the other is wrong.
+
+- **Seat in the mess.** _(Early on, while Victoria is still openly hostile.)_ Evelyn saves Victoria a seat in the mess every day. Every day Victoria sits somewhere else. The rest of Turquoise starts betting on it. The day Victoria finally sits down, she doesn't say anything about it, and Evelyn is so surprised that for once she doesn't either.
+
+- **Unauthorized morale operation.** _(Later.)_ Evelyn learns Victoria’s birthday only because she sees it on a maintenance form. She assembles a “cake” from ration bars, powdered creamer, and something illegally acquired from another squad. It is structurally alarming and tastes worse. Victoria eats her entire piece.
 
 ## Hurt/comfort
 

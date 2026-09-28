@@ -1,0 +1,351 @@
+# Range Day, Reversed
+
+Victoria budgeted live fire the way she budgeted everything else: in advance, in writing, with a margin she refused to call a margin. Forty rounds this month. Twenty at three hundred meters, twenty at five hundred. She'd log each shot with wind, temperature, and time, and then she'd go home and compare it against last month, and the month before that.
+
+It was a quiet thing. That was most of the point.
+
+"Take me with you," Evelyn said the night before. She was hanging over the back of the couch upside down, hair brushing the cushions, a can of something neon balanced on her stomach.
+
+"It's a training session."
+
+"I'll train."
+
+"You'll talk."
+
+"I can do both. I'm very talented." Evelyn tipped her head further back to look at Victoria properly, which from that angle meant looking at her feet. "Come on. You always come back from the range all—" She flattened her face into something serene and a little dead. "Like that. I want to see where the face happens."
+
+Victoria considered the request, the budget, and the odds of being left alone either way.
+
+"You buy your own ammunition."
+
+"Deal."
+
+---
+
+The range was an old rail yard at the edge of the city. The tracks had been pulled up years ago and never replaced, and someone had bulldozed the rubble into berms along the old track beds and planted target frames out to six hundred meters. A man in a booth at the gate took cash and did not look up. Victoria had been coming for four years and had never seen him look up.
+
+Evelyn had brought a box of pistol rounds and was shaking it like a maraca.
+
+"That won't fit the rifle," Victoria said.
+
+"I know. That's for the part where I'm good."
+
+There was a short pistol bay by the booth, seven meters of packed dirt and a bench that had been shot at more often than any target. Evelyn went there first, because of course she did. She loaded without looking, stepped up, and put two rounds into the center of the paper so close together the report sounded like one shot. Then two more. Then she emptied the magazine in a rhythm that was almost musical, and the booster made every double land like it had been planned a week in advance.
+
+When she reeled the target in, the center was one ragged hole.
+
+She turned and bowed.
+
+"Good," Victoria said.
+
+"_Good?_ Vic. That was art."
+
+It was good. The timing between shots had been clean and even the whole way down the magazine, no hitch, no stutter at the end. Victoria filed that away: booster firing properly, no drift, no jitter since the last time Jax had it open. She did not say so, because Evelyn thought this was a show, and it was, but it was also a data point.
+
+"Very good," Victoria amended.
+
+Evelyn beamed.
+
+---
+
+The three-hundred-meter lane was the one Victoria always used, second from the left, where the berm cut the crosswind a little at the near end and not at all at the far end, which made it honest. She laid out her mat, set up the rifle, and linked the scope to her optics. The overlay settled over her vision: range, a wind estimate she would ignore until she'd made her own, the faint grid of the reticle aligning with the glass.
+
+She made her own estimates first. Flag at the halfway frame, lifting and dropping. Dust at the far berm moving left. Grass along the track bed bending, then not. She put a number on it, compared it to the overlay's, and found they differed by a little. She trusted her own.
+
+Then she breathed, and let her heart rate come down on her own vitals until it sat where she wanted it, and the reticle stopped moving with her pulse.
+
+She fired twenty rounds in a little under twenty minutes.
+
+Evelyn was quiet for almost the entire first minute, which Victoria noticed and appreciated. After that she commented on the wind, the targets, a bird that had landed on the six-hundred frame ("brave little guy, or stupid, respect either way"), whether snipers ever fell asleep mid-shot, and whether it would be possible to train a bird to spot. Victoria answered the bird question seriously, because it was a better question than it sounded, and ignored the rest.
+
+When she reeled in her paper, the group was tight and a hair left of center. The wind at the far end had been stronger than she'd called. She logged it.
+
+"Okay," Evelyn said. "My turn."
+
+Victoria looked at the rifle. She looked at the twenty rounds she had left, the ones allocated for five hundred meters.
+
+"Five," she said.
+
+"Five? I bought—"
+
+"You bought pistol ammunition."
+
+Evelyn opened her mouth, closed it, and lay down on the mat.
+
+The stock was set for Victoria's length. Evelyn was seven centimeters shorter and her arms were proportioned to match, so Victoria knelt and adjusted the length of pull while Evelyn was busy wriggling her hips into the dirt. She didn't comment on it. Evelyn didn't notice. Then Victoria unlinked the scope from her own optics and switched it to plain glass.
+
+"Wait, can't my eye just do the thing?" Evelyn tapped the corner of her right eye. "Zoom, lines, whatever you've got going on."
+
+"Your eye is ten years old and running firmware you downloaded from a forum."
+
+"It's a _good_ forum."
+
+"It's not paired to this rifle. Use the glass."
+
+Evelyn settled in. She fidgeted with the grip, then with her elbow, then with her cheek against the stock, and then she fired almost the instant the reticle touched the target.
+
+The shot went somewhere. Nowhere on the paper.
+
+"Where'd it go?"
+
+"The berm."
+
+"The berm's _huge_."
+
+"Yes."
+
+She fired again. The same thing happened. The reticle drifted across the target, and the moment it crossed the center, the rifle went off. It was the same reflex that let her clear a doorway before the person on the other side had finished turning around. It was very fast and it was very wrong.
+
+"You're shooting when it looks right," Victoria said. "At seven meters, when it looks right, it is right. At three hundred, by the time you've decided it looks right, it's already moved."
+
+"So I'm too fast."
+
+"You're impatient."
+
+"That's the same thing with a worse attitude."
+
+"It is not the same thing."
+
+Evelyn fired a third round, deliberately slower, which somehow made it worse. She had waited, but she'd waited by holding her breath and squeezing everything, and at the last moment she slapped the trigger like it had insulted her. The rifle jerked. Dust went up two meters right of the frame.
+
+Victoria lay down on the mat beside her and looked downrange with her own eyes.
+
+"How far is it?" she asked.
+
+"What?"
+
+"The target. Without the reticle. How far?"
+
+Evelyn squinted over the top of the scope. "A hundred?"
+
+"Three hundred."
+
+"It's _labeled?_"
+
+"Yes. I wanted to know what you'd say."
+
+Evelyn made a noise into the stock. "Okay. That's fine. The rifle's zeroed for your weird robot eyes, that's the problem."
+
+"It's zeroed for the glass. Which is what you're using."
+
+"The wind, then."
+
+"The wind is the same for both of us."
+
+"The _mat_—"
+
+"Evelyn."
+
+She stopped. She set her jaw and looked through the scope, and her brows came down, and her mouth went thin and flat at the corners. Victoria, lying close enough to see all of it, went briefly still.
+
+It was her face. The expression, not just the features. It was the exact face she wore on the living room floor with Evelyn's knee on her back, when she'd lost for the fifth time and was already asking for a sixth. She'd seen it in the mirror enough to recognize it from the outside. It was strange to see it on Evelyn. It had been Evelyn's face first, strictly speaking, and Victoria had the odd, irritating thought that it looked better on its original owner.
+
+She put that away for later. Possibly forever.
+
+"Again," Evelyn said.
+
+Two rounds left. The fourth hit the frame, the wooden edge of it, and Evelyn whooped. Victoria pointed out that the frame was not the target. The fifth missed.
+
+Evelyn lay there for a long moment with her cheek on the stock.
+
+"More," she said.
+
+"That was five."
+
+"I'll pay for it."
+
+"With what?"
+
+Evelyn thought about it. "Love."
+
+Victoria looked at the fifteen rounds allocated for five hundred meters. She thought about the log, and last month, and the month before that, and a line in next month's that would now have a gap in it.
+
+Instruction was a skill, too. It could be logged.
+
+"Ten," she said. "And you listen."
+
+"I always listen."
+
+"You listen _this_ time."
+
+---
+
+She started with the body, because that was where the problem was.
+
+Evelyn's elbow was too far out. Victoria moved it. Her cheek was pressed so hard into the stock that her eye had crept too close to the glass, and the shadow ring at the edge of the view had to be jumping. Victoria moved her head back two centimeters with two fingers against her temple. Her shoulders were up around her ears. Victoria pressed one down with the flat of her hand and held it until it stayed there.
+
+This was usually the other way around. Evelyn's hands on her wrist, her collar, her shoulder, turning her into a position where she could escape a hold she'd never escape in real life. Evelyn talking the whole time. Victoria, who hated being handled, allowing it because it was useful.
+
+Evelyn, it turned out, also hated being handled. She didn't say so. She just went very tense under Victoria's hand in a way Victoria recognized from the inside.
+
+"Relax," Victoria said.
+
+"I am relaxed."
+
+"You're not."
+
+"I'm relaxed in a very focused way."
+
+Victoria took Evelyn's trigger hand and laid the pad of her index finger flat on the trigger, not the joint. "Press. Don't pull. Don't slap. Press straight back until it surprises you."
+
+"How can it surprise me? I'm the one doing it."
+
+"That's the part you practice."
+
+Evelyn looked at her sideways over the stock. "This is so Zen. I hate it."
+
+Then, with the air of someone doing something reckless, she said, "Turn on the vitals."
+
+Victoria paused.
+
+Live vitals were for jobs. They switched them on at the start and off once they were clear, and outside of that it was thresholds only, alerts only, nothing either of them could browse. Evelyn had complained about the tracking for five years. She'd complained about it yesterday.
+
+"For science," Evelyn said. "You do the breathing thing with yours, right? Watch the number go down. Show me the number."
+
+Victoria opened the feed.
+
+Evelyn's heart rate sat at a hundred and four. Lying down, in the sun, doing nothing more strenuous than failing to hit a sheet of paper. With her regulator disabled, being on the mat with a rifle and a target was apparently enough of an event.
+
+"You're at a hundred and four," Victoria said.
+
+"Is that bad?"
+
+"You're lying down."
+
+"I'm lying down _excitedly_." Evelyn's eye went unfocused for a second as she opened her side of the link. "What are you at? Oh, what the hell. Fifty-eight? Vic, are you dead?"
+
+"I'm calm."
+
+"You're a lizard on a rock." She was quiet a moment. "What do you even think about when you're down that low?"
+
+"The wind."
+
+"That's so sad."
+
+"It's restful."
+
+Evelyn considered that. "What do you think the wind thinks about?"
+
+It was the kind of question she asked at two in the morning, out of nowhere, usually while Victoria was trying to read. Victoria usually answered them.
+
+"It doesn't think," she said. "It goes where the pressure is lower. It's always moving toward something emptier than where it is."
+
+Evelyn was quiet.
+
+"That's a little sad too," she said.
+
+"Breathe," said Victoria. "In for four. Out for longer. Watch the number."
+
+They did it together, lying shoulder to shoulder on a mat meant for one, while Victoria watched a hundred and four slide to ninety-six and bounce back to a hundred when Evelyn got excited that it had gone down. Then it went to ninety-two. Eighty-nine. Evelyn started to say something and Victoria said "Out," and she breathed out instead.
+
+The first three shots of the ten went into the berm. The fourth hit paper, the very bottom edge of it, and Evelyn made a sound like a kettle.
+
+"Again," said Victoria.
+
+Evelyn turned her head. "Did you just — that's _my_ again."
+
+"It's a word."
+
+"That's my voice! That's my sparring voice. You do the face and then _I_ go 'again' like—" She did an impression of herself, which was just the word _again_ said with enormous satisfaction. "You're enjoying this."
+
+"I'm teaching."
+
+"You're enjoying teaching."
+
+Victoria didn't answer. She looked downrange at the dust along the far berm, which was moving left, a little harder now. She felt one corner of her mouth trying to do something and didn't stop it very hard.
+
+"_Needle_," Evelyn said, delighted and outraged at once. "You're _gloating_."
+
+"Four rounds," Victoria said. "Wind's picking up. Hold on the left edge of the black."
+
+---
+
+Two more went into the berm. One clipped the paper. By then Evelyn had stopped talking between shots, which Victoria noticed the way she'd notice a change in a machine she'd been listening to for years.
+
+Last round.
+
+Evelyn settled. She did it without being told this time: elbow in, shoulder down, head back from the glass. Her finger lay flat on the trigger. Victoria watched the number.
+
+Eighty-four. Eighty. Seventy-seven.
+
+Evelyn breathed out, long, and didn't breathe back in.
+
+Seventy-three. Seventy-one.
+
+Victoria realized she was holding her own breath. Her own feed, which Evelyn could see, had gone up four beats. She let it go and hoped Evelyn wasn't watching.
+
+The rifle went off, and for once Evelyn looked as surprised as she was supposed to.
+
+Through her own optics, Victoria saw the hole appear. Low and left, just inside the outer ring, but on paper and in the scoring area. It was a real hit.
+
+Evelyn couldn't see it through the glass at that distance, but she could see Victoria's face, and that was enough.
+
+She came up off the mat onto her knees and yelled. She didn't yell a word, just made a sound, at full volume, the way she sang, like the whole rail yard was a parade ground and she was leading it. It rolled out across the berms and came back off the far end.
+
+In the booth by the gate, the man looked up.
+
+Victoria had been coming for four years. She'd never seen him do it.
+
+"Low left," she said. "You anticipated the recoil."
+
+"_I HIT IT._"
+
+"You did."
+
+"Three hundred meters, Vic. Three hundred. That's so many meters."
+
+"It's the target at the front."
+
+"You can't take this from me." Evelyn flopped back down onto the mat, arms spread, grinning up at the flat grey sky. Her heart rate had gone straight back to a hundred and twelve and didn't look like it planned to come down. "One out of fifteen. That's a _career_. I'm a sniper now. I need a callsign. Something cool. Something with _gravity_."
+
+"You have a callsign."
+
+"I can have more."
+
+"No."
+
+---
+
+They packed up. Victoria cleaned the rifle on the tailgate of the car before she'd let it inside, because she always did. Evelyn sat on the bumper and watched her, eating chips from a bag she'd had somewhere on her person the whole time.
+
+"Rematch," Evelyn said. "Next week."
+
+"It's not in the budget."
+
+"I'll buy the right ammunition this time."
+
+"You'll still need to listen."
+
+"I listened today!"
+
+Victoria considered that. The last five shots, the quiet, the breath going out and staying out.
+
+"You did," she said.
+
+Evelyn stopped chewing. Then she grinned so wide it had to hurt, and looked away across the lot like she didn't want Victoria to see it, which was pointless, because Victoria could see everything within six hundred meters.
+
+On the drive home they switched off live vitals at the edge of the city, the way they did after a job: Victoria said "Off," and Evelyn said "Off," and the feed closed on both sides. Evelyn fell asleep against the window before they were halfway back.
+
+---
+
+That night Victoria sat at the table with her tea and opened the log.
+
+_300m. 20 rounds. Group 4.1cm, center left 1.2cm. Far-end wind underestimated._
+
+_500m. —_
+
+She looked at the dash for a while. Then she wrote _reallocated_ next to it, which was accurate.
+
+Under that she added a line she hadn't planned.
+
+_E. — 15 rounds, 300m, glass only. 1 scoring hit (low left, recoil anticipation). HR at break: 71._
+
+She read it back. It was a strange entry for the log, with the wrong initial at the front. She left it.
+
+Then she opened next month's budget. She sat looking at the forty rounds, the twenty and twenty, the line that had held for four years.
+
+She added ten. In the label field she typed _instruction_, deleted it, and typed _E._
+
+From down the hall, through a closed door, came the sound of Evelyn humming something with far too much gravity for one in the morning.
+
+Victoria saved the file and went to bed.
