@@ -20,6 +20,7 @@
 - Speaks energetically, prone to tangents — she'll jump to random topics without any clear lead-in.
 - Her humor is either teasing and narcissistic or sarcastic and dark, depending on her mood and the situation. She usually keeps the ones that would land wrong to herself.
   - The filtering is more likely to fail when she's in a bad state.
+- Slow to anger; very little actually gets to her. When something does, it rarely shows as anger — she turns polite, or goes quiet.
 - Short attention span.
 - Poor financial decisions.
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
@@ -66,6 +67,7 @@
 
 - Breacher — makes the entry point exist and goes in first, physical or electronic. Fast-entry style built on speed, reflex, and tight-space mobility rather than brute force.
 - Good with a pistol, but is hopeless when it comes to long range.
+- Strong in short bursts — sprints, vaults, kicking a door in — but Victoria outlasts her under sustained load. Her close-range edge comes from reflex, technique, and zero hesitation rather than raw strength, so she avoids letting a fight turn into a grapple.
 - No set training schedule; trains when she's got energy to burn and stops when she's bored, favoring loud, high-intensity sessions over routine.
 
 ## Victoria
@@ -129,6 +131,7 @@
 ### Specialty
 
 - Sniper/Technician — long-range marksmanship combined with the technical skill to calibrate optics, compute ballistics, and maintain her own gear; sharp enough on the technical side to double-check Carol's intel herself.
+- The stronger of the two in raw and sustained strength — years of hauling a rifle case, optics, ammo, and tech kit to position, then holding steady for hours. It rarely helps her in sparring, since Evelyn doesn't let her get a grip, but it shows when she does.
 - Trains daily without fail, regardless of how she's feeling.
 
 ## Standard-Issue Implants from CEF (Concord Expeditionary Force)
@@ -146,10 +149,6 @@
 
 - Platonic, found-family dynamic.
 - They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean; they've lived together ever since.
-- Whether or not there were ever subtle romantic feelings between them, years of sharing a life transformed most of whatever was there into a sense of family.
-  - Victoria suspects that what she felt toward Evelyn early on was largely circumstantial: prolonged stress, mutual dependence, and the unusual fact that Evelyn managed to get past defenses almost no one else could.
-  - That does not make the attachment less real. If anything, what remained after the circumstances changed matters more to her: Evelyn became family, and Victoria has no desire to pull the relationship apart just to determine which parts of it were ever romantic.
-  - There may still be occasional moments that do not feel entirely platonic, but Victoria regards them as residue rather than a direction she wants the relationship to take.
 - **Resemblance**
   - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
   - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
@@ -161,13 +160,25 @@
   - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
   - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
   - They're both stubborn and don't like inconveniencing others.
+- **Subtle Feelings**
+  - Whether or not there were ever subtle feelings between them, years of sharing a life transformed most of whatever was there into a sense of family.
+  - Victoria suspects that what she felt toward Evelyn early on was largely circumstantial: prolonged stress, mutual dependence, and the unusual fact that Evelyn managed to get past defenses almost no one else could.
+  - That does not make the attachment less real. If anything, what remained after the circumstances changed matters more to her: Evelyn became family, and Victoria has no desire to pull the relationship apart just to determine which parts of it were ever romantic.
+  - There may still be occasional moments that do not feel entirely platonic, but Victoria regards them as residue rather than a direction she wants the relationship to take.
+
+### Nicknames
+
+- People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she likes nicknames.
+- Evelyn mostly calls Victoria "Vic"—or whatever else she can dig out of her name when she feels like annoying her: "Victor", "Tori", "Ree", "Ria". Victoria used to object when it got too absurd, but has stopped reacting.
+- Evelyn also calls Victoria "Needle" on occasion, which was Victoria's callsign in CEF. Evelyn's was "Doorbell," but Victoria rarely uses that.
+- Victoria sometimes calls Evelyn "Ev" because Evelyn keeps pushing for it. Otherwise she defaults to first names, with everyone.
 
 ### Things they do together
 
 - Run room-entry drills before bigger jobs, out of old-unit habit.
 - Practice self-defense together, focused on close range, where Victoria is weakest. Evelyn teaches and wins almost every time.
   - Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
-- Although most of their hobbies are different, They sometimes play video games or watch silly cartoons together. Some of those cartoons turn out to be surprisingly good.
+- Although most of their hobbies are different, They sometimes play video games or watch competition shows and silly cartoons together. Some of those cartoons turn out to be surprisingly good.
 - Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
 
 ### Vitals & Location Link
@@ -177,29 +188,6 @@
 - Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
 - Live vitals viewing is switched on manually by both of them at the start of a job and switched off once they're clear.
 - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
-
-## Trivia
-
-- **Nicknames**
-  - People can call Evelyn whatever they want—"Ev", "Eve", "Lyn"... she likes nicknames.
-  - Evelyn mostly calls Victoria "Vic"—or whatever else she can dig out of her name when she feels like annoying her: "Victor", "Tori", "Ree", "Ria". Victoria used to object when it got too absurd, but has stopped reacting.
-  - Evelyn also calls Victoria "Needle" on occasion, which was Victoria's callsign in CEF. Evelyn's was "Doorbell," but Victoria rarely uses that.
-  - Victoria sometimes calls Evelyn "Ev" because Evelyn keeps pushing for it. Otherwise she defaults to first names, with everyone.
-- **Social Life**
-  - Evelyn has lots of friends (mostly from bars). She also dates all kinds of people across all genders, but rarely ends up in an actual relationship.
-  - Victoria only interacts with Evelyn and the side cast on a regular basis. She doesn't like socializing and is fairly introverted.
-- **Housework**
-  - They split bills and chores, but Evelyn hates chores so much she bought an army of appliances — sweeping robots, dishwashers, washer-dryers. Some are junk, so Victoria sticks to doing things manually on her turns, but the genuinely good ones end up winning Victoria over too.
-  - Evelyn named their sweeping robot Jeffery.
-  - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, Evelyn comes back with too many nutritionally or functionally questionable purchases.
-- **Questionable Purchases**
-  - Evelyn bought a ridiculously high-end 3D printer to learn 3D modeling, but has started the tutorial three times and never finished it.
-  - Evelyn buys clothes for both of them, since Victoria completely lacks a sense of fashion, which is why the apartment holds over 20 jackets.
-- **Liquor**
-  - Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.
-  - Victoria is a quiet crier when drunk, but she rarely drinks, let alone enough to get there.
-- **Birthday**
-  - They were born the same year—Victoria on January 14 and Evelyn on June 7.
 
 ---
 
@@ -222,8 +210,11 @@
 
 ## Carol
 
-- ??, she/her.
+- 19, she/her.
 - Hacker.
 - Remote-only, never met in person.
+  - Evelyn and Victoria don't know her age, though they have their suspicions.
 - Professional and Competent.
+  - Young genius. Has a direct brain interface, which she got through a megacorp program.
+  - Sometimes smug, a little arrogant about being the smartest one on the line.
 - Trust built job by job through consistent accuracy rather than personal rapport.
