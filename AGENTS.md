@@ -29,13 +29,14 @@ Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 | `0_Characters.md`              | Cast roster — appearance, personality, hobbies, implants, specialty, mental state/coping mechanisms; main pair + side cast | Almost any scene with these characters — this is the baseline voice/personality/interiority reference |
 | `0_Technology.md`              | Tech rules — "high tech, low life" test, cyberware tiers, neural depth & maintenance, and so on                            | Any scene involving implants, repairs, hacking, surveillance, or tech that needs to stay consistent   |
 | `1_Past_Service_Period.md`     | Service-era setting — Concord/CEF hierarchy & wars, academy & deployment life; summary of the meeting and friendship arc   | Writing flashback/backstory scenes or anything needing historical/setting context                     |
-| `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, job structure, apartment dynamic                                            | Writing present-timeline slice-of-life or job/work scenes                                             |
+| `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, apartment dynamic                                                           | Writing present-timeline slice-of-life scenes                                                         |
+| `2_Present_Jobs.md`            | Present-day merc work — two-person role split, work-day phases, job types taken/refused, solo work, why they survive       | Writing any job/mission scene, or checking whether a job premise is realistic for them                |
 | `3_Future_Ordinary_Life.md`    | Post-present: summary of the injury-and-retirement arc and where they end up; constraints the present must not contradict  | A canon beat set before it that risks a permanent injury or has them opening up to each other         |
 
 The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading them in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
 - `1_` opens with an `## Arc Summary` — the period's event throughline (how they met through leaving service) — followed by the setting detail.
-- `2_` opens with a `## Summary` digest of the present-day status quo before its full detail.
+- `2_` files open with a `## Summary` digest (the routine, or the job structure) before their full detail.
 - `3_` is short: an `## Arc Summary` of the future arc, then `## Constraints on the Present` — the fixed points any earlier beat (canon `arc/` pieces, not `side/`) must stay compatible with.
 
 For checking consistency with a period, the opening section is usually enough; read on only when you need the detail below it. For exact dialogue/sequencing of an event, go to the event's outline (find it in `arc/README.md`).

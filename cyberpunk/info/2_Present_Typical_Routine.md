@@ -6,7 +6,7 @@
 - Victoria: disciplined daily routine (tea, training, errands, gear checks), keeps the shared space tidy, verifies Dell's job pitches and cross-checks Carol's intel.
 - Evelyn: no routine at all, wakes whenever, messy room, swings between high-energy stretches (more jobs/socializing/graffiti/bad purchases) and subtler low periods (darker humor, less restless).
 - Evenings sometimes include self-defense practice (Evelyn teaches, since it's her strong range) that doubles as Victoria quietly checking on Evelyn's booster/joints/state of mind.
-- Work-day shape: Dell oversells a job -> Victoria verifies/Carol supplies intel -> approach (Victoria tenses up, Evelyn gets keyed up) -> old-unit coordination during -> aftermath differs if clean (food/drinks/reset) vs bad (Victoria quiet, Evelyn funnier/darker) -> Jax if anyone's hurt.
+- Jobs themselves (structure, roles, job types) are covered separately from the routine.
 - Underlying theme: comfortable domestic normalcy sitting on top of trauma and tracking habits neither of them talks about directly.
 
 For the full daily/weekly detail (exact training drills, hour-by-hour routine, dialogue-level beats), read the rest of this file.
@@ -126,54 +126,3 @@ They can spend hours in the same room barely speaking and still clearly be keepi
 
 A completely uneventful day is often the closest thing they have to the life both secretly want — though neither can quite picture giving up the work that makes it possible, and neither has said so to the other.
 
-## Work Day
-
-### Before the job
-
-- Dell sends the contract and presents it in the most favorable plausible terms.
-- Victoria reads everything carefully and asks inconvenient questions.
-- Evelyn focuses on breach points, risk, pay, and whether something can be blown open unnecessarily.
-- Carol supplies verified remote intel.
-- Victoria cross-checks key details rather than relying on a single source.
-- Victoria briefs Evelyn on door materials, lock hardware, and new security builds — the reading side of breaching that Evelyn neglects.
-- Before bigger jobs, they sometimes run room-entry drills out of old-unit habit. Evelyn takes entry and Victoria takes the overwatch role she'll have on the actual job.
-- On long prep nights, Victoria switches from tea to coffee.
-- Gear gets inspected before departure.
-
-### Approach
-
-- Victoria grows quieter and starts building contingencies, already assuming at least one thing will go wrong.
-- Evelyn becomes visibly more energized as danger gets closer. With her adrenal regulator disabled, nothing blunts the spike — and she likes it that way.
-- They monitor each other's location and vitals without discussing it.
-- Victoria can see Evelyn's unregulated adrenaline climbing on the vitals feed. She doesn't comment on it, but she doesn't stop watching it either.
-
-### During the job
-
-- They fall back into old-unit coordination easily.
-- Evelyn handles entry, disruption, close pressure, and rapid movement.
-- Victoria controls distance, angles, information, and technical problems.
-- They rarely need long verbal exchanges once things start moving.
-- Victoria notices risk early and tries to stop problems before they become emergencies.
-- Evelyn is more willing to accept physical risk, especially when adrenaline is involved. The most reliable brake on it is knowing Victoria will be the one frightened if she gets hurt.
-
-### After the job
-
-- **When it's clean**
-  - Evelyn wants food, alcohol, noise, or some combination of all three.
-  - Victoria wants payment confirmed, injuries checked, gear cleaned, and everything put back in order.
-  - Evelyn downplays minor injuries — Victoria can usually tell something is off from Evelyn's gait or how she holds herself, before Evelyn says a word.
-- **When it's bad**
-  - Victoria gets quieter.
-  - Evelyn gets funnier.
-  - The darker the situation, the harder Evelyn leans on jokes and deflection. Victoria usually reads this correctly rather than assuming she simply does not care.
-- **If someone is injured**
-  - Jax becomes the next stop.
-  - Evelyn insists she can walk in herself if physically possible.
-  - Jax and Evelyn immediately start making bad jokes.
-  - Victoria meets the worst of them with a flat glare and claims she cannot stand either of them — she stays regardless, and enjoys it more than she would ever admit.
-
-### Back home
-
-- Victoria resets gear and the apartment.
-- Evelyn either crashes, or keeps moving long past when she should.
-- The next day often looks surprisingly ordinary again.

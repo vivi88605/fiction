@@ -55,7 +55,7 @@
 
 ### Personalized Implants
 
-- Reflex booster, standard issue for breachers.
+- Reflex booster, standard issue for breachers. She can literally dodge bullets with it, but using it too much will cause physical strain and dizziness.
 - Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
   - A brighter and more saturated blue that looks artificial up close.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
@@ -65,6 +65,7 @@
 ### Specialty
 
 - Breacher — makes the entry point exist and goes in first, physical or electronic. Fast-entry style built on speed, reflex, and tight-space mobility rather than brute force.
+- Good with a pistol, but is hopeless when it comes to long range.
 - No set training schedule; trains when she's got energy to burn and stops when she's bored, favoring loud, high-intensity sessions over routine.
 
 ## Victoria
@@ -94,6 +95,7 @@
 - Good at keeping herself functioning even when she's mentally in an actual crisis.
 - Highly disciplined; keeps up routines regardless of how she feels that day.
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
+- Acts touch-averse, but is actually touch-selective. She dislikes casual or unexpected physical contact and instinctively stiffens or pulls away, but secretly enjoys affection from people she trusts.
 - Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
 - Night person, but she tries to sleep before 1:00 AM and sets her alarm for 8:00 AM.
 
@@ -117,7 +119,7 @@
 
 - Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it.
 - Prefers digital copies she can read directly via her artificial eyes so that others won't know what she's reading. (Evelyn knows she's reading when she stares into the void for too long.)
-- She may or may not have been writing her own novel, but she won't admit it.
+- She may or may not have been writing her own novel and active on certain online forums, but she won't admit it.
 
 ### Personalized Implants
 
@@ -144,7 +146,10 @@
 
 - Platonic, found-family dynamic.
 - They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean; they've lived together ever since.
-- Whether or not there were ever subtle feelings between them, years of sharing a life transformed whatever was there into purely a sense of family.
+- Whether or not there were ever subtle romantic feelings between them, years of sharing a life transformed most of whatever was there into a sense of family.
+  - Victoria suspects that what she felt toward Evelyn early on was largely circumstantial: prolonged stress, mutual dependence, and the unusual fact that Evelyn managed to get past defenses almost no one else could.
+  - That does not make the attachment less real. If anything, what remained after the circumstances changed matters more to her: Evelyn became family, and Victoria has no desire to pull the relationship apart just to determine which parts of it were ever romantic.
+  - There may still be occasional moments that do not feel entirely platonic, but Victoria regards them as residue rather than a direction she wants the relationship to take.
 - **Resemblance**
   - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
   - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
