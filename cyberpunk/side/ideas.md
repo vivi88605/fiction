@@ -30,6 +30,8 @@
 
 - **Guess the book.** Victoria is reading on her eye implant, staring into space. Evelyn narrates the plot she imagines from Victoria's small facial reactions and gets more and more dramatic. Victoria won't confirm or deny anything, but her mouth twitches at the right moments.
 
+- **Jeffery did it.** Victoria trips over the sweeping robot in the dark and badly sprains or fractures her ankle. She's on crutches for a few weeks. The real suffering: she can't keep the apartment in order, and Evelyn is now in charge of the tidying. Evelyn insists Jeffery didn't mean it. Victoria's crutch tips go precisely around him every time.
+
 ### Service era
 
 - **The bunk inspection.** _(Middle period.)_ Turquoise gets five minutes’ warning before an inspection, and Evelyn’s bunk area looks like a small explosive event. Victoria helps her make it regulation-ready with terrifying efficiency. The inspection passes—then Victoria discovers half of Evelyn’s contraband has been hidden in her perfectly ordered locker.
@@ -45,6 +47,8 @@
 - **Seat in the mess.** _(Early on, while Victoria is still openly hostile.)_ Evelyn saves Victoria a seat in the mess every day. Every day Victoria sits somewhere else. The rest of Turquoise starts betting on it. The day Victoria finally sits down, she doesn't say anything about it, and Evelyn is so surprised that for once she doesn't either.
 
 - **Unauthorized morale operation.** _(Later.)_ Evelyn learns Victoria’s birthday only because she sees it on a maintenance form. She assembles a “cake” from ration bars, powdered creamer, and something illegally acquired from another squad. It is structurally alarming and tastes worse. Victoria eats her entire piece.
+
+- **Second-in-command on crutches.** _(Service era.)_ A training-ground fall leaves her on crutches at a rear base. She still runs inspections, and she's somehow scarier this way. Evelyn carries her rifle case without being asked, and Victoria allows it without saying she's allowing it.
 
 ## Hurt/comfort
 

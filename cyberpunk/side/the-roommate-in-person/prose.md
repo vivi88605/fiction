@@ -1,0 +1,249 @@
+# The Roommate, in Person
+
+The bet had been Evelyn's idea, which Victoria pointed out twice on the way there.
+
+"You agreed to it," Evelyn said.
+
+"I agreed to the terms. I didn't agree that they were reasonable."
+
+"Best of five. You said, and I quote, 'Fine.'" Evelyn walked backward in front of her down the wet sidewalk so she could see her face, which was a mistake, because Victoria's face was doing nothing at all. "That's legally binding. That's basically a contract. You love contracts."
+
+"I love contracts I've read."
+
+Evelyn had pinned her four times out of five that afternoon. The one Victoria took, she'd taken by getting a hand on Evelyn's wrist and simply not letting go, and Evelyn had lain on the mat laughing while Victoria sat on her and looked faintly offended to have won that way. It hadn't changed the math. Loser came to Thursday at Kessler's. Loser stayed at least an hour. Loser was not allowed to spend that hour reading off the inside of her own eyes.
+
+"One hour," Victoria said.
+
+"One hour of _participation._"
+
+"That wasn't in the terms."
+
+"It was implied." Evelyn spun back around before she walked into a lamppost, and grinned at the street ahead. "They're so excited. You don't even know. I've been talking about you for five years."
+
+A pause behind her. "What have you been saying?"
+
+"Oh, you know." Evelyn waved a hand. "Nice things."
+
+---
+
+Kessler's was down half a flight of stairs, under a noodle place and a shop that unlocked secondhand phones and definitely also did other things. It was warm and low-ceilinged and loud in the specific way Evelyn liked, the kind of loud where nobody could hear your conversation except the person you were having it with. There was a karaoke rig in the corner that the owner claimed was broken and switched on anyway every time Evelyn asked.
+
+Her people had the big booth at the back. Evelyn saw them see her, and then saw them see who was behind her, and watched the whole table go quiet in a wave, one face after another, like a row of lights switching off.
+
+"Hi," Evelyn said. "This is Victoria."
+
+Victoria looked at the booth. Then she looked at the room — once, left to right, doors and bar and the hallway to the bathrooms and the stairwell they'd just come down — in a way Evelyn had seen so many times she'd stopped noticing it years ago. She noticed it now, because five other people were noticing it too.
+
+"Hello," Victoria said.
+
+Marco, who ran a forklift at the port and was built like one, actually sat up straighter.
+
+There were five of them tonight. Marco. Dee, who fixed drones and talked with her hands. Sunny and Paz, who'd been dating on and off for as long as Evelyn had known them and were currently on. And Hana, at the far end, who worked graveyard at a transit dispatch office and mostly listened and was the only one of them Evelyn had ever seen sober at closing.
+
+Evelyn slid into the booth. Victoria took the outside edge, where she could get up without asking anyone to move, and sat with her back straight and both hands resting on the table where people could see them, which was probably meant to be polite and came across like a hostage negotiator.
+
+"So," Dee said. "You're real."
+
+"Yes."
+
+"Ev said you were real. We weren't sure."
+
+"She's very real," Evelyn said. "Tell them you're real, Vic."
+
+Victoria looked at her.
+
+"She's real," Evelyn told the table.
+
+---
+
+It went about how Evelyn had expected, for the first twenty minutes.
+
+She hadn't _lied_, over the years. She'd just been selective, the way you were selective when you told a story at a bar at one in the morning to people who'd laugh. Vic once made a guy cry by looking at him. Vic can hit a bottle cap at eight hundred meters in a crosswind. Vic reorganized my closet while I was out and I didn't find my own jacket for a week, and when I asked her about it she said, and I quote, "You're welcome." Vic doesn't blink. I've never seen her blink. I think she had it removed.
+
+And now here Victoria was, and the thing was — she didn't do anything to contradict it. She didn't try to. She answered every question in as few words as the question allowed. Marco asked what she did and she said "the same work as Evelyn," and he waited for the rest of the sentence and there wasn't a rest of the sentence. Sunny asked if she liked the bar, and Victoria looked around it again, slowly, and said "It has two exits," which was a real answer to a question Sunny hadn't asked.
+
+The bartender came over and Victoria asked for tea. The bartender said they didn't have tea. Victoria said, "Water, then," and the bartender went away and came back ten minutes later with a mug of something hot and green that she'd clearly gone upstairs to the noodle place for, and set it down in front of Victoria without a word. Victoria looked at it, and then up at her, and said "Thank you" with a sincerity that made the bartender visibly flustered.
+
+Paz reached past Evelyn to grab a menu and, on the way back, patted Victoria's shoulder in a friendly, absent sort of way.
+
+Victoria went still. Not a flinch — worse than a flinch. A full-body stop, like a rifle settling. She turned her head and looked at Paz's hand, and then at Paz.
+
+Paz removed the hand.
+
+"Sorry," Paz said.
+
+"It's fine," Victoria said, and it was obviously, completely true that she meant it, and it did not help at all.
+
+Under the table, Evelyn pressed her knee against Victoria's, briefly. Victoria didn't look at her. She did pick up the tea.
+
+Evelyn was having a wonderful time.
+
+It was the reactions, mostly. Her friends kept looking at Victoria the way people looked at a big dog they'd been told was friendly — willing to believe it, not yet willing to put a hand out. And it was the fact that Victoria was _here_, in this booth, in Evelyn's place, with the sticky table and the karaoke rig and the green tea from upstairs. Evelyn had been telling stories about her for five years and some part of her had suspected, without ever examining the suspicion, that the stories had gotten bigger than the person. That her friends had built a Victoria out of the parts Evelyn had handed them, and the real one would walk in and be smaller.
+
+She wasn't smaller. She was exactly as big as the stories. Evelyn felt ridiculously, stupidly proud of that, like she'd made her.
+
+Twenty-two minutes in, by Victoria's clock — Evelyn knew she was counting — the conversation had drifted off her entirely, which was probably the kindest thing the table could have done. Dee was talking about a drone she'd rebuilt that now only flew in circles to the left. Marco had a theory about it. Sunny was on Evelyn's side of the booth now, and they'd gotten into an argument about whether the karaoke machine's scoring was rigged, which it absolutely was.
+
+At the far end, Hana had said almost nothing all night. She was turning her glass slowly on its coaster and she said, to nobody in particular, "I finally finished _The Undertow Year_ on shift last night."
+
+Dee said, "Is that the one you've been reading for six months?"
+
+"Four months. It's long."
+
+"How was it?"
+
+Hana made a face. "I don't know. I think I hated the ending? I'm still deciding."
+
+"She doesn't die," Victoria said.
+
+The table stopped.
+
+Evelyn turned. Victoria had not moved, exactly. She was still sitting with her back straight and her hands around the mug. But her eyes had come up off the table and were on Hana, and they were _focused_ — not the flat, whole-room vigilance she'd had on all night, but something narrower and brighter. Evelyn knew that look. She'd seen it across a kitchen table over a dead drone's circuit board, and on the rare nights Evelyn asked something weird at two in the morning, like whether a copy of a person was the same person, and Victoria, instead of telling her to go to sleep, put down whatever she was holding.
+
+Hana blinked. "Sorry?"
+
+"Maren," Victoria said. "At the end. People read it as her walking into the water. She doesn't. She's going out to check the nets. It's the same thing she does in the first chapter. Word for word, almost."
+
+Hana stared at her for a second. Then she put her glass down.
+
+"Okay, but then why does the brother burn the boat?"
+
+"Because he thinks she's dead."
+
+"So the _author_ wants us to think she's dead."
+
+"The author wants us to be the brother," Victoria said. "Which is different."
+
+"That's —" Hana stopped. Looked at the ceiling. "Oh, I hate that. Okay. Okay, but the letters —"
+
+"The letters are the weakest part of the book."
+
+"_Thank_ you."
+
+And that was it. That was the whole door. Evelyn watched her walk through it.
+
+---
+
+It went on for forty minutes. Evelyn checked, later, because she didn't believe it.
+
+The rest of the table drifted back to their own conversations after a while, the way people do when two others are clearly in something together and it isn't a thing you can join halfway through. Dee's drone came up again. Paz and Sunny went to the bar and came back with a round that nobody had ordered. Marco put on a song Evelyn liked and she didn't get up to sing it.
+
+She sat where she was and watched Victoria talk.
+
+Not _speak_ — Victoria spoke plenty, on a job, in terse, exact sentences that came out like she'd written them in advance. This was different. This was the thing she did maybe four times a year at home, when Evelyn hit something by accident that Victoria had been thinking about alone for too long. Her sentences got longer. She leaned forward. At one point she said "no, no, go back —" and actually held up a hand to stop Hana mid-sentence, and Hana, who worked graveyard at a dispatch office and had never in Evelyn's hearing been impatient with anyone, just laughed and went back.
+
+They argued about a character named Oskar for ten straight minutes. Evelyn did not know who Oskar was. She was fairly sure, from the way Hana said the name, that Oskar was a bastard, and from the way Victoria said it, that he was a _sympathetic_ bastard, and that this distinction mattered to both of them a great deal.
+
+At some point Victoria took her hands off the mug.
+
+At some point she stopped checking the stairwell.
+
+That was the one Evelyn caught herself staring at. She'd been sitting next to Victoria in a room full of strangers for nearly an hour, and it wasn't until the stairwell door banged open and three loud kids came down it that she realized Victoria hadn't looked at it in a while — and still didn't, now. Just kept talking. Something about the second half of the book being a mirror of the first, and the storm on page six hundred being the same storm.
+
+Evelyn had tried, years ago, to get Victoria to tell her what she was reading. It wasn't an unreasonable thing to want to know. Victoria would go still on the couch with that far-off, unfocused look that meant a page was open behind her eyes, and stay like that for two hours, and Evelyn would lean over the back of the couch and say _what is it, what's it about, is it smutty, it's smutty isn't it_ and Victoria would say "It's a book," and nothing else. After a while Evelyn had stopped asking. She'd figured it was just one of Victoria's things — a room with a lock on it that Evelyn didn't need to be in, like Evelyn's own room was a room Victoria didn't need to clean.
+
+And Hana had just walked in. Hadn't even knocked. Hana hadn't known there was a door.
+
+It wasn't a big feeling. Evelyn wanted to be clear with herself about that. It was a small one, sort of sour, sitting next to the other feeling — the proud one, the one that had been growing all night — and getting tangled up in it so she couldn't tell where one stopped. She was happy. She was _so_ happy. Look at her. Look at Vic, in a bar, arguing about a fictional fisherman with a near-stranger, laughing — she'd _laughed_, once, short and surprised, when Hana said something about the brother that Evelyn didn't catch.
+
+Evelyn wanted to have made that laugh.
+
+That was all. That was the whole ugly little thought, and she held it up and looked at it, and then put it down, because it was stupid. She'd brought Victoria here. She'd _bet_ her here. There was no version of tonight where this happened without Evelyn, and that was a thing to be proud of too.
+
+She drank. She let Marco talk at her about his bad knee. She did not sing.
+
+---
+
+"—oh, God, what time is it," Hana said, eventually, and checked. "It's been forever. I'm sorry. I've been monopolizing you."
+
+"You haven't," Victoria said.
+
+Evelyn watched it land on her. Watched her look up — around the table, at the empty glasses, at Marco half-asleep against the wall, at the clock — and come back into the room like she was surfacing. There was a very small beat where her face didn't know what to do.
+
+"It's been an hour and forty minutes," Evelyn said helpfully.
+
+Victoria looked at her.
+
+"You only owed me one. That's forty minutes of voluntary participation. I'm going to write it down. I'm going to have it framed."
+
+"Evelyn."
+
+"Framed," Evelyn said, "and hung."
+
+Hana had her phone out. "Can I send you something? There's a thread, on — it's a forum, it's mostly people losing their minds about the ending. You'd hate most of them. But there's this one person who posts these really long — I think you'd have things to say."
+
+Victoria's expression did something complicated and very brief.
+
+"I'll look," she said.
+
+---
+
+They walked home the long way, because Evelyn wanted to and Victoria didn't argue. It had stopped raining. The street was all reflections, the signs above them doubled and shivering in every puddle.
+
+Evelyn was quieter than she usually was after Kessler's. She knew it. She was trying to fix it and not quite getting there.
+
+"Your friends are nice," Victoria said, after a block.
+
+"Yeah?"
+
+"Paz apologized to me twice more. On the way to the bathroom, and on the way back."
+
+"Paz is terrified of you."
+
+"I noticed."
+
+"It's the best thing that's ever happened to me," Evelyn said, and meant it, and heard her own voice come out a little thin.
+
+Another block. Victoria had her hands in the pockets of the jacket Evelyn had bought her, the gray one, which she'd complained about and wore constantly.
+
+"You were quiet," Victoria said.
+
+"I was pacing myself."
+
+"You didn't sing."
+
+"The machine's rigged."
+
+"You've known the machine was rigged for three years."
+
+Evelyn laughed, and it came out right that time, mostly. She kicked at a puddle. Across the street somebody had painted over the wall she'd done in the spring, which was annoying, but it was a pretty good piece, so she'd let it go.
+
+"You never told me you'd read that one," she said. She kept it light. She was good at keeping things light. "The boat book."
+
+"You never asked."
+
+"I asked about every book for like two years."
+
+"You asked if they were smutty."
+
+"That's a _question about the book._"
+
+Victoria didn't answer. They walked. A car went by slow with its music up and its underglow painting the street pink, then gone.
+
+"It's nine hundred pages," Victoria said, eventually. "It's mostly about fishing. And grief. Nobody talks for the first eighty."
+
+"Sounds awful."
+
+"It's very good."
+
+"Sounds _awful,_" Evelyn said, "and I want it."
+
+Victoria glanced sideways at her. She had that look again — not the bright, narrow one from the bar, but its tired older cousin, the one that meant she'd noticed something about Evelyn and was deciding whether to say it. She didn't say it. She rarely did.
+
+"You'll quit in a chapter," she said instead.
+
+"I will _not_ quit in a chapter."
+
+"You started a 3D modeling tutorial three times."
+
+"That's different. That had _math._" Evelyn bumped her with a shoulder, lightly, and Victoria didn't pull away. "Send it to me. I'll read it. I'll read the whole thing and then we can go to Kessler's and gang up on Hana about the letters."
+
+"The letters are bad."
+
+"The letters are _so_ bad," Evelyn agreed, having no idea.
+
+Victoria made a sound that wasn't quite a laugh. Not the one from the bar. A different one. Evelyn decided, walking home under the doubled signs with her hands in her pockets and her knuckles cold, that she was going to count it anyway.
+
+Her comm pinged when they were a block from the apartment. A file, no message. Nine hundred and twelve pages.
+
+She didn't open it yet. She just looked at the notification for a while, grinning like an idiot at the street, while Victoria walked ahead and pretended not to see.
