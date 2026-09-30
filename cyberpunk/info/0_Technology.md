@@ -64,3 +64,10 @@
 - Megacorps are state-like: their own armies, ideologies, infrastructure, and surveillance.
 - Governments still exist and have formal authority, but they're weaker than the major corps and often can't or won't enforce anything against them.
 - Regulation (clinic licensing, data law, graffiti laws) exists on paper and is enforced unevenly.
+
+### Axion
+
+- Smaller than Concord, newer, and more willing to take risks. It competes on innovation rather than size.
+- Pushes direct brain interfaces while older corps stay at nerve level, and tests them on its own soldiers first.
+- Runs several separate programs, each built around a different use: network access, remote-piloted bodies, and so on. Recruits are soldiers with nowhere else to go.
+- Programs get launched and canceled quickly, and the people already implanted are left with the hardware.

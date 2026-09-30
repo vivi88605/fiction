@@ -138,6 +138,8 @@
 
 - Reinforced spine and neck.
 - Bone reinforcement in the skull, ribs, forearms, and shoulders.
+- Reinforced pericardial membrane.
+- Major-vessel sleeves.
 - Comm implant.
 - Vitals monitor.
 - Adrenal regulator.
@@ -215,6 +217,19 @@
 - Remote-only, never met in person.
   - Evelyn and Victoria don't know her age, though they have their suspicions.
 - Professional and Competent.
-  - Young genius. Has a direct brain interface, which she got through a megacorp program.
+  - Young genius. Ex-Axion soldier. Has a direct brain interface, which she got through one of Axion's programs, a network-focused one.
+  - Walked out of the program on bad terms while it was still running. She's talented enough to have gotten away with it.
+  - Still runs on Axion's firmware, but she has dealt with the backdoor herself.
   - Sometimes smug, a little arrogant about being the smartest one on the line.
 - Trust built job by job through consistent accuracy rather than personal rapport.
+
+## Blake
+
+- 24, he/him.
+- Mercenary. Brought in for bigger jobs as close-quarters support.
+- Remote-only: his body is a combat-grade frame, piloted from wherever his real body is.
+  - Ex-Axion soldier. Needed a direct brain interface for medical reasons. Axion's experimental program for remote-piloted frames was the only option he had. The program was later canceled, and he left Axion when it was.
+  - Still runs on Axion's firmware.
+  - Civilian employers are put off by the frame, and ordinary wages wouldn't cover upkeep anyway.
+  - The frame is built for fighting, so that's where he's most useful.
+- Polite and warm.
