@@ -15,6 +15,7 @@
 
 - Evelyn bought a ridiculously high-end 3D printer to learn 3D modeling, but has started the tutorial three times and never finished it.
 - Evelyn buys clothes for both of them, since Victoria completely lacks a sense of fashion, which is why the apartment holds over 20 jackets.
+- While Victoria has decent savings, Evelyn is constantly broke from installment plans. Evelyn never borrows from Victoria unless it's a true emergency, though, so Victoria doesn't really comment on her purchases.
 
 ## Liquor
 

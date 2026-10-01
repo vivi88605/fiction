@@ -58,6 +58,10 @@
 
 - **Drunk Victoria.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
 
+- **A Hundred and Forty-Four.** Victoria breaks her right leg and wrist mid-job and reports it the moment she's down. Evelyn has to get her out, then to Jax's, and then she's the one taking care of everything.
+
+- **The good patient.** _(Follow-up to A Hundred and Forty-Four.)_ Victoria is a model patient. She takes her pills on time, does Jax's exercises and never complains. She also never asks for anything, and she'd rather spend twenty minutes reaching for something one-handed than say a word. Evelyn stops waiting to be asked and starts running the household, and Victoria's routine along with it, herself. It's a new and alarming experience for both of them.
+
 - **Unregulated.** Evelyn took a hit an hour ago but can't feel it, because with her adrenal regulator disabled the spike stays pinned high. She keeps working and grinning until the crash drops her mid-stairwell. Victoria had seen the gait was off and said so, and was overruled. Afterwards Victoria is furious, and the anger is care in a form she's allowed to show.
 
 ## Hurt/no comfort
