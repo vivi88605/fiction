@@ -1,32 +1,22 @@
 # Weight Bearing — Outline
 
 **POV:** Victoria, close third person, past tense.
-**Setup:** Evelyn broke her right wrist and right leg on a job. Jax puts her in a cast and a stabilizer boot and orders six weeks with no weight on the leg.
+**Setup:** Evelyn broke her right wrist and right leg on a job, taking a shortcut down a rusted fire escape. Jax puts her in a cast and a stabilizer boot and orders six weeks with no weight on the leg.
 **Core idea:** Victoria knows Evelyn's pattern. Being injured strips away Evelyn's usual outlets, so both her high and her low get worse. Victoria never confronts the pain seeking behavior directly and only acts on practical things. Evelyn deflects every time she's caught.
 
 ---
 
-## The fall
-
-- It was a routine Dell job that went cleanly. The injury came on the way out. Evelyn skipped the stairwell and dropped one floor onto a fire-escape landing because it was faster. The rusted landing gave way under her and she fell another half floor onto concrete. She came down on her right foot and caught herself on her right hand.
-- Victoria was on overwatch with live vitals running. She saw the heart-rate spike, and Evelyn's location ping stopped moving.
-- **On comms, right after the fall:**
-  - Victoria: "Ev."
-  - Silence for a beat.
-  - Evelyn, strained but bright: "I'm good. I'm— okay, I'm mostly good."
-  - Evelyn: "Fire escape was decorative. Right side. Wrist's done. Leg's… having a day. I can move."
-  - Victoria: "Don't. Stay there. I'm coming to you."
-  - Evelyn: "Package is fine, by the way. In case anyone was wondering about the package."
-  - Carol: "Nobody was. Your exit's clear for another six minutes."
-  - Victoria breaks down her rifle faster than she ever has.
-
 ## Jax's clinic, and night one
 
-- **At the clinic, the cause comes up lightly:**
+- **Background, not shown on the page:** It was a routine Dell job that went cleanly. The injury came on the way out. Evelyn skipped the stairwell and dropped one floor onto a fire-escape landing because it was faster. The rusted landing gave way under her and she fell another half floor onto concrete, landing on her right foot and catching herself on her right hand. The piece opens at the clinic. The rest comes out through dialogue and Victoria's memory.
+- **At the clinic, the cause comes up lightly (opening line):**
   - Jax: "Dodges bullets for a living. Taken out by a fire escape."
-  - Evelyn: "Infrastructure is the real enemy."
+  - Evelyn: "Infrastructure is the real enemy. Fire escape was decorative."
   - Jax, on the wrist X-ray: "Reinforcement stops about two centimeters short of where it would've helped. Bad luck, Ev."
   - Victoria says nothing during this exchange. She's saving what she has to say for later.
+- **Why Victoria is wound tight (her memory, in the clinic's quiet):** she was on overwatch a few hundred meters out with live vitals running. The ping drifted off the stairwell route, the heart rate spiked, and the ping stopped moving. She was minutes away. The rifle case is still at her feet. She broke it down faster than she ever has.
+  - What she keeps replaying is Evelyn's first answer on comms after a beat of silence, strained but bright: "I'm good. I'm— okay, I'm mostly good."
+  - Evelyn deflected before anyone had caught her at anything. It's the first instance of the pattern, and Victoria knows it.
 - **Jax's orders:**
   - Jax: "Non-weight-bearing," … "That means no weight, Ev. On the bearing part."
   - Evelyn: "I know what it means."
@@ -49,7 +39,7 @@
 - That night Victoria quietly rearranges the apartment: clears the hallway, moves the cables, puts the coffee machine within reach of a chair, and sets Jeffery to run only while Evelyn sleeps.
 - She braces for both halves.
 
-## I. The high (day 2)
+## I. The high (days 2–4)
 
 - **Morning:** Evelyn is up before noon, hopping around the kitchen with the crutch abandoned across the room.
 - Her balance is intact: every hop lands light and controlled, the same way she lands coming off a wall. Victoria can't honestly call it dangerous. The only thing she can say against it is that it's wrong.
@@ -62,8 +52,10 @@
 - The syrup argument over her latte:
   - Victoria: "How much."
   - Evelyn: "Yes."
+  - Victoria pours one measured pump and stops.
   - Evelyn: "That's a crime."
   - Victoria: "The entire drink is a crime. I'm reducing the sentence."
+  - (Setup for the resolution: here Victoria makes the latte and cuts the syrup. In the low she makes it unasked, at Evelyn's full ratio.)
 - **Through the day:** Victoria manages by placement. She keeps moving the crutch to wherever Evelyn is, puts a stool by the window before Evelyn goes there with her sketchbook, and serves lunch on the coffee table so Evelyn has to sit. Evelyn notices without saying anything.
 - **Left-handed sketching:** after lunch, Evelyn decides she's going to become ambidextrous. She sits on the stool, braces the sketchbook against her cast, and every few minutes tears out a page and holds it up toward Victoria, who is cleaning a scope on the couch.
   - Evelyn: "Okay. Critique."
@@ -79,21 +71,16 @@
     - Evelyn: "The _ponytail_ is the point. Look how long I made it. That's dedication." … "Oh, that's horrible. I love it. I'm keeping it."
   - It goes on for an hour: a "flamingo" Victoria calls a lamp; a wall tag that comes out almost right; a crab inside a little lighthouse that Victoria identifies on the first try, so Evelyn declares her the only person who has ever understood her art.
   - Victoria reviews every single one. She's brief, precise, and unkind about the proportions, but she never tells her to stop. Evelyn on a stool with a pen is Evelyn not hopping, and the scope has been clean for forty minutes.
-- Evelyn pitches coming on Thursday's job "as comms."
-  - Victoria: "Carol is comms."
-  - Evelyn: "Backup comms. Morale. I could sit in the van and be inspirational."
-  - Victoria: "No."
-  - Evelyn: "You didn't even think about it."
-  - Victoria: "I thought about it in advance."
-- Victoria counts the hops without meaning to.
-- **First catch:** Victoria comes home early from groceries and finds Evelyn standing at the counter with full weight on both feet.
+- Victoria counts the hops without meaning to. Eleven by the end of day 2.
+- **Days 3–4, building:** Evelyn is up earlier and in bed later each day. The hop count climbs, and Victoria keeps counting. Pages keep coming off the sketchbook, held up for review. The placement routine has stopped being a game for either of them. It's just how the apartment works now. The swelling over the boot strap comes back every evening.
+- **First catch (day 4, evening):** Victoria comes home early from groceries and finds Evelyn standing at the counter with full weight on both feet.
   - Evelyn deflects instantly: "Switching legs. The flamingos do it. Prevents cramping. It's in the research."
   - Victoria: "Is it."
   - Evelyn: "Probably. I'd have to check."
   - Victoria swallows her sharp reply and says only: "Ice before bed. Your ankle's swelling over the strap."
   - Evelyn gets the ice pack herself, which Victoria takes as an answer to the question she didn't ask.
 
-## II. The hallway (night, 2:41 a.m.)
+## II. The hallway (night 4, 2:41 a.m.)
 
 - Victoria is awake reading when a vitals alert comes in: heart rate and adrenaline spiking, location in the hallway.
 - She finds Evelyn walking on the boot, slow and deliberate, her face calm and nearly relaxed.
@@ -109,7 +96,7 @@
   - Evelyn: "I can hop."
   - Victoria: "You can lean."
 - She feels Evelyn's racing pulse, puts her to bed, props the boot, and checks the strap twice.
-- **Painkillers:** the bottle is full except for one. Victoria sets out two pills and water without comment.
+- **Painkillers (one-off, no follow-up):** Victoria sets out two pills and water without comment.
   - Evelyn: "They make me foggy."
   - Victoria: "Then you'll be foggy."
   - Evelyn: "I've got sketching to do tomorrow. Very important left-handed art. Career-defining."
@@ -119,6 +106,14 @@
   - Victoria thinks: _I'm not the one turning it into anything._
   - Victoria says: "Go to sleep, Evelyn."
 - Victoria leaves her door open as a message, then lies awake listening for footsteps until 8 a.m.
+
+## The last good night (day 7)
+
+- The high is still running. Nothing in it warns of what comes next, and Victoria only sees that later.
+- Evening, Evelyn on the stool, still sketching left-handed. She holds up a page: a flamingo that is actually a flamingo.
+  - Victoria: "A flamingo."
+  - Evelyn, triumphant, as though she's been vindicated after a long trial.
+- It's the last page she holds up. The sketchbook goes on the windowsill with the lopsided portrait still clipped to the cover.
 
 ## III. The low (day 9)
 
@@ -141,20 +136,19 @@
   - Evelyn: "Yeah. Guess I'll keep this one till it breaks properly."
   - Follow-up deflection: "Kidding. Obviously. It's a great leg. Top three legs I've ever had."
 - **Victoria's checklist:** sleep (too much), food (half), crutch (used badly).
-  - The painkillers haven't been touched since the morning after the hallway. She has put two out every night and tipped them back every morning, starting on day seven, before the crash fully hit.
 - **Second catch, the low version of the hallway (the wrist):** Evelyn is lying flat on the couch with the cast resting on her chest. The fingers poking out of it close slowly into a fist and tighten until the knuckles go white. She holds it, lets go, and does it again, as steady as breathing.
   - It takes no effort. She doesn't have to get up or even move anything but her fingers. The hallway needed her on her feet at 2 a.m. This needs nothing at all.
   - No vitals alert, no rush, a blank face. Each squeeze is the only part of the afternoon she seems present for.
-  - For Victoria this is worse than the hallway: before, Evelyn was chasing something, and now the pain is just keeping her company. From across the room it barely looks like anything. Anyone else would read it as fidgeting.
+  - In the hallway Evelyn was chasing something. Now the pain is just keeping her company. From across the room it barely looks like anything. Anyone else would read it as fidgeting.
+  - Victoria hates this more than the hallway, more than the hopping. The high was readable: arguments, cover stories, alarms going off. Not confronting her only works when there's something to push against, and there's nothing here.
   - Victoria sets the tea down too loudly. The fingers stop. Evelyn's deflection is half true, which makes it the worst kind: "Physio. Jax said keep the fingers moving."
   - Victoria holds on to the fact that Evelyn still bothered to deflect at all.
   - Victoria, only repeating the word Evelyn left out: "He said gently."
   - Evelyn lets her hand go loose on her chest. "Yes, ma'am."
-- **Victoria's realization:** she hates this more than the hopping. The high was readable: arguments, cover stories, alarms going off. Not confronting her only works when there's something to push against.
 
 ## Resolution: the latte
 
-- Victoria makes "the abomination" exactly to Evelyn's ratio, obscene syrup and all.
+- Victoria makes "the abomination" unasked, exactly to Evelyn's ratio, obscene syrup and all. On day 2 she cut the syrup. This time she doesn't.
   - Evelyn: "Is this the abomination?"
   - Victoria: "It's _your_ abomination. I used your ratio."
   - Evelyn: "You don't know my ratio."
@@ -183,10 +177,9 @@
 | Thread               | High (I–II)                                                                         | Low (III)                                                                                                                    |
 | -------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Crutch / movement    | Crutch ignored. Hopping is faster, and genuinely steady thanks to breacher balance  | Crutch used without arguing, but badly: left hand only because of the cast, armpit-loaded, lurching, boot scuffing the floor |
-| Sketching            | Left-handed and awful; holds up every page: "Okay. Critique."                       | Sketchbook untouched on the windowsill                                                                                       |
+| Sketching            | Left-handed and awful; holds up every page: "Okay. Critique." Last page: day 7      | Sketchbook untouched on the windowsill                                                                                       |
 | Pain-seeking         | The leg, in the hallway: on her feet at 2 a.m., adrenaline, vitals alert, calm face | The wrist, lying down: a fist closing inside the cast, no alert, blank face, takes no effort                                 |
 | Deflection           | Quick and bright.                                                                   | Thin and half true.                                                                                                          |
-| Painkillers          | Refused ("They make me foggy."), then two taken after the hallway                   | Untouched since day 7                                                                                                        |
-| Latte                | Makes it herself; fights over the syrup                                             | Doesn't make one; Victoria makes it for her                                                                                  |
+| Latte                | Fumbles it left-handed; Victoria takes over and cuts the syrup                      | Doesn't make one; Victoria makes it unasked, at Evelyn's full ratio                                                          |
 | Victoria's restraint | Swallows the sharp reply; acts through placement                                    | Has nothing to push against, so she only restores Jax's word: "He said gently."                                              |
 | Jax's instructions   | "Non-weight-bearing" ignored by hopping and the hallway                             | "Gently" dropped from "keep the fingers moving"                                                                              |
