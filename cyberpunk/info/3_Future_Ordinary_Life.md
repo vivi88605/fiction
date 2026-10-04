@@ -13,7 +13,7 @@
 
 Anything set before this arc must stay compatible with it. Through the present day:
 
-- **Evelyn's body:** both knees and both arms are original (bone reinforcement only, no joint replacements). Wear, pain, and warnings from Jax are fine; a joint replacement, amputation, or governor override is not.
+- **Evelyn's body:** both knees and both arms are entirely original (no bone reinforcement, no joint replacements). Wear, pain, and warnings from Jax are fine; a joint replacement, amputation, or governor override is not.
 - **Still mercs:** neither has left or seriously proposed leaving merc work. Each privately wants out and hasn't said so.
 - **Unspoken:** Victoria hasn't told Evelyn she braces for her death. Evelyn hasn't told Victoria she wants a quiet life. These can come close, but they don't get said outright.
 - **Evelyn's line:** her recklessness hasn't yet caused Victoria real harm or forced Victoria into serious danger to save her.

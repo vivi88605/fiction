@@ -33,6 +33,7 @@
 ## Medicine & Bodies
 
 - Reconstruction mixes printed tissue with prosthetics, built from scan or template data.
+- Bone reinforcement prevents fractures; it doesn't add strength. Partial reinforcement moves the risk instead of removing it: natural bone breaks just past where the reinforced section ends.
 - Licensed clinics are expensive and on the record. Unlicensed clinics cover most people who can't afford that or don't want the record.
 
 ## Data & Identity

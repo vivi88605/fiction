@@ -12,9 +12,9 @@ Jax had the leg up on a padded stool and the wrist under the scanner, and he had
 
 "You dropped a full floor onto it."
 
-"It was _rated_, Jax."
+"It was _rated_, Jax."s
 
-Victoria sat in the plastic chair by the door and said nothing. Jax glanced over once, between jokes, the way people checked a dog they weren't sure about. She kept her eyes on the scanner readout. Right wrist, distal radius, a clean break about a finger's width past where the CEF's forearm sleeve ended. The bone was reinforced right up to the point where it wasn't. Right leg, a fracture low on the fibula and a sprain through the ankle that the imaging lit up like a bad weather map.
+Victoria sat in the plastic chair by the door and said nothing. Jax glanced over once, between jokes, the way people checked a dog they weren't sure about. She kept her eyes on the scanner readout. Right wrist, distal radius, a clean break; Right leg, a fracture low on the fibula and a sprain through the ankle that the imaging lit up like a bad weather map.
 
 She had been four minutes out. She'd been packing the scope with the job already done and Carol off the line, and in the corner of her vision Evelyn's ping had been moving down the stairwell route at the steady pace of someone bored. Then it had left the route. It slid sideways off the plan for no reason Victoria could see. Then came the heart-rate spike, sharp enough that the live feed went amber.
 
@@ -614,7 +614,7 @@ She found the remote and put on the cartoon with the crab who kept a lighthouse.
 
 Victoria sat at the other end of the couch and didn't watch the cartoon very much.
 
-She would have taken the whole high back, if anyone had asked her. The hopping, the pages, the lamp-flamingos, Dell, the bar, the stick figure: she'd have taken every loud, exhausting, unmanageable minute of it over another afternoon like this one. She wouldn't have taken the hallway, or the fist. But there wasn't a version of Evelyn without them that Victoria was allowed to ask for, so she didn't. She never would. All she could do was show up, set the tea down too loud, and say the word Evelyn had left out.
+She would have taken the whole high back, if anyone had asked her. The hopping, the pages, the lamp-flamingos, Dell, the bar, the stick figure: she'd have taken every loud, exhausting, unmanageable minute of it over another afternoon like this one. She wouldn't have taken the hallway, or the fist. But there wasn't a version of Evelyn without them that Victoria was allowed to ask for, so she didn't. She never would. All she could do was what she'd done: show up, set the tea down too loud, and say the word Evelyn had left out.
 
 Halfway through the episode, Evelyn shifted. She drew her good leg up and then stretched it out again across the cushions, until her sock foot came to rest against the side of Victoria's thigh.
 

@@ -79,7 +79,7 @@ Academy track rather than boot camp — replaces normal schooling.
 
 - The section carries its number and people into the specialty year (Rough Four → Facet Four).
 - Role-specific certification in track classes, alongside section-level exercises where the roles work together.
-- Standard package (spine/neck reinforcement, selective bone reinforcement, comm implant, vitals monitor, adrenal regulator) installed early in this year, alongside role-specific implants.
+- Standard package (spine/neck and core bone reinforcement (limbs left natural), comm implant, vitals monitor, adrenal regulator) installed early in this year, alongside role-specific implants.
 - Rehab and recalibration aren't scheduled separately — the corp folds them into the rest of the year's conditioning. What reads as continued physical training is partly recruits relearning their own bodies: movement with a reinforced skeleton, reaction time with a live booster. Concord doesn't build in recovery time so much as absorb it into the curriculum — bodies brought online, not patients cared for.
 - Full calibration isn't guaranteed by graduation.
 - The year ends with final evaluations, then **Setting**: assignment day, when each recruit is posted to a gem-numbered squad — the gem set into its mount. A section scatters across the force at Setting — by design. The academy builds squad-shaped sections, lets them bond, and then breaks them up: a recruit's loyalty belongs to Concord, not to their section, and any part should fit any mount.

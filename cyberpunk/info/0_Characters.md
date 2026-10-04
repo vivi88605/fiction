@@ -61,7 +61,7 @@
 - Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
   - A brighter and more saturated blue that looks artificial up close.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
-- Her joints were never reinforced or replaced — standard reinforcement or joint replacement costs agility. A version that preserves full agility exists, but it's priced well outside a merc's income.
+- Her arms and legs are entirely original — no bone reinforcement, and her joints were never reinforced or replaced. Standard reinforcement or joint replacement costs agility. A version that preserves full agility exists, but it's priced well outside a merc's income.
 - She has no problems about replacing her body parts, as long as it's stronger or "cooler" — the only thing stopping her from going full-body cyborg is money.
 
 ### Specialty
@@ -138,13 +138,15 @@
 ## Standard-Issue Implants from CEF (Concord Expeditionary Force)
 
 - Reinforced spine and neck.
-- Bone reinforcement in the skull, ribs, forearms, and shoulders.
+- Bone reinforcement in the skull, ribs, sternum, pelvis, and shoulder girdle (clavicles and shoulder blades).
 - Reinforced pericardial membrane.
 - Major-vessel sleeves.
 - Comm implant.
 - Vitals monitor.
 - Adrenal regulator.
 - Nerve-level interfaces only, no direct brain interface. All run on third-party firmware now; Concord keeps no backdoor.
+- Arms and legs are left entirely natural. The package protects what keeps a soldier alive; a broken or lost limb is survivable and replaceable, and the replacement goes on the soldier's own ledger.
+  - Where reinforced bone meets natural bone, force concentrates at the boundary: the upper arm just below the shoulder and the top of the thigh just below the hip are the weak points.
 
 ## Relationship
 
