@@ -36,6 +36,7 @@
 - The downplaying is mostly for other people's sake: she doesn't want anyone worrying about her.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
 - She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
+  - She still presses on a bruise or walks on a sprained ankle when no one is watching, and deflects whenever she gets caught.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
 ### Backstory

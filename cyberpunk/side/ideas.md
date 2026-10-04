@@ -60,7 +60,7 @@
 
 - **Unregulated.** Evelyn took a hit an hour ago but can't feel it, because with her adrenal regulator disabled the spike stays pinned high. She keeps working and grinning until the crash drops her mid-stairwell. Victoria had seen the gait was off and said so, and was overruled. Afterwards Victoria is furious, and the anger is care in a form she's allowed to show.
 
-- **Weight bearing.** Evelyn breaks her right wrist and leg taking a shortcut down a rusted fire escape, and Jax orders six weeks off the leg. The injury takes away everything she burns energy on, so the high runs hotter and the crash lands harder, and a broken bone is pain on tap for both. Victoria knows the pattern and never names it. She manages by placement: crutches moved, a stool set out, the word "gently" handed back. Every time Evelyn gets caught, she deflects.
+- **Non-weight-bearing.** Evelyn breaks her right wrist and leg taking a shortcut down a rusted fire escape, and Jax orders six weeks off the leg. The injury takes away everything she burns energy on, so the high runs hotter and the crash lands harder, and a broken bone is pain on tap for both. Victoria knows the pattern and never names it. She manages by placement: crutches moved, a stool set out, the word "gently" handed back. Every time Evelyn gets caught, she deflects.
 
 ## Hurt/no comfort
 
