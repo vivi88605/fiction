@@ -14,8 +14,8 @@ Lines in quotes are fixed: they're set up and paid off elsewhere. Everything els
 
 - **Background, not shown on the page:** a routine Dell job that went cleanly. On the way out Evelyn skipped the stairwell and dropped one floor onto a fire-escape landing because it was faster. The rusted landing gave way, and she fell another half floor onto concrete, landing on her right foot and catching herself on her right hand.
 - **Opens at the clinic.** Jax ribs her: a woman who dodges bullets for a living, taken out by a fire escape. Evelyn blames infrastructure. Victoria stays silent through all of it.
-- **Victoria's memory:** she was on overwatch, minutes away. The ping left the stairwell route, the heart rate spiked, and the ping stopped moving. The rifle case is still at her feet. What she keeps replaying is Evelyn's first answer on comms, strained and bright: "I'm good. I'm— okay, I'm mostly good." She was deflecting before anyone had caught her at anything.
-- **Jax's orders:** "Non-weight-bearing." Evelyn says she knows what it means; Jax and Victoria gang up on her about the face she's making. Then: keep the fingers moving so they don't stiffen, "Gently. _Gently_, Ev." Victoria knows which word Evelyn will drop.
+- **Victoria's memory:** she was on overwatch, minutes away. The ping left the stairwell route, the heart rate spiked, and the ping stopped moving. What she keeps replaying is Evelyn's first answer on comms, strained and bright: "I'm good. I'm— okay, I'm mostly good." She was deflecting before anyone had caught her at anything.
+- **Jax's orders:** "Non-weight-bearing." Evelyn says she knows what it means; Jax and Victoria gang up on her about the face she's making. Then: keep the fingers moving so they don't stiffen, "_Gently_, Ev." Victoria knows which word Evelyn will drop.
 - **Drive home:** Victoria's one direct lecture, spent entirely on taking the stairs. Evelyn argues seconds: forty versus three. Victoria: "The drop was three seconds and six weeks." Evelyn admires the line, then gives in with a grumble. The fall was a bad call about speed, not _the other thing_, so this is the one telling-off Victoria is allowed. She knows it's the safe substitute and says it anyway.
 - **Victoria's read:** the injury takes away everything Evelyn burns energy on, so the high will run hotter and the crash will land on someone who can't walk away. What she's never said aloud: a broken bone is pain on tap. Her plan is to let the high run and shape where it goes. Evelyn's energy has to go somewhere, and the high is the half Victoria can live with. The only thing she'll step in on is the other thing.
 - That night she quietly rearranges the apartment for someone on one leg: the hallway cleared, cables moved, the coffee machine reachable from a chair, Jeffery set to run only while Evelyn sleeps.
@@ -27,12 +27,13 @@ Lines in quotes are fixed: they're set up and paid off elsewhere. Everything els
 - **Morning:** Evelyn is hopping around the kitchen, crutch abandoned. Her breacher balance makes every hop steady, so Victoria can't call it dangerous, only wrong. She moves the crutch next to her without a word.
 - Evelyn defends herself unprompted. She timed it, hopping beats the crutch, it's science. Victoria didn't start anything; Evelyn counts placing the crutch as starting. That turns into a flamingo tangent: nobody knows why they stand on one leg.
 - **The latte:** Evelyn fumbles it left-handed, and Victoria takes over. On the syrup, Victoria asks how much and gets "yes." She gives one measured pump. Evelyn calls it a crime. Victoria: "The entire drink is a crime. I'm reducing the sentence." (This sets up the resolution.)
-- **Placement through the day:** the crutch keeps turning up wherever Evelyn is going, a stool appears by the window, and lunch is served on the coffee table so she has to sit. Evelyn notices and says nothing.
+- **Placement through the day:** the crutch keeps turning up wherever Evelyn is at, a stool appears by the window, and lunch is served on the coffee table so she has to sit. Evelyn notices and says nothing.
 - **Left-handed sketching:** Evelyn decides to become ambidextrous and holds up every page: "Okay. Critique." Victoria, cleaning a scope that's long since clean, reviews each one, brief and unkind about the proportions, and never tells her to stop, because a person on a stool isn't hopping. Pages that need to happen:
   - Jeffery, with legs ("legs in his heart").
   - A portrait of Victoria: uneven eyes and a heroically long ponytail. It's horrible, and Evelyn keeps it, clipped to the sketchbook's cover.
   - A crab in a lighthouse, from the cartoon they watch. Victoria gets it on the first try, and Evelyn declares her the only person who has ever understood her art.
 - **Days 3–4:** the high keeps building. Victoria counts hops without meaning to, and the number climbs. Pages keep coming. Placement has become simply how the apartment works. The swelling over the boot strap comes back every evening.
+- **Seated sparring (day 3, evening):** Evelyn, going stir-crazy, proposes seated hand drills on the rug, boot stuck out in front of her. Victoria agrees because it's safe for the leg and a person sitting on a rug isn't hopping. Evelyn leans on the booster until she's dizzy, and the threshold alert fires in Victoria's vision from three feet away. Evelyn grins about Victoria "getting her mail." Victoria doesn't call it off; she puts a bottle of water in Evelyn's only free hand, which ends the round. Evelyn calls it cheating.
 - **First catch (day 4, evening):** Victoria comes home early from grocery shopping and finds Evelyn standing at the counter on both feet. Evelyn instantly says flamingos switch legs too, it's in the research, probably. Victoria swallows the sharp reply and only tells her to ice the ankle.
 
 ## The hallway (night 4, 2:41 a.m.)
@@ -44,7 +45,7 @@ Lines in quotes are fixed: they're set up and paid off elsewhere. Everything els
 - Evelyn: "bathroom." The bathroom is behind her. "Scenic route."
 - In her head: _I know what you're doing. I've known for years. Stop doing this to yourself._ What she says: "The strap's loose. Come here."
 - She takes Evelyn's weight. Evelyn says she can hop. "You can lean." Evelyn's racing pulse. Bed, boot propped, strap checked twice.
-- She sets out two painkillers and water. Evelyn objects that they make her foggy, and Victoria flatly replies to her: "The pills stay on the nightstand". Neither taken nor refused.
+- She sets out two painkillers and water. Evelyn objects that they make her foggy, and Victoria replies flatly: "The pills stay on the nightstand." Neither taken nor refused.
 - "Don't turn it into a thing, Vic." Victoria thinks she isn't the one turning it into anything, and tells her to go to sleep.
 - She leaves her door open and listens for footsteps until morning.
 
@@ -58,7 +59,7 @@ Lines in quotes are fixed: they're set up and paid off elsewhere. Everything els
   - Then Evelyn catches the other thing. Victoria turning down money is a tell, and Evelyn teases her for it (who are you, what have you done with Vic). Victoria doesn't explain. Evelyn lets it go a little too easily, and Victoria suspects she knows why.
 - **The bar (day 6, night):** Evelyn announces she's going out, already halfway into a jacket one-handed. Stopping her would make it a contest. Victoria picks up the car keys. "You're coming?" "I'm driving."
   - At her regular bar Victoria does her placement in public: the table by the wall, a stool for the boot, the crutch hooked on the table edge, her own seat with a view of the door. She drinks tea she didn't want and says almost nothing.
-  - Evelyn's bar friends swarm her. The fire escape gets bigger every time she tells it. Someone asks if they're sisters: "close enough."
+  - Evelyn's bar friends swarm her. The fire escape gets bigger every time she tells it, but only in the telling, since she doesn't lie; she just never mentions the stairwell. Someone asks if they're sisters: "close enough."
   - They sign the cast, which until now was blank. Victoria declines to sign. Evelyn draws a stick figure with an enormous ponytail in the corner and announces that's Victoria's signature.
   - A couple of drinks in, Evelyn slows down. She stops bouncing her good knee, stops talking over people, and leans back against the wall. It's the calmest she's been since the fire escape. Victoria notices, and doesn't like that it took a bar to do it.
   - Going home, Evelyn leans on her from the car to the door without being told, and says nothing about hopping.
