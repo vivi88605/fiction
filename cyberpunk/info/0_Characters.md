@@ -38,7 +38,7 @@
 - The downplaying is mostly for other people's sake: she doesn't want anyone worrying about her.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
 - She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
-  - She still presses on a bruise or walks on a sprained ankle when no one is watching, and deflects whenever she gets caught.
+  - She still presses on a bruise or deliberately walks on a sprained ankle when no one is watching, and deflects whenever she gets caught.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
 ### Backstory
@@ -54,8 +54,8 @@
 
 ### Hobbies
 
-- She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
 - Parkours across the city when she has too much energy to burn — rooftops, railings, overpass supports, whatever's in the way.
+- Grabs a can and paints on walls when she feels like it — technically illegal in some spots but nobody's ever bothered enforcing it.
 - Hums when she's in a good mood; actual singing has been banned by the landlord.
   - Her singing is actually decent; it's just too loud. She sings everything like she's singing some military anthem.
 
@@ -65,7 +65,6 @@
 - Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
   - A brighter and more saturated blue that looks artificial up close.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
-- Her arms and legs are entirely original — no bone reinforcement, and her joints were never reinforced or replaced. Standard reinforcement or joint replacement costs agility. A version that preserves full agility exists, but it's priced well outside a merc's income.
 - She has no problems about replacing her body parts, as long as it's stronger or "cooler" — the only thing stopping her from going full-body cyborg is money.
 
 ### Specialty
@@ -150,7 +149,6 @@
 - Adrenal regulator.
 - Nerve-level interfaces only, no direct brain interface. All run on third-party firmware now; Concord keeps no backdoor.
 - Arms and legs are left entirely natural. The package protects what keeps a soldier alive; a broken or lost limb is survivable and replaceable, and the replacement goes on the soldier's own ledger.
-  - Where reinforced bone meets natural bone, force concentrates at the boundary: the upper arm just below the shoulder and the top of the thigh just below the hip are the weak points.
 
 ## Relationship
 
@@ -169,11 +167,6 @@
   - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
   - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
   - They're both stubborn and don't like inconveniencing others.
-- **Subtle Feelings**
-  - Whether or not there were ever subtle feelings between them, years of sharing a life transformed most of whatever was there into a sense of family.
-  - Victoria suspects that what she felt toward Evelyn early on was largely circumstantial: prolonged stress, mutual dependence, and the unusual fact that Evelyn managed to get past defenses almost no one else could.
-  - That does not make the attachment less real. If anything, what remained after the circumstances changed matters more to her: Evelyn became family, and Victoria has no desire to pull the relationship apart just to determine which parts of it were ever romantic.
-  - There may still be occasional moments that do not feel entirely platonic, but Victoria regards them as residue rather than a direction she wants the relationship to take.
 
 ### Nicknames
 
@@ -208,7 +201,7 @@
 - Maintainer.
 - Owner of an unlicensed clinic/repair shop, handles it whenever something actually breaks.
 - Laid-back, dark humor peer to Evelyn.
-- Victoria meets his worse jokes with a flat glare and insists she can't stand him and Evelyn together, though she'd never admit how much she secretly enjoys it.
+- Victoria meets his worse jokes with a flat glare and insists she can't stand him and Evelyn together, though she'd never admit how much she enjoys it.
 
 ## Dell
 

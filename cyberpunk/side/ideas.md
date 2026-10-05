@@ -1,4 +1,12 @@
-## Fluff
+## Tone by tag
+
+Applies to generating ideas as well as outlines and prose.
+
+- **slice-of-life** (or a story without a `whump` tag):
+  - Stakes are small and stay small. The engine is the situation and the bit, not a hidden feeling.
+  - Care shows through action and established habit; the narration doesn't stop to explain what it means.
+
+## Slice of Life
 
 ### Present
 
@@ -19,8 +27,6 @@
 - **The nickname ledger.** Victoria has apparently been keeping a private list of every ridiculous variation of her name Evelyn has ever used. Evelyn discovers it and is delighted—until she realizes Victoria has also been rating them.
 
 - **Mystery novelist.** Evelyn finds a page of fiction Victoria forgot to hide. She doesn’t tease her about writing; instead, she spends the day loudly theorizing about the unnamed author and declaring them “obviously brilliant, devastatingly mysterious, probably very attractive.” Victoria nearly dies of restraint.
-
-- **Domestic target practice.** Victoria uses a harmless training laser to deal with a pest Evelyn insists she can catch manually. It turns into a precision operation with Evelyn acting as spotter. Jeffery complicates the mission. Neither will admit they had fun.
 
 - **The karaoke alarm.** Evelyn's heart rate crosses the alert threshold at midnight while she's at a bar. Victoria shows up braced for the worst and finds Evelyn doing a duet with strangers, belting it like a military anthem. Evelyn pulls her onto the stage. Whether Victoria actually sings is up to you.
 
@@ -50,19 +56,17 @@
 
 - **Second-in-command on crutches.** _(Service era.)_ A training-ground fall leaves her on crutches at a rear base. She still runs inspections, and she's somehow scarier this way. Evelyn carries her rifle case without being asked, and Victoria allows it without saying she's allowing it.
 
-## Hurt/comfort
+## Whump
 
 - **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
 
 - **Crash after a job.** A job goes clean, and Evelyn is loud and happy on the drive home. Then a crash hits from nowhere, with no trigger. She's still up and still joking, but the jokes have gone flat, and she hasn't left her room much in two days. Victoria doesn't know what to call it, so she brings tea, doesn't ask questions, and reads in the same room.
 
-- **Drunk Victoria.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
+- **Drunk.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
 
 - **Unregulated.** Evelyn took a hit an hour ago but can't feel it, because with her adrenal regulator disabled the spike stays pinned high. She keeps working and grinning until the crash drops her mid-stairwell. Victoria had seen the gait was off and said so, and was overruled. Afterwards Victoria is furious, and the anger is care in a form she's allowed to show.
 
 - **Non-weight-bearing.** Evelyn breaks her right wrist and leg taking a shortcut down a rusted fire escape, and Jax orders six weeks off the leg. The injury takes away everything she burns energy on, so the high runs hotter and the crash lands harder, and a broken bone is pain on tap for both. Victoria knows the pattern and never names it. She manages by placement: crutches moved, a stool set out, the word "gently" handed back. Every time Evelyn gets caught, she deflects.
-
-## Hurt/no comfort
 
 - **Borrowed optics.** Cheap third-party firmware on Victoria's eyes gets exploited mid-job. Her overlay starts feeding her false data, which is the thing she has built her whole personality around guarding against: trusting unverified information. She takes a shot on a target marker that was spoofed. What did she hit? Leave it heavy.
 
@@ -71,3 +75,33 @@
 - **Seeking pain.** A bad crash lines up with a bad injury. Evelyn catches herself wanting the pain again, the way she did back in the unit, and has to hide it from someone who reads her gait. She says nothing to Victoria. The whump is entirely internal, and nobody finds out.
 
 - **The ping goes dark.** Evelyn's location ping just stops. Hours pass. Victoria does everything right (Carol, Dell, the hospitals, Jax), and none of it helps. You could write this as h/nc from Victoria's side only and never reveal what happened to Evelyn, or save the reveal for a later beat.
+
+## Job
+
+- **Proof of concept.** A small business pays them to prove its security doesn't work. Evelyn is inside in ninety seconds, and the owner refuses to pay because "nobody would actually do that." So they have to break in again, this time with the owner watching every step from the van and arguing.
+
+- **The package won't stop helping.** An extraction of a defecting mid-level employee who is chatty, terrified, and full of suggestions. Evelyn keeps him calm by chatting back. Victoria routes the whole job around his suggestions without telling him. He thinks his ideas saved them.
+
+- **Every small thing.** A routine retrieval where the plan fails one mundane piece at a time: the drone battery, a door replaced last week, roadwork on the exit route, Carol's link dropping on a bad connection. Nothing is dangerous on its own. The story is them improvising past each one on old-unit coordination.
+
+- **Counter-sniper.** Someone has a price on a client's head, and the job is finding the shooter first. Victoria has to think like the person on the other rooftop, and Evelyn has to walk the client around in the open as bait. Their usual roles are reversed, and both of them hate it for different reasons.
+
+## Setting satire
+
+- **Mandatory update.** The third-party firmware on Victoria's eyes pushes an update with sponsored content: an ad in the corner of her reading view, mid-novel. She reads the entire license agreement looking for a way out. Evelyn treats it as a personal attack on Victoria's one hobby and wants to go break something.
+
+- **Noise ordinance.** The landlord installs automated noise sensors that issue fines per decibel. They can't tell a heavy bag from a dropped pan from Evelyn humming. Evelyn tries to game the thresholds, and Victoria takes one off the wall to read its firmware.
+
+- **Installment plan.** One of Evelyn's installment plans gets sold to a collector, and someone shows up to repossess the 3D printer. The repo crew is people they know from the business. Evelyn argues she was about to finish the tutorial.
+
+- **Inspection day.** A licensing inspector visits Jax's unlicensed clinic, on paper and very much off the record, and is visibly running unlicensed chrome themselves. Everyone in the room, including the inspector, pretends to take the visit seriously.
+
+## Unusual format
+
+- **The log.** One job told entirely through Victoria's job log: timestamps, her range and wind estimates beside the readouts, gear notes. The story lives in what she doesn't log.
+
+- **Read receipts.** A day told through Evelyn's messages to Victoria: rapid, digressive, a dozen to every one of Victoria's single-word replies. The rhythm of the replies is the only place Victoria's side shows.
+
+- **Transcript.** A job as a raw comms transcript with Carol on the line, timestamps, and vitals readings logged as data lines between the dialogue.
+
+- **Patient file.** Jax's records on the two of them, years of entries: injuries, repairs, terse clinical notes, and his worst jokes written in the margins.

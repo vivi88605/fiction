@@ -21,8 +21,15 @@
 ## Liquor
 
 - Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.
-- Victoria is a quiet crier when drunk, but she rarely drinks, let alone enough to get there.
+- Victoria actually likes drinking. Holding herself together costs her a lot, and alcohol is one of the few things that eases it. She rarely drinks anyway: she doesn't like her emotional side being seen, and she cares about what it does to her health. When she does drink enough, she becomes a quiet crier.
 
 ## Birthday
 
 - They were born the same year—Victoria on January 14 and Evelyn on June 7.
+
+## Subtle Feelings
+
+- Whether or not there were ever subtle feelings between them, years of sharing a life transformed most of whatever was there into a sense of family.
+- Victoria suspects that what she felt toward Evelyn early on was largely circumstantial: prolonged stress, mutual dependence, and the unusual fact that Evelyn managed to get past defenses almost no one else could.
+- That does not make the attachment less real. If anything, what remained after the circumstances changed matters more to her: Evelyn became family, and Victoria has no desire to pull the relationship apart just to determine which parts of it were ever romantic.
+- There may still be occasional moments that do not feel entirely platonic, but Victoria regards them as residue rather than a direction she wants the relationship to take.

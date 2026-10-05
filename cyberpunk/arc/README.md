@@ -2,7 +2,7 @@
 
 Canon beats in chronological (in-world) order. Non-canon pieces live in `side/`.
 
-Tags: `plot`, `backstory`, `slice-of-life`, `whump`, `h/c`, `h/nc` — combine freely.
+Tags: `plot`, `backstory`, `slice-of-life`, `whump` — combine freely.
 
 | Beat                                          | When                                               | Tags             |
 | --------------------------------------------- | -------------------------------------------------- | ---------------- |
