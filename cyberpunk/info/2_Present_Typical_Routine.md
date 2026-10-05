@@ -42,6 +42,7 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
   - She still works, talks, jokes, and handles daily life.
   - She is simply less restless and less driven than usual.
   - The biggest tell is often the tone of her humor becoming darker, flatter, or more self-directed.
+  - Most people can't tell at all. She bothers less with the mask when it's only Victoria around, so Victoria sees more of it than anyone.
   - Victoria rarely confronts Evelyn directly about her mood. She checks practical things instead: sleep, food, injuries, schedule, workload.
 - Their shared location ping and vitals alerts run quietly in the background. Live vitals only open up during a job.
   - Victoria checks Evelyn's location more often than she admits.
@@ -105,7 +106,7 @@ They can spend hours in the same room barely speaking and still clearly be keepi
   - Striking and heavy bag work. Any bag in the apartment is a noise argument waiting to happen, between Victoria, Evelyn, and the landlord.
   - Reflex drills — light boards, reaction timers, pop-up targets. Evelyn treats them as a game and chases high scores; Victoria reads the same numbers as diagnostic data, since erratic or jittery timing means the stabilizer may be degrading.
   - With her adrenal regulator disabled, a hard session gives her a smaller version of the rush a dangerous job does. The spikes sometimes cross the alert threshold and ping Victoria, who isn't always sure whether to be relieved or worried.
-  - On high-energy days, training is one of the better places for that energy to go.
+  - On high-energy days, training is one of the better places for that energy to go. The other is outside: parkour across the city until she's run it off.
   - On low-energy days, she might just nap or stay in her room doing quiet, low-effort activities.
 - Some evenings they practice self-defense together.
   - Close range is exactly where Victoria is weakest and Evelyn is strongest, so Evelyn gets to be the one teaching for once.

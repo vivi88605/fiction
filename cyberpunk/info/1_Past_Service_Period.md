@@ -2,7 +2,7 @@
 
 ## Arc Summary
 
-- How they met: Victoria is catastrophically injured (loses both eyes/upper half of her face) in a different squad, reassigned to Turquoise Nine as its new sniper/technician. Evelyn (then in Cateye Seven) recognizes her own long-ago-sold biometric data in Victoria's reconstructed face and becomes fixated.
+- How they met: Victoria is catastrophically injured (loses both eyes/upper half of her face) in a different squad, reassigned to Turquoise Nine as its new sniper/technician. Evelyn (then in Cateye Seven) recognizes her own previously sold biometric data in Victoria's reconstructed face and becomes fixated.
 - Evelyn engineers her own transfer into Turquoise Nine (making herself Victoria's subordinate) despite Victoria's open hostility.
 - Relationship arc: guilt/curiosity -> grudging professional trust built on missions -> Evelyn goes off-plan to rescue Victoria under fire -> Victoria realizes Evelyn matters when she panics over a comms blackout -> "we are not friends" bit -> settled, acknowledged friendship by the end of their service.
 - Ends with both choosing not to renew, walking away together into the mercenary life shown in the present-day file.
@@ -47,12 +47,12 @@ An ordinary line squad; the one Evelyn and Victoria end up sharing.
 
 Same academy year, different sections and specialty tracks; they may have crossed paths there but never got to know each other before Turquoise Nine.
 
-| Stage                   | Evelyn       | Victoria      |
-| ----------------------- | ------------ | ------------- |
-| General academy         | Rough Four   | Rough Eight   |
-| Specialty year          | Facet Four   | Facet Eight   |
-| First squad             | Cateye Seven | Garnet Four   |
-| Final squad             | Turquoise Nine (by her own engineered transfer) | Turquoise Nine (reassigned after her injury) |
+| Stage           | Evelyn                                          | Victoria                                     |
+| --------------- | ----------------------------------------------- | -------------------------------------------- |
+| General academy | Rough Four                                      | Rough Eight                                  |
+| Specialty year  | Facet Four                                      | Facet Eight                                  |
+| First squad     | Cateye Seven                                    | Garnet Four                                  |
+| Final squad     | Turquoise Nine (by her own engineered transfer) | Turquoise Nine (reassigned after her injury) |
 
 ## Training (age 15–18)
 

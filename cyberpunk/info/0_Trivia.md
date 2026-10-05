@@ -3,6 +3,7 @@
 ## Social Life
 
 - Evelyn has lots of friends (mostly from bars). She also dates all kinds of people across all genders, but rarely ends up in an actual relationship.
+  - Commitment is a promise, and she doesn't make those lightly. Underneath that, never put into words: a serious partner would eventually mean less of the life she shares with Victoria, and Victoria doesn't let anyone else in.
 - Victoria only interacts with Evelyn and the side cast on a regular basis. She doesn't like socializing and is fairly introverted.
 
 ## Housework

@@ -72,7 +72,7 @@ Victoria looked at the rifle. She looked at the twenty rounds she had left, the 
 
 Evelyn opened her mouth, closed it, and lay down on the mat.
 
-The stock was set for Victoria's length. Evelyn was seven centimeters shorter and her arms were proportioned to match, so Victoria knelt and adjusted the length of pull while Evelyn was busy wriggling her hips into the dirt. She didn't comment on it. Evelyn didn't notice. Then Victoria unlinked the scope from her own optics and switched it to plain glass.
+The stock was set for Victoria's length. Evelyn was nine centimeters shorter and her arms were proportioned to match, so Victoria knelt and adjusted the length of pull while Evelyn was busy wriggling her hips into the dirt. She didn't comment on it. Evelyn didn't notice. Then Victoria unlinked the scope from her own optics and switched it to plain glass.
 
 "Wait, can't my eye just do the thing?" Evelyn tapped the corner of her right eye. "Zoom, lines, whatever you've got going on."
 

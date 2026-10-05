@@ -9,7 +9,7 @@
 
 ### Appearance
 
-- 158cm.
+- 159cm.
 - Blond hair with a wolf cut to her shoulder.
 - Blue eyes. The right one is slightly "bluer".
 - Looks similar to Victoria.
@@ -22,6 +22,7 @@
   - The filtering is more likely to fail when she's in a bad state.
 - Slow to anger; very little actually gets to her. When something does, it rarely shows as anger — she turns polite, or goes quiet.
 - Short attention span.
+  - Except when there's danger involved — then her focus locks in completely.
 - Poor financial decisions.
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
 - As irresponsible as she seems, she actually takes promises seriously. That's why she rarely promises anything.
@@ -32,6 +33,7 @@
 ### Mental State
 
 - Her mood comes in swings — restless, non-stop energy followed by crashes that strike out of nowhere. Unnamed and unexamined, she simply frames it as good days and bad days, and keeps up a cheerful demeanor anyway.
+  - She stays functional through the lows, and most people can't tell when she's in one. She just bothers less with the mask when it's only Victoria around.
 - Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
 - The downplaying is mostly for other people's sake: she doesn't want anyone worrying about her.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
@@ -41,7 +43,8 @@
 
 ### Backstory
 
-- Grew up poor. Before enrolling in the CEF academy at 15, she had already sold her own biometric templates for cash. The academy meant food, a bed, and a future, with the bill deferred.
+- Grew up poor. Enrolling in the CEF academy at 15 meant food, a bed, and a future, with the bill deferred.
+- At 17, not long after losing her right eye, she sold her own biometric templates on the black market for cash. The replacement eye had gone onto her implant debt, and by then a face was just another part.
 - Family isn't part of her life. Questions about them get a joke and a change of subject.
 - Years ago, back in the unit, she was in a much darker place — secretly seeking out pain, didn't care whether she woke up the next day. None of it showed; she was exactly this cheerful and jokey on the surface then too.
 - Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying.
@@ -52,6 +55,7 @@
 ### Hobbies
 
 - She grabs a can and paints on walls when she feels like it — an alley wall, an overpass support, technically illegal in some spots but nobody's ever bothered enforcing it.
+- Parkours across the city when she has too much energy to burn — rooftops, railings, overpass supports, whatever's in the way.
 - Hums when she's in a good mood; actual singing has been banned by the landlord.
   - Her singing is actually decent; it's just too loud. She sings everything like she's singing some military anthem.
 
@@ -80,7 +84,7 @@
 
 ### Appearance
 
-- 165cm.
+- 168cm.
 - Blond hair with a ponytail to her waist.
 - Blue eyes.
 - Looks similar to Evelyn.
@@ -90,7 +94,7 @@
 - Composed, cautious, and serious most of the time; comes across as hard to approach, which is basically accurate.
 - Speaks precisely and sparingly; only talks when she has something to say. She keeps basic politeness intact unless her patience runs out.
 - Avoids swearing on principle, though she slips occasionally under stress.
-- Secretlly short-tempered, but she rarely shows it.
+- Short-tempered, but she rarely shows it.
   - The filtering is more likely to fail when she's in a bad state.
 - Her words can be sharp, but her actions are gentle.
 - Always looks tired.
@@ -113,7 +117,7 @@
 
 - Grew up inside Concord's orbit and enrolled in the CEF academy at 15 as a believer; it was the natural next step.
 - During her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
-- With no 3D scan of her original face to rebuild from, the unit's reconstruction filled in the missing upper half with purchased biometric template data that was simply close enough. It just happened to be data Evelyn had sold off long before the two of them ever met.
+- With no 3D scan of her original face to rebuild from, the unit's reconstruction filled in the missing upper half with purchased biometric template data. The provider matched on what her file recorded — blond hair, blue eyes, skin tone — and picked the closest stock template. It just happened to be data Evelyn had sold off before the two of them ever met.
 - She went in knowing she'd come out with a slightly different face and believing she'd be fine with that. She wasn't.
 - She came out of it wearing a stranger's face and a lasting refusal to trust information she hasn't verified herself.
 - Cut contact with her family after leaving the CEF.
