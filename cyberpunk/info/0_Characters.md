@@ -20,7 +20,6 @@
 - Speaks energetically, prone to tangents — she'll jump to random topics without any clear lead-in.
 - Her humor is either teasing and narcissistic or sarcastic and dark, depending on her mood and the situation. She usually keeps the ones that would land wrong to herself.
   - The filtering is more likely to fail when she's in a bad state.
-- Slow to anger; very little actually gets to her. When something does, it rarely shows as anger — she turns polite, or goes quiet.
 - Short attention span.
   - Except when there's danger involved — then her focus locks in completely.
 - Poor financial decisions.
@@ -39,6 +38,7 @@
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
 - She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
   - She still presses on a bruise or deliberately walks on a sprained ankle when no one is watching, and deflects whenever she gets caught.
+- It takes a lot to make her angry; very little ever gets to her. When something does, she doesn't do loud—she just does quiet, or polite if she has to say anything at all.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
 ### Backstory
@@ -71,7 +71,7 @@
 
 - Breacher — makes the entry point exist and goes in first, physical or electronic. Fast-entry style built on speed, reflex, and tight-space mobility rather than brute force.
 - Good with a pistol, but is hopeless when it comes to long range.
-- Strong in short bursts — sprints, vaults, kicking a door in — but Victoria outlasts her under sustained load. Her close-range edge comes from reflex, technique, and zero hesitation rather than raw strength, so she avoids letting a fight turn into a grapple.
+- Strong in short bursts — sprints, vaults, kicking a door in. Her close-range edge comes from reflex, technique, and zero hesitation rather than raw strength, so she avoids letting a fight turn into a grapple.
 - No set training schedule; trains when she's got energy to burn and stops when she's bored, favoring loud, high-intensity sessions over routine.
 
 ## Victoria
@@ -141,8 +141,9 @@
 ## Standard-Issue Implants from CEF (Concord Expeditionary Force)
 
 - Reinforced spine and neck.
-- Bone reinforcement in the skull, ribs, sternum, pelvis, and shoulder girdle (clavicles and shoulder blades).
+- Bone reinforcement in the skull, ribs, sternum, pelvis, and shoulder girdle.
 - Reinforced pericardial membrane.
+- Reinforced pleural liner — flexible mesh lining the inner chest wall, closing the gaps between ribs.
 - Major-vessel sleeves.
 - Comm implant.
 - Vitals monitor.

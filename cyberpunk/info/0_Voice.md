@@ -4,6 +4,14 @@ How narration sounds from inside each of them. Default is close third person, pa
 
 Both avoid their own heavy thoughts, in opposite directions: Evelyn swerves away from a thought, Victoria explains it into something manageable. Neither POV states the unspoken things outright — the weight lives in what the narration skips or reframes.
 
+## Shared Tone
+
+Applies at any weight, light or heavy.
+
+- Dark humor is always available. The world is bleak and a little absurd (corporate overreach, subscription hardware, forced updates), and they joke about it. In a heavy piece the joke sits next to the pain without cancelling it.
+- The comedy comes from who they already are: Evelyn turns things into a show, Victoria runs things like an operation.
+- Care shows through action and established habit. The narration doesn't stop to explain what it means.
+
 ## Evelyn
 
 - Loose, fast, and digressive. The narration moves the way she talks: tangents, jokes, sudden topic jumps with no lead-in.

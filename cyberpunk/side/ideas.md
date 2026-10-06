@@ -4,11 +4,7 @@ Applies to generating ideas as well as outlines and prose.
 
 - **slice-of-life** (or a story without a `whump` tag): small stakes, real characters, affection shown sideways, sadness kept in the background.
   - Stakes are small and stay small. The engine is the situation and the bit, not a hidden feeling. Taking a trivial thing far too seriously is a good source of comedy.
-  - The comedy comes from who they already are: Evelyn turns things into a show, Victoria runs things like an operation. Neither needs to change.
-  - Care shows through action and established habit; the narration doesn't stop to explain what it means.
-  - The bleak world is scenery and joke material (corporate absurdity, subscription hardware, forced updates), not a source of grief.
   - Sadness gets at most one beat, the "leak": a single line where it shows, left unexplained, either undercut by a joke or allowed to land. Many pieces have none. If it starts carrying the piece, it's a whump piece.
-  - Keep their lows out of sync. When one is down, the other is the steady one.
   - It resets at the end. Nobody is fixed and no lesson is stated; end on a punchline or a quiet beat. Real change belongs to canon.
 
 ## Slice of Life
