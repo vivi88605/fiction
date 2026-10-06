@@ -2,9 +2,14 @@
 
 Applies to generating ideas as well as outlines and prose.
 
-- **slice-of-life** (or a story without a `whump` tag):
-  - Stakes are small and stay small. The engine is the situation and the bit, not a hidden feeling.
+- **slice-of-life** (or a story without a `whump` tag): small stakes, real characters, affection shown sideways, sadness kept in the background.
+  - Stakes are small and stay small. The engine is the situation and the bit, not a hidden feeling. Taking a trivial thing far too seriously is a good source of comedy.
+  - The comedy comes from who they already are: Evelyn turns things into a show, Victoria runs things like an operation. Neither needs to change.
   - Care shows through action and established habit; the narration doesn't stop to explain what it means.
+  - The bleak world is scenery and joke material (corporate absurdity, subscription hardware, forced updates), not a source of grief.
+  - Sadness gets at most one beat, the "leak": a single line where it shows, left unexplained, either undercut by a joke or allowed to land. Many pieces have none. If it starts carrying the piece, it's a whump piece.
+  - Keep their lows out of sync. When one is down, the other is the steady one.
+  - It resets at the end. Nobody is fixed and no lesson is stated; end on a punchline or a quiet beat. Real change belongs to canon.
 
 ## Slice of Life
 
@@ -60,15 +65,11 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
 
-- **Crash after a job.** A job goes clean, and Evelyn is loud and happy on the drive home. Then a crash hits from nowhere, with no trigger. She's still up and still joking, but the jokes have gone flat, and she hasn't left her room much in two days. Victoria doesn't know what to call it, so she brings tea, doesn't ask questions, and reads in the same room.
-
 - **Drunk.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
 
 - **Unregulated.** Evelyn took a hit an hour ago but can't feel it, because with her adrenal regulator disabled the spike stays pinned high. She keeps working and grinning until the crash drops her mid-stairwell. Victoria had seen the gait was off and said so, and was overruled. Afterwards Victoria is furious, and the anger is care in a form she's allowed to show.
 
 - **Non-weight-bearing.** Evelyn breaks her right wrist and leg taking a shortcut down a rusted fire escape, and Jax orders six weeks off the leg. The injury takes away everything she burns energy on, so the high runs hotter and the crash lands harder, and a broken bone is pain on tap for both. Victoria knows the pattern and never names it. She manages by placement: crutches moved, a stool set out, the word "gently" handed back. Every time Evelyn gets caught, she deflects.
-
-- **Borrowed optics.** Cheap third-party firmware on Victoria's eyes gets exploited mid-job. Her overlay starts feeding her false data, which is the thing she has built her whole personality around guarding against: trusting unverified information. She takes a shot on a target marker that was spoofed. What did she hit? Leave it heavy.
 
 - **Booster shutdown.** An intruder kills Evelyn's reflex booster in the middle of a fight. Without it she's a small, slow body in close quarters, a range she normally owns. She loses badly, and Victoria watches it through the scope, too far away to help. From the hurt side, it's a story about how much of who you are is rented hardware.
 
@@ -82,17 +83,11 @@ Applies to generating ideas as well as outlines and prose.
 
 - **The package won't stop helping.** An extraction of a defecting mid-level employee who is chatty, terrified, and full of suggestions. Evelyn keeps him calm by chatting back. Victoria routes the whole job around his suggestions without telling him. He thinks his ideas saved them.
 
-- **Every small thing.** A routine retrieval where the plan fails one mundane piece at a time: the drone battery, a door replaced last week, roadwork on the exit route, Carol's link dropping on a bad connection. Nothing is dangerous on its own. The story is them improvising past each one on old-unit coordination.
-
 - **Counter-sniper.** Someone has a price on a client's head, and the job is finding the shooter first. Victoria has to think like the person on the other rooftop, and Evelyn has to walk the client around in the open as bait. Their usual roles are reversed, and both of them hate it for different reasons.
 
 ## Setting satire
 
 - **Mandatory update.** The third-party firmware on Victoria's eyes pushes an update with sponsored content: an ad in the corner of her reading view, mid-novel. She reads the entire license agreement looking for a way out. Evelyn treats it as a personal attack on Victoria's one hobby and wants to go break something.
-
-- **Noise ordinance.** The landlord installs automated noise sensors that issue fines per decibel. They can't tell a heavy bag from a dropped pan from Evelyn humming. Evelyn tries to game the thresholds, and Victoria takes one off the wall to read its firmware.
-
-- **Installment plan.** One of Evelyn's installment plans gets sold to a collector, and someone shows up to repossess the 3D printer. The repo crew is people they know from the business. Evelyn argues she was about to finish the tutorial.
 
 - **Inspection day.** A licensing inspector visits Jax's unlicensed clinic, on paper and very much off the record, and is visibly running unlicensed chrome themselves. Everyone in the room, including the inspector, pretends to take the visit seriously.
 
