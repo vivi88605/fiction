@@ -57,6 +57,38 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Second-in-command on crutches.** _(Service era.)_ A training-ground fall leaves her on crutches at a rear base. She still runs inspections, and she's somehow scarier this way. Evelyn carries her rifle case without being asked, and Victoria allows it without saying she's allowing it.
 
+## Job
+
+- **Proof of concept.** A small business pays them to prove its security doesn't work. Evelyn is inside in ninety seconds, and the owner refuses to pay because "nobody would actually do that." So they have to break in again, this time with the owner watching every step from the van and arguing.
+
+- **The package won't stop helping.** An extraction of a defecting mid-level employee who is chatty, terrified, and full of suggestions. Evelyn keeps him calm by chatting back. Victoria routes the whole job around his suggestions without telling him. He thinks his ideas saved them.
+
+- **Counter-sniper.** Someone has a price on a client's head, and the job is finding the shooter first. Victoria has to think like the person on the other rooftop, and Evelyn has to walk the client around in the open as bait. Their usual roles are reversed, and both of them hate it for different reasons.
+
+## Setting satire
+
+- **Mandatory update.** The third-party firmware on Victoria's eyes pushes an update with sponsored content: an ad in the corner of her reading view, mid-novel. She reads the entire license agreement looking for a way out. Evelyn treats it as a personal attack on Victoria's one hobby and wants to go break something.
+
+- **Inspection day.** A licensing inspector visits Jax's unlicensed clinic, on paper and very much off the record, and is visibly running unlicensed chrome themselves. Everyone in the room, including the inspector, pretends to take the visit seriously.
+
+- **Grace period.** Evelyn falls behind on the payment plan for an aftermarket booster tune. The vendor throttles it to "grace mode" until she pays: 80% response, plus a polite notice in her eye every time she goes over the cap. That week, Victoria wins a sparring match for the first time anyone can remember. She refuses to count it, and then logs it anyway.
+
+- **Air-quality day.** A smog warning puts everyone in masks. With her lower face covered, every camera in the district logs Victoria as Evelyn. The corner store offers her Evelyn's loyalty deal on syrup, a billboard greets her by name, and a bartender she's never met opens a tab for her. Evelyn calls it the best day of her life and wants to see how far it goes.
+
+- **Jeffery is a snitch.** Jeffery's manufacturer gets bought, and after one firmware update the new privacy policy covers "home layout data." Victoria has kept the apartment's real layout off every record, and now she finds Jeffery uploading floor plans. Evelyn insists Jeffery is a victim, not a collaborator. Victoria takes him offline, and Evelyn calls it witness protection.
+
+- **Thank you for your service.** On the fifth anniversary of their leaving, Concord's veterans office sends each of them a commemorative message and a coupon: 15% off Concord-licensed maintenance, valid only on Concord firmware. Evelyn wants to frame it. Victoria reads all of it twice, the way she would have back when she believed in it.
+
+- **Retro chrome.** On a job at a rich people's party, everyone's prosthetics pass for human, and visible chrome is in fashion: cosmetic shells clipped over perfectly natural arms. Guests praise Evelyn's eye as "so authentic." A collector spots Victoria's eyes as a vintage CEF model and asks where she found them. She tells him the truth, and he thinks she's being edgy.
+
+- **Five stars.** Dell moves some of his work onto a gig platform that rates mercs after every job. A job goes flawlessly and the client gives them three stars: "Sniper unfriendly." Evelyn launches a campaign to fix Victoria's rating. Victoria tries smiling at the next client, and the rating goes down.
+
+- **End of life.** Blake's frame model reaches end of life, and Axion stops making one of its joint actuators. The only spare in the city belongs to a collector who keeps a complete frame of Blake's model in a glass case as a "historic piece." Evelyn and Victoria go to buy the part, and Blake comes along through the frame, standing next to his own museum exhibit.
+
+- **Express tier.** The landlord puts the elevator on a subscription. The express tier goes straight up. The free tier stops at every floor and plays ads. Evelyn starts taking the outside of the building. Victoria won't pay on principle, so she carries the groceries up five flights every time and starts timing herself against the free tier.
+
+- **On hold.** On the same afternoon, each of them needs customer support. Victoria has to correct a record with Concord and gets their AI support, which is endlessly polite and can't help with anything. Evelyn needs a fix from their third-party firmware vendor and reaches its one human support worker, who is fourteen hours into his shift. By the end of the call they're friends. Evelyn's problem gets fixed. Victoria's doesn't.
+
 ## Whump
 
 - **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
@@ -72,20 +104,6 @@ Applies to generating ideas as well as outlines and prose.
 - **Seeking pain.** A bad crash lines up with a bad injury. Evelyn catches herself wanting the pain again, the way she did back in the unit, and has to hide it from someone who reads her gait. She says nothing to Victoria. The whump is entirely internal, and nobody finds out.
 
 - **The ping goes dark.** Evelyn's location ping just stops. Hours pass. Victoria does everything right (Carol, Dell, the hospitals, Jax), and none of it helps. You could write this as h/nc from Victoria's side only and never reveal what happened to Evelyn, or save the reveal for a later beat.
-
-## Job
-
-- **Proof of concept.** A small business pays them to prove its security doesn't work. Evelyn is inside in ninety seconds, and the owner refuses to pay because "nobody would actually do that." So they have to break in again, this time with the owner watching every step from the van and arguing.
-
-- **The package won't stop helping.** An extraction of a defecting mid-level employee who is chatty, terrified, and full of suggestions. Evelyn keeps him calm by chatting back. Victoria routes the whole job around his suggestions without telling him. He thinks his ideas saved them.
-
-- **Counter-sniper.** Someone has a price on a client's head, and the job is finding the shooter first. Victoria has to think like the person on the other rooftop, and Evelyn has to walk the client around in the open as bait. Their usual roles are reversed, and both of them hate it for different reasons.
-
-## Setting satire
-
-- **Mandatory update.** The third-party firmware on Victoria's eyes pushes an update with sponsored content: an ad in the corner of her reading view, mid-novel. She reads the entire license agreement looking for a way out. Evelyn treats it as a personal attack on Victoria's one hobby and wants to go break something.
-
-- **Inspection day.** A licensing inspector visits Jax's unlicensed clinic, on paper and very much off the record, and is visibly running unlicensed chrome themselves. Everyone in the room, including the inspector, pretends to take the visit seriously.
 
 ## Unusual format
 
