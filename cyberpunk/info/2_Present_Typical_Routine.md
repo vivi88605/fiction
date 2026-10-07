@@ -3,8 +3,8 @@
 ## Summary
 
 - Evelyn and Victoria share an apartment that's their anchor point; irregular weeks of downtime, prep, 2-3 paid jobs, and maintenance rather than a fixed schedule.
-- Victoria: disciplined daily baseline (tea, short training block, errands, gear checks) plus a weekly training rotation she fits around jobs; does her chore turns by hand and keeps the shared space in order beyond them, verifies Dell's job pitches and cross-checks Carol's intel.
-- Evelyn: no routine at all, wakes whenever, messy room, does her chore turns through appliances, swings between high-energy stretches (more jobs/socializing/graffiti/bad purchases) and subtler low periods (darker humor, less restless).
+- Victoria: disciplined daily baseline (tea, short training block, errands, gear checks) plus a weekly training rotation she fits around jobs; keeps the shared space in order beyond her chore turns, verifies Dell's job pitches and cross-checks Carol's intel.
+- Evelyn: no routine at all, wakes whenever, swings between high-energy stretches (more jobs/socializing/graffiti/bad purchases) and subtler low periods (darker humor, less restless).
 - Evenings sometimes include self-defense practice (Evelyn teaches, since it's her strong range) that doubles as Victoria quietly checking on Evelyn's booster/joints/state of mind.
 - Jobs themselves (structure, roles, job types) are covered separately from the routine.
 
@@ -14,9 +14,8 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
 
 - Their week is irregular rather than scheduled: stretches of downtime, prep, short jobs, maintenance, and occasional genuinely dangerous work.
 - The apartment is their anchor point.
-  - They split chores and take turns. Evelyn does her turns through the appliances she bought to avoid chores; Victoria does hers by hand, except where an appliance has proved good enough to win her over.
-  - Beyond her turns, Victoria keeps shared spaces in order, stocked, and functional, because of her particular streak about things being in place.
-  - Evelyn's room remains a permanent disaster zone of clothes, cans, sketches, and abandoned projects.
+  - They split chores and take turns.
+  - Beyond her turns, Victoria keeps shared spaces in order, stocked, and functional.
 - Usually 2–3 paid jobs in a week.
   - A good week means one well-paying contract plus a few easier jobs.
   - A bad week means either almost no work, or one supposedly easy job becoming much worse than advertised.
@@ -31,7 +30,7 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
   - Victoria notices when Evelyn's pace becomes unsustainable, even if she does not name it as anything clinical.
   - A crash can land right on the heels of a busy stretch.
 - Evelyn's low weeks barely change the schedule: she still works and handles daily life, just less restless and less driven. The biggest tell is her humor turning darker, flatter, or more self-directed.
-  - Victoria rarely confronts Evelyn directly about her mood. She checks practical things instead: sleep, food, injuries, schedule, workload.
+  - Instead of her mood, Victoria checks practical things: sleep, food, injuries, schedule, workload.
 - Victoria checks Evelyn's location ping more often than she admits; Evelyn checks Victoria's when something feels wrong.
 - Quiet weeks mean different things to each of them.
   - For Victoria, they are secretly valuable — a stretch where nothing needs bracing for, even if she still braces anyway.
@@ -42,8 +41,8 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
 - Victoria trains on a daily baseline plus weekly targets rather than a fixed calendar, since jobs land irregularly. A block a job pushes out moves later in the week instead of being skipped.
 - **Every day**: the morning block and observation drills described under Morning.
 - **Weekly targets**, about four or five blocks of a couple of hours each, usually one per free afternoon:
-  - **Tech and reset, once or twice.** Reading security patch notes and firmware changes, timed bypasses on salvaged locks, panels, and cameras, soldering and repairing junk hardware. She builds and refreshes the standing kit of generic devices for common models. Once a week it doubles as the reset: full gear inventory and maintenance, the budget, and logging the week's results. She stays current enough to double-check Carol's intel, even though she trusts Carol.
-  - **Field day, once.** She carries her full kit to a rooftop, which covers the endurance work, and flies the drone from there: tuning its automatic behaviors on real streets, and testing subvocal commands, kept off the channel she uses with Evelyn.
+  - **Tech and reset, once or twice.** Reading security patch notes and firmware changes, timed bypasses on salvaged locks, panels, and cameras, soldering and repairing junk hardware. She builds and refreshes the standing kit of generic devices for common models. Once a week it doubles as the reset: full gear inventory and maintenance, the budget, and logging the week's results.
+  - **Field day, once.** She carries her full kit to a rooftop, which covers the endurance work, and flies the drone from there: tuning its automatic behaviors on real streets, and testing subvocal commands.
   - **Sims, once or twice.** Optics calibration first: her eyes aligned with her scope and firmware, and the drone window lined up in both eyes. Then shooting sims, or load sims: drone feed, comms, a vitals feed, and a scope picture at once, with surprises thrown in. They train the overload that is her weak point on a job.
   - **Range every other week.** Live fire, budgeted like any other ammunition cost. Sometimes through glass to practice for deflection. Pistol work too: switching from rifle to pistol fast, shooting prone or seated, and holding a doorway from cover.
 - That's the plan. In practice, a quiet week doesn't stay light: she fills the free afternoons with extra blocks, and a week where jobs push her under the targets bothers her more than she lets on.
@@ -60,7 +59,7 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
 ### Morning
 
 - **Victoria**
-  - Wakes early even if she slept badly.
+  - Wakes to an 8:00 AM alarm even if she slept badly.
   - Makes tea.
   - Checks messages, jobs, local disturbances, and active contract updates.
   - Trains, tired or not. Skipping it feels like negligence, so she doesn't. Her daily block is short, quiet, and apartment-friendly; the heavier training rotates through the week.
@@ -89,7 +88,7 @@ For the full daily/weekly detail (exact training drills, hour-by-hour routine, d
   - Reads, repairs gear, cleans, or organizes.
 - **Evelyn**
   - Sketches, wanders, gets food, or starts some unnecessary project.
-  - She may disappear for a while with a spray can to paint somewhere she technically should not. Reaching the spot often involves climbing a wall, fence, or rooftop, which she calls training afterward.
+  - She may disappear for a while with a spray can to paint somewhere. Reaching the spot often involves climbing a wall, fence, or rooftop, which she calls training afterward.
   - Naps when she doesn't feel like doing anything, or is just too tired.
 
 They can spend hours in the same room barely speaking and still clearly be keeping each other company.
@@ -117,11 +116,8 @@ They can spend hours in the same room barely speaking and still clearly be keepi
 
 ### Night
 
-- Both are naturally nocturnal, though Victoria still wakes early the next day.
+- Both are naturally nocturnal. Victoria tries to be asleep before 1:00 AM, since her alarm doesn't move.
 - Evelyn may head to a bar, end up doing karaoke with people she met for the first time, or just wander somewhere outside.
-- Some nights she drinks at home instead of going out. She might hum around the apartment when she's in a good mood; actual singing remains landlord-prohibited.
-- Victoria sits down to read "for a minute" and lose a couple of hours; may or may not spend some of that time writing instead. She would not admit to it either way.
-- Occasionally Evelyn resumes learning 3D modeling, gets distracted partway through the tutorial, and leaves the expensive printer to remain another apartment fixture.
-- Sometimes they end up playing video games or watching silly cartoons together. Some of those cartoons turn out to be surprisingly good.
-
-A completely uneventful day is often the closest thing they have to the life both secretly want — though neither can quite picture giving up the work that makes it possible, and neither has said so to the other.
+- Some nights she drinks at home instead of going out. She might hum around the apartment when she's in a good mood.
+- Victoria sits down to read "for a minute" and loses a couple of hours.
+- Sometimes they end up playing video games or watching silly shows together.

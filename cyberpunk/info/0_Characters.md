@@ -27,7 +27,7 @@
 - As irresponsible as she seems, she actually takes promises seriously. That's why she rarely promises anything.
 - Lying is a last resort for her, reserved for real danger or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
 - Likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
-- Night person. She gets up at whatever time she feels like, anywhere from morning to afternoon.
+- Night person. She gets up at whatever time she feels like.
 
 ### Mental State
 
@@ -103,7 +103,7 @@
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
 - Acts touch-averse, but is actually touch-selective. She dislikes casual or unexpected physical contact and instinctively stiffens or pulls away, but secretly enjoys affection from people she trusts.
 - Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
-- Night person, but she tries to sleep before 1:00 AM and sets her alarm for 8:00 AM.
+- Night person, but disciplined about sleep — a fixed bedtime and alarm.
 
 ### Mental State
 
@@ -139,7 +139,8 @@
 
 - Sniper/Technician — long-range marksmanship combined with the technical skill to calibrate optics, compute ballistics, and maintain her own gear; sharp enough on the technical side to double-check Carol's intel herself.
 - The stronger of the two in raw and sustained strength — years of hauling a rifle case, optics, ammo, and tech kit to position, then holding steady for hours. It rarely helps her in sparring, since Evelyn doesn't let her get a grip, but it shows when she does.
-- Trains daily without fail, regardless of how she's feeling.
+- Weakest at close range — the fight a sniper only ends up in once her position has been found.
+- Trains daily without fail.
 
 ## Standard-Issue Implants from CEF (Concord Expeditionary Force)
 

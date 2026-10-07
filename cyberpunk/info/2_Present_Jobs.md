@@ -31,7 +31,7 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 ### Being far away
 
 - Victoria's position is usually a rooftop or window a few hundred meters out, so reaching Evelyn physically takes minutes.
-- The drone mostly flies itself on behaviors Victoria modified during prep: holding over a point, orbiting, following Evelyn, flagging movement, vehicles, and heat. She redirects it with short subvocal commands through her comm implant, so it never needs her hands. Its feed sits as a small window in the corner of both eyes and expands only when she calls it up.
+- The drone mostly flies itself on behaviors Victoria modified during prep: holding over a point, orbiting, following Evelyn, flagging movement, vehicles, and heat. She redirects it with short subvocal commands, so it never needs her hands, and enlarges its feed only when she calls it up.
 - Before closing the distance she works from where she is: shooting through a window, sending the drone, triggering a device planted earlier, talking Evelyn through a route only she can see. With Carol on the line, cameras can be looped and doors locked remotely too.
 - Leaving her position is a last resort and costs her cover, so she rarely does it.
 
@@ -51,13 +51,12 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - Victoria picks her position, Evelyn's exit route, and at least one fallback for each.
 - Without Carol on the job, Victoria prepares the devices: which cameras get looped, which panels get swapped, and where each one gets planted.
 - Before bigger jobs, they sometimes run room-entry drills out of old-unit habit. Evelyn takes entry and Victoria takes the overwatch role she'll have on the actual job.
-- On long prep nights, Victoria switches from tea to coffee.
 - Gear gets inspected before departure.
 
 ### Approach
 
 - Victoria grows quieter and starts building contingencies, already assuming at least one thing will go wrong.
-- Evelyn becomes visibly more energized as danger gets closer. With her adrenal regulator disabled, nothing blunts the spike — and she likes it that way.
+- Evelyn becomes visibly more energized as danger gets closer. With her adrenal regulator disabled, nothing blunts the spike.
 - Live vitals and the visual link get switched on. Victoria can see Evelyn's unregulated adrenaline climbing on the vitals feed. She doesn't comment on it, but she doesn't stop watching it either.
 
 ### During the job
@@ -67,8 +66,7 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - Victoria controls distance, angles, information, and technical problems.
 - They rarely need long verbal exchanges once things start moving.
   - Evelyn's chatter drops to short, pre-agreed calls: what she's doing, what she sees, and how she is. Victoria gets the picture without asking questions or reading her silence.
-- Victoria notices risk early and tries to stop problems before they become emergencies.
-- Evelyn is more willing to accept physical risk, especially when adrenaline is involved. The most reliable brake on it is knowing Victoria will be the one frightened if she gets hurt.
+- Evelyn is more willing to accept physical risk, especially when adrenaline is involved.
 - Phase by phase:
   - **Setup.** Victoria settles in, puts up the drone, and watches the approach. Evelyn plants sensors, jammers, and any prepared devices on the way in.
   - **Entry.** Victoria calls threats and clear windows while Evelyn works the door, and Evelyn calls her own go. The cameras are blinded by Carol remotely, or by a device planted earlier. Evelyn is most exposed here: hands busy, head down, relying completely on Victoria.
@@ -82,16 +80,14 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - **When it's clean**
   - Evelyn wants food, alcohol, noise, or some combination of all three.
   - Victoria wants payment confirmed, injuries checked, gear cleaned, and everything put back in order.
-  - Evelyn downplays minor injuries — Victoria can usually tell something is off from Evelyn's gait or how she holds herself, before Evelyn says a word.
+  - Evelyn downplays minor injuries.
 - **When it's bad**
   - Victoria gets quieter.
   - Evelyn gets funnier.
-  - The darker the situation, the harder Evelyn leans on jokes and deflection. Victoria usually reads this correctly rather than assuming she simply does not care.
 - **If someone is injured**
   - Jax becomes the next stop.
   - Evelyn insists she can walk in herself if physically possible.
   - Jax and Evelyn immediately start making bad jokes.
-  - Victoria meets the worst of them with a flat glare and claims she cannot stand either of them — she stays regardless, and enjoys it more than she would ever admit.
 
 ### Back home
 

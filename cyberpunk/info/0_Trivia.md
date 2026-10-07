@@ -12,6 +12,13 @@
 - Evelyn named their sweeping robot Jeffery.
 - Victoria handles most of the grocery shopping because whenever she lets Evelyn do it, Evelyn comes back with too many nutritionally or functionally questionable purchases.
 
+## Apartment & Car
+
+- The apartment is on the fifth floor. The building has an elevator that works most of the time.
+- They have a black sedan, which Victoria bought outright.
+- Both can drive. When they're both in the car, Victoria drives.
+  - Evelyn drives really fast, but her reflex booster means she usually gets away with it.
+
 ## Questionable Purchases
 
 - Evelyn bought a ridiculously high-end 3D printer to learn 3D modeling, but has started the tutorial three times and never finished it.
