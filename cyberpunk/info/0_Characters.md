@@ -131,6 +131,9 @@
 
 - Both eyes are artificial, replaced after the injury that cost her the upper half of her original face at 18.
   - The same saturated, artificial-looking blue as Evelyn's right eye. Her biological eyes had been a little greener.
+  - On jobs they show her drone feed as a small window in the same corner of both eyes, so it reads as one image. When their calibration drifts, the two windows stop lining up, and long jobs end in eye strain and a headache.
+  - The drone link is display-only: she locked it down so a hijacked drone can't send anything else into her eyes.
+- Directs her drone with subvocal commands through her comm implant, keeping drone commands on a separate channel from her voice to Evelyn.
 
 ### Specialty
 
@@ -190,6 +193,7 @@
 - The location ping runs passively at all times.
 - Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
 - Live vitals viewing is switched on manually by both of them at the start of a job and switched off once they're clear.
+- A visual link lets Victoria see through Evelyn's artificial eye. It only opens when both of them agree, which in practice means during jobs, alongside live vitals.
 - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
 ---

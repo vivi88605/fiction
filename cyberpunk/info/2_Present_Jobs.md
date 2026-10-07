@@ -19,16 +19,19 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
   - **Point / entry:** Evelyn.
   - **Clearing, rear security:** Evelyn, badly — no one is watching her back.
   - **Overwatch / precision fire:** Victoria.
-  - **Comms, navigation, overall picture:** Victoria.
+  - **Comms, overall picture:** Victoria.
+  - **Navigation:** Victoria outside and on the exit. Inside, Evelyn navigates herself from the floor plan in her eye, and Victoria only corrects her.
   - **Tech:** split three ways. Evelyn does hands-on bypasses at the door. Victoria does hardware and firmware: reading which models and versions are weak, building and maintaining devices, physical tricks on panels and lines. Live remote hacking (cameras, network, alarms) is Carol's alone, and only if she's looped in.
   - **Intel:** Carol, remotely, before the job and live during it when she's looped in.
   - **Medic:** nobody during the job. Jax afterward.
 - The imbalance: Victoria is overloaded, and Evelyn is blind behind her.
+  - Evelyn takes some of the load off where she can: short structured reports, her own navigation inside, her own go at the door, and her eye's view when Victoria needs it.
 - Looping Carol in adds live hacking they otherwise don't have. It costs part of the pay, and Carol only sees what the network shows her, so on bigger or riskier jobs they usually pay for it and on small ones they usually don't.
 
 ### Being far away
 
 - Victoria's position is usually a rooftop or window a few hundred meters out, so reaching Evelyn physically takes minutes.
+- The drone mostly flies itself on behaviors Victoria modified during prep: holding over a point, orbiting, following Evelyn, flagging movement, vehicles, and heat. She redirects it with short subvocal commands through her comm implant, so it never needs her hands. Its feed sits as a small window in the corner of both eyes and expands only when she calls it up.
 - Before closing the distance she works from where she is: shooting through a window, sending the drone, triggering a device planted earlier, talking Evelyn through a route only she can see. With Carol on the line, cameras can be looped and doors locked remotely too.
 - Leaving her position is a last resort and costs her cover, so she rarely does it.
 
@@ -40,8 +43,11 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - Victoria reads everything carefully and asks inconvenient questions.
 - Evelyn focuses on breach points, risk, pay, and whether something can be blown open unnecessarily.
 - Carol supplies verified remote intel.
-- Victoria cross-checks key details rather than relying on a single source.
-- Victoria briefs Evelyn on door materials, lock hardware, and new security builds — the reading side of breaching that Evelyn neglects.
+- Prep scales with the job. A routine job takes a few hours: Carol's package or Dell's details, one drone pass or walk-by, and kit they already have. Only the big contract gets days of it: a stakeout, verifying Carol's intel in depth, custom devices, maybe a drill.
+- Much of the prep is done before any job arrives. Victoria's daily upkeep means she often already knows the hardware, and she keeps a standing kit of generic devices for common models, built on quiet days.
+- Victoria cross-checks key details rather than relying on a single source. She doesn't re-verify everything, only what the plan depends on: the entry, the exit route, and her own position. Those she checks herself, whoever supplied them.
+- Victoria briefs Evelyn on door materials, lock hardware, and new security builds — the reading side of breaching that Evelyn neglects. The briefing is short: what it is, and what won't work. Evelyn half-listens, so Victoria says the one thing that matters twice.
+- Evelyn's own prep is physical. She goes to look in person: walks past the door, checks the street, runs the exit route. She packs options rather than a plan — a primary way through the door and backups like picking, prying, cutting, or a charge — and chooses on site.
 - Victoria picks her position, Evelyn's exit route, and at least one fallback for each.
 - Without Carol on the job, Victoria prepares the devices: which cameras get looped, which panels get swapped, and where each one gets planted.
 - Before bigger jobs, they sometimes run room-entry drills out of old-unit habit. Evelyn takes entry and Victoria takes the overwatch role she'll have on the actual job.
@@ -52,8 +58,7 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 
 - Victoria grows quieter and starts building contingencies, already assuming at least one thing will go wrong.
 - Evelyn becomes visibly more energized as danger gets closer. With her adrenal regulator disabled, nothing blunts the spike — and she likes it that way.
-- Live vitals get switched on. They monitor each other's location and vitals without discussing it.
-- Victoria can see Evelyn's unregulated adrenaline climbing on the vitals feed. She doesn't comment on it, but she doesn't stop watching it either.
+- Live vitals and the visual link get switched on. Victoria can see Evelyn's unregulated adrenaline climbing on the vitals feed. She doesn't comment on it, but she doesn't stop watching it either.
 
 ### During the job
 
@@ -61,12 +66,13 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - Evelyn handles entry, disruption, close pressure, and rapid movement.
 - Victoria controls distance, angles, information, and technical problems.
 - They rarely need long verbal exchanges once things start moving.
+  - Evelyn's chatter drops to short, pre-agreed calls: what she's doing, what she sees, and how she is. Victoria gets the picture without asking questions or reading her silence.
 - Victoria notices risk early and tries to stop problems before they become emergencies.
 - Evelyn is more willing to accept physical risk, especially when adrenaline is involved. The most reliable brake on it is knowing Victoria will be the one frightened if she gets hurt.
 - Phase by phase:
   - **Setup.** Victoria settles in, puts up the drone, and watches the approach. Evelyn plants sensors, jammers, and any prepared devices on the way in.
-  - **Entry.** Victoria calls the timing while Evelyn works the door. The cameras are blinded by Carol remotely, or by a device planted earlier. Evelyn is most exposed here: hands busy, head down, relying completely on Victoria.
-  - **Inside.** Victoria loses most of her sightlines and switches from shooting to supplying information: floor plans, thermal, camera feeds from a planted tap or from Carol, movement warnings. If Carol is on the job, she's opening doors and holding off alarms in the background at the same time. When Evelyn goes silent, Victoria reads the vitals feed.
+  - **Entry.** Victoria calls threats and clear windows while Evelyn works the door, and Evelyn calls her own go. The cameras are blinded by Carol remotely, or by a device planted earlier. Evelyn is most exposed here: hands busy, head down, relying completely on Victoria.
+  - **Inside.** Victoria loses most of her sightlines and switches from shooting to supplying information: floor plans, thermal, camera feeds from a planted tap or from Carol, movement warnings. Evelyn finds her own way from the floor plan, and Victoria pulls up Evelyn's eye view when she needs to see what Evelyn sees. If Carol is on the job, she's opening doors and holding off alarms in the background at the same time. When Evelyn goes silent, Victoria reads the vitals feed.
   - **Objective.** Victoria watches the outside — reinforcements, vehicles, response times — and calls the time limit.
   - **Exit.** Victoria goes back to shooting, covering Evelyn's route and dealing with pursuit. Evelyn leaves by the route Victoria picked, which may not be the way she came in.
   - **Victoria's exit.** Victoria breaks down her position and gets out alone while Evelyn is somewhere else. If the area is locked down, her weakness at close range becomes the problem.
