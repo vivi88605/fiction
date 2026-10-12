@@ -4,6 +4,12 @@ How narration sounds from inside each of them. Default is close third person, pa
 
 Both avoid their own heavy thoughts, in opposite directions: Evelyn swerves away from a thought, Victoria explains it into something manageable. Neither POV states the unspoken things outright — the weight lives in what the narration skips or reframes.
 
+## Naming
+
+- Narration refers to every character by first name, whoever the POV character is: always "Evelyn" and "Victoria", never "Ev", "Vic", or "V." in the narration.
+- Nicknames appear in dialogue, direct thought, and in-world text (messages, files, notes), so each one stays tied to the person who uses it.
+- Closeness comes through the voice around the name, not by changing the name.
+
 ## Shared Tone
 
 Applies at any weight, light or heavy.

@@ -2,97 +2,98 @@
 
 ## Setup
 
-**When:** after the present-day status quo. The knee replacement, the bypass, and the strain all happen after the present; the incident is where they come due.
+**When:** Some time after the present-day status quo.
 
-### The Replacement
+### The Booster
 
-- Evelyn's left knee is destroyed in a job; she gets a standard replacement since she can't afford a mil-spec one.
-- The replacement is durable and doesn't degrade on its own — the real problem is a mismatch, not a defect: her reflex-boosted nervous system is faster than a standard joint is rated for.
-- Straight-line speed is nearly unaffected (predictable, rhythmic load). Evasive movement — cuts, pivots, reactive dodges — is where the desync shows up, since it demands split-second asymmetric response between joints.
-- This targets exactly the skill a breacher's job depends on — trusting her body completely in the half-second after a door goes down.
+- Evelyn's reflex booster has grown less reliable with age, component wear, and years of servicing outside its original military support system. It generally works; the problem is occasional **activation latency** — a slight delay between the demand for a boosted response and the booster fully engaging.
+- This is not an identical repeat of the calibration _stutters_ she experienced at seventeen. Once engaged, the booster still provides its usual speed. Most of the time Evelyn notices nothing wrong.
+- The delay is most apparent in abrupt, unplanned corrections rather than routine movement. It makes very little difference until a maneuver has almost no margin for error.
+- Jax can recalibrate it and replace accessible worn components. The fixes help, sometimes for long stretches, but without a complete replacement or more expensive diagnostic work neither can promise the underlying issue is gone.
+- Replacing the booster outright would be costly and disruptive, and a replacement might not behave exactly like the familiar hardware Evelyn has learned to trust. She continues using it, without thinking of herself as taking an extraordinary risk.
 
-### The Bypass
+### The Warnings
 
-- Standard replacements ship with a safety governor limiting torque/speed/range, because surrounding tissue and anchor points weren't built for a boosted nervous system's full output. Mil-spec replacements raise this limit safely, with reinforced anchor points to match — hers doesn't.
-- Evelyn gets access to an unlicensed override chip that unlocks the governor, letting the joint respond at full speed/torque to match her body — without fixing the underlying mismatch.
-- Consequences split cleanly:
-  - **Mechanical strain** — actuator wear, calibration drift, misalignment. This is Jax's lane: fixable, same-day, low visible cost.
-  - **Biological strain** — micro-damage at the anchor points where the joint meets bone/tissue. Not a parts problem; needs real healing time no unlicensed shop can shortcut.
-- The trap: Jax keeps solving the visible half so well that there's no feedback loop warning her about the invisible half accumulating underneath.
-
-### The Strain
-
-- **Immediate**: incomplete extension/lock (slight permanent bend on that side), stiffness that needs "warming up," a catch mid-stride without a full limp yet.
-- **Short-term**: weight shifted onto the right leg, shortened stride on the left, avoiding pivots/lunges on that side, stairs taken asymmetrically, standing with weight braced against something.
-- **Bad days**: a brace she resists wearing in front of clients (a visible tell of compromise), a cane or leaning on Victoria, worst case a full buckle with no warning.
-- **Social handling**: jokes about it before anyone can worry out loud, downplays a real limp as something mundane, avoids visible aid around clients or strangers since a compromised merc is a liability or a target.
+- Evelyn occasionally catches a fraction-of-a-beat hesitation during practice or on a job. She makes a note to mention it to Jax; sometimes she does, sometimes it slips her mind.
+- Unlike at seventeen, she knows equipment anomalies matter. She does arrange maintenance and takes the issue seriously enough to check it, but successful recalibrations make it easy to regard the problem as manageable.
+- Victoria notices small inconsistencies in Evelyn's timing, especially in drills, and brings them up from time to time. Her questions are practical, not accusatory.
+- Evelyn points to the latest service, a clean diagnostic, or weeks of normal performance. Victoria isn't satisfied, but she also respects Evelyn's experience and knows there isn't an easy and affordable fix.
+- Shortly before the incident, they have an ordinary conversation about Evelyn booking another check with Jax. Evelyn means to do it. Neither believes disaster is imminent.
 
 ---
 
 ## The Incident
 
-- The knee fails during the retreat from Evelyn's own breach charge — she's triggered it and needs to clear the blast radius, but the joint buckles instead of completing the movement.
-- She drops hard beside the breached frame and instinctively catches herself with her right arm.
-- The detonator fires slightly earlier than its displayed delay. The difference is small enough that a fully mobile breacher still would have cleared the danger zone, but Evelyn has already lost the fraction of a second her damaged knee was supposed to give her.
-- The charge goes off before she can recover, dislodging part of the reinforced frame and bringing it down across her right arm.
-- Her reinforced bones keep the limb from simply shattering, but the surrounding muscle, blood vessels, and nerves are catastrophically crushed. She's pinned in place with a failed leg and no way to extract herself before the situation gets worse.
-- Victoria has to break position to get her clear, exposing herself to incoming fire to cover for a body Evelyn has been quietly gambling with for years.
-- The arm is freed, but the damage is beyond reconstruction; extensive soft-tissue and nerve destruction leave amputation as the only viable option.
-- If Evelyn had not spent years overriding the governor and accumulating biological damage, she would have cleared the breach despite the timing fault.
-- This is the moment the governor bypass stops being a close call and becomes the direct cause of the injury that ends her career — while the undisclosed detonator fault gives Victoria one more failure in the chain that she cannot leave unexplained.
-- There's no same-day fix available this time, and even Jax has nothing casual to say about it.
+- The job is routine enough to feel familiar. Evelyn sets a breaching charge with a delay she has used safely many times; Victoria watches the surrounding area from overwatch.
+- After triggering the charge, Evelyn begins to withdraw. She needs a quick adjustment to her path, but the booster takes just a little too long to engage. She is still moving under her own power; she simply fails to gain the distance she expects in the available time.
+- Independently, the detonator fires slightly earlier than its displayed delay. Either problem alone might have left her enough margin to get clear. Together they leave her too close when the charge goes off.
+- The blast tears apart part of the door hardware. A substantial, irregular piece of metal heads toward Evelyn's face.
+- The booster has engaged by then. Evelyn sees the danger and reacts in time to put her right forearm between the metal and her face. This time, her defensive movement works: she protects her head.
+- Her unreinforced forearm takes the impact. The metal and the force of the collision cause devastating localized fractures. She doesn't lose the arm instantly, but it is no longer usable.
+- Evelyn is conscious and trying to get away, but shock, blood loss, the useless arm, and security converging on the breach prevent her from extracting herself. She is not pinned beneath a magically falling door.
+- Victoria tries to manage the threat from overwatch, then realizes shooting from a distance will not get Evelyn out. Despite Evelyn telling her not to come, she abandons cover and crosses into danger to help her escape.
+- Evelyn is frightened less by her own injury than by watching Victoria expose herself to incoming fire. This is the part that persists in her memory.
+- Surgeons initially assess whether the limb can be salvaged, but the tissue and vascular damage make reconstruction unviable. Evelyn undergoes a **right below-elbow amputation**.
+- The fault chain stays distinct: Evelyn's aging booster reduced her margin, while the detonator's undisclosed timing defect removed the rest. Victoria later investigates the second failure; neither woman needs to pretend the first did not exist.
+- For Evelyn, the horror is not primarily losing another part of herself. It is that Victoria might have died getting her out.
 
-## The Conversation
+## Recovery and Transition
 
-- This incident crosses Evelyn's one real line: not getting hurt herself, but putting Victoria in harm's way.
-- It is a whole different level of guilt than what she normally brushes off.
-- Victoria is the one who says it first: she's been quietly bracing for a night exactly like this one for years, and she doesn't think she can keep doing that.
-- Not an ultimatum — just finally voicing what she's been protecting Evelyn from knowing.
-- Evelyn doesn't argue that the detonator fault caused everything. She knows better. The supplier's failure made it worse, but the reason she was still beside the breach when it went off was her own.
-- Both of them separately admit they've each secretly wanted out, for reasons they didn't think they were allowed to say out loud.
+### Immediate Aftermath
 
-## Victoria and the Archive
+- Evelyn assumes at first that she'll recover, learn to use a prosthetic forearm, and eventually go back to mercenary work. She's had a replacement eye for years; replacement parts do not strike her as the end of a career.
+- She makes jokes about the new arm and complains about the standard prosthesis. The jokes are partly genuine, even when they don't make Victoria feel better.
+- Victoria deals with the appointments, logistics, and the practical demands of recovery. She does not turn the booster warnings into an _I told you so_.
+- Evelyn knows there were warnings. She also knows Victoria came under fire because she couldn't get herself out. The harmless-sounding conversation about booking maintenance begins to trouble her.
+- Neither immediately announces a desire to retire. They are too busy getting through the aftermath.
 
-- Victoria needs to know exactly what happened.
-- She already knows Evelyn's knee failed first. There is no mystery there, and she isn't trying to absolve her of it. What bothers her is the timing. The charge detonated earlier than the telemetry says it should have.
-- She pulls the job logs, compares the detonator clock against her own system time, checks the charge's batch number, and starts tracing the supplier.
-- That trail leads through old service bulletins, procurement records, archived firmware revisions, buried complaints, and eventually evidence that the detonator model had a known timing bug the supplier never disclosed to clients.
-- The bug is not what made Evelyn fall, and Victoria knows it. But it turned a survivable failure into a catastrophic one, and the fact that someone knew about it and left the information buried gets under her skin.
-- She keeps returning to the archive long after she has enough evidence for the incident itself.
-- The archive is quiet, ordered, and low-interaction in a way she hadn't realized she wanted.
-- At first she only uses it as a research tool. Then she starts noticing problems in the records themselves: inconsistent tags, duplicate entries, dead references, badly linked revisions, mislabeled procurement files.
-- She begins flagging them almost automatically.
-- An archivist notices that her corrections are unusually precise and, more importantly, consistently verifiable.
-- They ask whether she'd be interested in temporary paid work cleaning up a neglected digital records backlog.
-- Victoria accepts because Evelyn's recovery has left her with too much time and nowhere useful to put it.
-- She tells herself it's temporary.
-- The work turns out to use almost the same instincts that kept her alive as a sniper and technician: verify the source, check the chain, notice contradictions, never trust a label just because someone else already filed it.
-- The difference is that now, when information is wrong, nobody dies.
-- Temporary work becomes training, and training becomes a permanent position as a digital archivist.
-- She never has a dramatic moment of deciding to reinvent herself. She simply keeps coming back until, at some point, mercenary work is no longer the thing she does.
+### Finding Other Things to Do
 
-## Evelyn and Cyberware Customization
+- Recovery leaves Evelyn with time and a standard prosthetic she finds ugly and impersonal. She begins designing her own external covers and housings, using the neglected 3D printer she already owns.
+- She learns CAD through trial, error, and a lot of prototypes. Jax helps with fabrication methods and material limitations. A few small requests through his shop eventually become paid customization work.
+- Meanwhile, Victoria compares the charge telemetry with other records. She discovers a discrepancy in the detonator timing, follows the supplier's old bulletins and revisions, and uncovers evidence of a known defect that was not disclosed.
+- The research draws her into digital archives. She starts correcting poorly organized records almost incidentally and is eventually offered temporary paid archival work.
+- These developments overlap with Evelyn's rehabilitation and their ordinary life. Neither woman sets out to invent a new career; both start with something useful to do while everything else is uncertain.
 
-- Evelyn's first project is her own prosthetic arm.
-- The standard shell is functional but generic — shaped for average proportions, built to survive abuse, and designed to be cheap to replace. Evelyn hates it almost immediately. It looks like hospital equipment attached to her body.
-- At first she only wants to make it look less awful. She pulls the shell apart, measures the mounting points, and starts modeling replacement panels with the 3D printer she bought years ago and never properly learned to use.
-- Relearning fine motor control with the prosthetic and learning CAD happen at the same time. Early prototypes are ugly, badly fitted, or impossible to assemble; some pinch when the wrist rotates, some interfere with access panels, and at least one has to be cut off because she neglected to leave enough clearance around a fastener. Unlike the abandoned tutorials from years ago, she keeps going because every improvement makes the arm feel a little more like hers.
-- Her old experience as a breacher turns out to be unexpectedly useful. She already has an intuitive sense for what materials feel like when they're struck, scraped, heated, bent, or broken; she just never had formal names for most of it. Jax fills in the technical gaps and starts teaching her the material side properly: polymers, composites, light alloys, coatings, adhesives, fasteners, heat tolerance, impact behavior, fatigue, and how different fabrication methods change what a material can actually survive.
-- Evelyn takes to that side of the work much faster than she ever took to studying locks or security hardware. It is tactile, visible, and immediately testable — make something, abuse it, see where it fails, change it.
-- She designs and fabricates replacement housings, protective shells, fairings, access panels, cosmetic covers, grips, guards, and other external components around existing implants and prosthetics. Her work begins from known hardware with known dimensions and operating limits. She designs around it rather than reinventing it. Her own arm becomes an evolving portfolio piece.
-- Her first paid work comes through Jax's shop. He has clients whose cyberware works perfectly well but whose factory housings are cracked, uncomfortable, discontinued, ugly, or prohibitively expensive to replace through the original manufacturer.
-- Replacement covers become custom covers; custom covers turn into clients asking whether she can change this edge, add that feature, make theirs look like the one she built for herself. Word spreads mostly through people already using Jax for repairs.
-- Evelyn is good with clients in a way Jax isn't. She'll happily spend twenty minutes arguing over whether a shoulder plate should look "meaner" without treating that preference as frivolous. She sketches while people talk, throws out ideas, gets distracted, comes back to the original idea, and somehow usually ends up understanding what they wanted.
-- Her weakness is everything surrounding the actual work: estimates, invoices, deadlines, keeping materials stocked, remembering which client wanted which revision, and not spending the deposit before buying the material it was supposed to pay for.
-- Over time she becomes competent enough to work independently, though she stays connected to Jax for jobs that cross into actual cyberware engineering. She eventually freelances, doing mostly shells and external customization for prosthetics and other visible cyberware.
-- Custom work means inconsistent clients, revision requests, late payments, material costs, and Evelyn continuing to make catastrophically bad purchasing decisions whenever a project pays unusually well.
-- But for the first time, making things rather than surviving dangerous situations gives her enough stimulation to keep coming back to it.
+### The Slow Realization
+
+- Evelyn still talks about returning to work. She thinks about retraining, equipment changes, and what her prosthetic arm would need to handle.
+- But imagining another breach keeps bringing her back to the moment Victoria left cover for her. She can accept risk to herself more readily than the possibility of being the reason Victoria doesn't come home.
+- The booster incident also echoes something she has avoided examining since she was seventeen. Back then she refused to look at the trace after losing her eye. This time she can bear to look at the logs with Victoria, because understanding what happened matters more than making it seem small.
+- Working on prosthetic designs increasingly absorbs her. She notices, almost with surprise, that she is more excited about the next thing she wants to make than about returning to the field.
+- Victoria finds herself enjoying the quiet precision of archival work. The habits that kept her alive still matter, but the consequences of an error are no longer measured in injuries or deaths.
+- Neither reaches a sudden revelation. The possibility of not going back becomes less frightening as their lives slowly fill with other work.
+
+### The Conversation
+
+- Victoria eventually says aloud that for years she has been bracing herself for a job Evelyn wouldn't return from. She isn't issuing an ultimatum; she is finally admitting the fear she has kept to herself.
+- Evelyn confesses that she has been thinking about leaving too. Losing the forearm wasn't what changed her mind. Seeing Victoria risk her life to save her was.
+- Victoria admits that she has also wanted a life outside mercenary work, even if she hasn't known how to begin one.
+- They realize they have both been moving in that direction without saying it. Retiring is a choice they make together, with finances and practical details still to resolve, rather than an immediate reaction forced by the injury.
 
 ## The End
 
-- Two different jobs, still living together.
+- Evelyn becomes a freelance designer and fabricator of external cyberware housings, covers, and other noncritical customization, collaborating with Jax when work crosses into actual cyberware engineering.
+- Victoria settles into a permanent job as a digital archivist.
+- They remain themselves: Evelyn impulsive, inventive, and terrible at managing project expenses; Victoria meticulous and occasionally driven mad by poorly catalogued records.
 - “Client changed the brief again. I preferred being shot at. Bullets had clearer feedback.”
 - “Someone put a historical romance in political theory today.”
-- Their problems have become wonderfully mundane.
-- The same two people, same dynamic, but the scale of what threatens their lives has collapsed.
-- Danger is no longer the thing holding them together.
+- Their problems have become wonderfully mundane. The same two people, the same dynamic, but danger is no longer the thing holding them together.
+
+---
+
+## Parallel with the Eye Injury (writer reference)
+
+|                              | Eye incident, age 17                                                     | Future incident                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Booster problem              | New implant's calibration stutters                                       | Aging booster's intermittent activation latency                                                                  |
+| Evelyn's response to warning | Notices stutters but doesn't log them; finds paperwork boring            | Recognizes a maintenance issue, gets it checked, but files intermittent symptoms under _manageable_              |
+| Breach failure               | Mira fires before the final count, and Evelyn's booster stutters         | Evelyn loses a little retreat margin to booster latency, while an independent detonator fault shortens the delay |
+| Instinctive defense          | Cannot move out of the fragment's path                                   | Successfully raises her right forearm to shield her face                                                         |
+| Physical cost                | Right eye                                                                | Right forearm, amputated below elbow                                                                             |
+| First coping response        | Makes the injury small for Mira until she believes it herself            | Still jokes about replacement parts, but cannot make Victoria's risk feel small                                  |
+| Incident records             | Refuses to see the booster trace; looking would make it a big deal again | Willing to examine the logs with Victoria, even when they show her own contribution                              |
+| Relationship to her body     | _It's just a part_ becomes a deeply held belief                          | She can still believe the arm is replaceable; that belief doesn't answer the fear of losing Victoria             |
+| Where it leads               | Returns to breaching with even less instinctive self-protection          | Gradually chooses to leave mercenary work, while discovering work she wants to do instead                        |
+
+**Thematic distinction:** The second incident does not teach Evelyn that her body is sacred or that prosthetics are lesser. She successfully protects her face and can adapt to losing her forearm. What she cannot rationalize away is the possibility that the cost of her choices will be paid by Victoria.
