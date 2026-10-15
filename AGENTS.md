@@ -33,7 +33,7 @@ Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 | `1_Past_Service_Period.md`     | Service-era setting — Concord/CEF hierarchy & wars, academy & deployment life; summary of the meeting and friendship arc   | Writing flashback/backstory scenes or anything needing historical/setting context                     |
 | `2_Present_Typical_Routine.md` | Present-day status quo — daily/weekly routine, apartment dynamic                                                           | Writing present-timeline slice-of-life scenes                                                         |
 | `2_Present_Jobs.md`            | Present-day merc work — two-person role split, work-day phases, job types taken/refused, solo work, why they survive       | Writing any job/mission scene, or checking whether a job premise is realistic for them                |
-| `3_Future_Ordinary_Life.md`    | Post-present: summary of the injury-and-retirement arc and where they end up; constraints the present must not contradict  | A canon beat set before it that risks a permanent injury or has them opening up to each other         |
+| `3_Future_Ordinary_Life.md`    | Post-present: summary of the injury-and-retirement arc and where they end up                                               | A canon beat set before it that risks a permanent injury or has them opening up to each other         |
 
 The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading them in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
