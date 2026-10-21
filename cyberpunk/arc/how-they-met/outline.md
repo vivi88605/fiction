@@ -37,12 +37,11 @@
 
 ## Victoria verifies everything anyway
 
-- Victoria already believes Evelyn because she can see the resemblance. But she checks the records regardless. She traces the biometric sale, contractor, reconstruction package, dates, authorization chain. She just refuses to trust information she has not verified herself.
+- Victoria already believes Evelyn because she can see the resemblance. But she checks the records regardless. She traces the template bank purchase, the release Evelyn signed, the reconstruction order, dates, authorization chain. She just refuses to trust information she has not verified herself.
 - Evelyn catches her doing it.
 - “You know we have the same nose, right?”
 - “Similarity is not provenance.”
 - “I’m putting that on a shirt.”
-- Victoria discovers exactly how bureaucratically mundane the whole thing was. She simply received the cheapest acceptable reconstruction.
 
 ## Evelyn keeps appearing
 

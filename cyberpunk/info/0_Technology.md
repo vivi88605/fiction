@@ -40,8 +40,9 @@
 
 - Biometric data is a commodity.
 - Standard facial-recognition data (flat appearance matching) is collected everywhere and is what surveillance systems track. Full 3D biometric scans, the kind needed to rebuild a face, are a separate and rarer asset.
-  - Concord tracked its soldiers' appearance for recognition but did not keep 3D scans, which is why Victoria's reconstruction needed outside template data.
-- Selling your own biometric templates is black-market territory: illegal or unregulated, but a known way for poor people to raise cash. Buyers don't disclose what the data will be used for.
+  - Concord tracks its soldiers' appearance for recognition but doesn't scan them for free. It buys full scans from personnel willing to sell, for cash or a credit against implant debt, and keeps them in an in-house template bank that supplies CEF reconstructions.
+  - The release says the scan may be used in reconstructive procedures for Concord personnel. Sellers stay anonymous inside the bank, but the purchase is on Concord's records.
+- Outside Concord, selling your own biometric templates is black-market territory: illegal or unregulated, but a known way for poor people to raise cash. Buyers don't disclose what the data will be used for.
 
 ## Networks & Hacking
 

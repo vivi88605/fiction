@@ -44,7 +44,7 @@
 ### Backstory
 
 - Grew up poor. Enrolling in the CEF academy at 15 meant food, a bed, and a future, with the bill deferred.
-- At 17, not long after losing her right eye, she sold her own biometric templates on the black market for cash. The replacement eye had gone onto her implant debt, and by then a face was just another part.
+- At 17, not long after losing her right eye, she sold a full 3D scan of her face to Concord's template bank. The replacement eye had gone onto her implant debt, and by then a face was just another part. She took cash instead of the debt credit, and signed the release without reading it. She wouldn't have cared what it said.
 - Family isn't part of her life. Questions about them get a joke and a change of subject.
 - Years ago, back in the unit, she was in a much darker place — secretly seeking out pain, didn't care whether she woke up the next day. None of it showed; she was exactly this cheerful and jokey on the surface then too.
 - Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying.
@@ -116,7 +116,7 @@
 
 - Grew up inside Concord's orbit and enrolled in the CEF academy at 15 as a believer; it was the natural next step.
 - During her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
-- With no 3D scan of her original face to rebuild from, the unit's reconstruction filled in the missing upper half with purchased biometric template data. The provider matched on what her file recorded — blond hair, blue eyes, skin tone — and picked the closest stock template. It just happened to be data Evelyn had sold off before the two of them ever met.
+- With no 3D scan of her original face to rebuild from, the reconstruction filled in the missing upper half from Concord's own template bank, the standard and cheapest option. The match ran on what her file recorded — blond hair, blue eyes, skin tone — and the bank only holds scans bought from CEF personnel, so the pool was small. The closest template was Evelyn's, sold a few months earlier, before the two of them ever met.
 - She went in knowing she'd come out with a slightly different face and believing she'd be fine with that. She wasn't.
 - She came out of it wearing a stranger's face and a lasting refusal to trust information she hasn't verified herself.
 - Cut contact with her family after leaving the CEF.

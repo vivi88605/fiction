@@ -10,6 +10,11 @@ This repo is for generating plotbeats and prose for original-character (OC) stor
 
 Generated output goes in `arc/` or `side/`, never `info/`. See "arc/ and side/ structure" below.
 
+Outside the settings:
+
+- `tools/read-aloud/` — text-to-speech tool (edge-tts) that renders a prose or draft file to an mp3, run via the VS Code tasks in `.vscode/tasks.json`. Setup and usage are in its README. It's tooling, not story content: don't read it for writing tasks, and only edit it when the user asks about the tool.
+- `.tts/` — the tool's rendered mp3s. Gitignored, disposable; never read or write it.
+
 ## Read selectively — don't load the whole bible every time
 
 `info/` files can be long and each covers a different slice of the story (different time period, different depth of interiority). Reading all of them for every request burns context for no benefit. Instead:

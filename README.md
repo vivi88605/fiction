@@ -20,13 +20,13 @@ arc/<beat-name>/
 
 ## How it's written
 
-Prose is drafted with an AI coding assistant working from the outlines and the `info/` notes. [AGENTS.md](AGENTS.md) holds the instructions it follows. Each beat goes through several drafts, and the chosen one is committed as `prose.md`. The other drafts stay local and aren't in this repo.
+Prose is drafted with an AI coding assistant working from the outlines and the `info/` notes. [AGENTS.md](AGENTS.md) holds the instructions it follows. Each beat goes through several drafts, and the chosen one is committed as `prose.md`. All drafts are kept in the beat's `drafts/` folder, so you can also read the alternative takes.
 
 ## Read-aloud tool
 
-[.vscode/](.vscode/) contains a small VS Code task that turns a prose file into an mp3 with Microsoft's neural voices, so you can listen to a draft. Setup and usage are in [.vscode/README.md](.vscode/README.md).
+[tools/read-aloud/](tools/read-aloud/) contains a small script, run from a VS Code task in [.vscode/tasks.json](.vscode/tasks.json), that turns a prose file into an mp3 with Microsoft's neural voices, so you can listen to a draft. Setup and usage are in [tools/read-aloud/README.md](tools/read-aloud/README.md).
 
 ## License
 
-- **Read-aloud tool ([.vscode/](.vscode/)):** [MIT](.vscode/LICENSE).
+- **Read-aloud tool ([tools/read-aloud/](tools/read-aloud/)):** [MIT](tools/read-aloud/LICENSE).
 - **Stories, characters and settings:** All rights reserved, please don't repost without permission.
