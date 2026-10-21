@@ -26,8 +26,6 @@
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
 - As irresponsible as she seems, she actually takes promises seriously. That's why she rarely promises anything.
 - Lying is a last resort for her, reserved for real danger or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
-- Likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
-- Night person. She gets up at whatever time she feels like.
 
 ### Mental State
 
@@ -36,34 +34,29 @@
 - Joking is both genuine personality and avoidance. The worse something gets, the more likely she is to turn it into a joke rather than acknowledge what she is feeling.
 - The downplaying is mostly for other people's sake: she doesn't want anyone worrying about her.
 - Humor, constant motion, and danger are her main coping mechanisms — habits that go back further than people realize.
-- She lacks self-preservation instinct. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
-  - She still presses on a bruise or deliberately walks on a sprained ankle when no one is watching, and deflects whenever she gets caught.
+- She lacks self-preservation instinct — it may or may not have gone along with her right eye; she isn't sure and genuinely doesn't care anymore. She avoids injuring herself largely because she hates seeing Victoria frightened or worried about her.
+  - Small leftovers of the old pain-seeking still surface when no one is watching, and she deflects whenever she gets caught.
 - It takes a lot to make her angry; very little ever gets to her. When something does, she doesn't do loud—she just does quiet, or polite if she has to say anything at all.
 - Deep down, she wants a quiet, safe life — but danger, motion, and the merc work are also the exact things holding her together. Walking away from the career would mean giving up the habits keeping her stable, so she's stuck between the two. She hasn't talked to Victoria about it.
 
 ### Backstory
 
 - Grew up poor. Enrolling in the CEF academy at 15 meant food, a bed, and a future, with the bill deferred.
-- At 17, not long after losing her right eye, she sold a full 3D scan of her face to Concord's template bank. The replacement eye had gone onto her implant debt, and by then a face was just another part. She took cash instead of the debt credit, and signed the release without reading it. She wouldn't have cared what it said.
+- Lost her right eye at 17 in an accident during specialty training. Not long after, she sold a full 3D scan of her face to Concord's template bank.
 - Family isn't part of her life. Questions about them get a joke and a change of subject.
 - Years ago, back in the unit, she was in a much darker place — secretly seeking out pain, didn't care whether she woke up the next day. None of it showed; she was exactly this cheerful and jokey on the surface then too.
-- Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying.
-- But the recovery isn't clean: the swings between restless highs and crashes that come from nowhere are the current shape of what used to be flat gloom.
-- Her self-preservation instinct may or may not have been lost along with her right eye. She isn't sure and genuinely doesn't care anymore.
-  - "Worst case, I lose another piece. Then I'll get a new one."
+- Currently she's in a better place — she genuinely wants to live and is genuinely afraid of dying — though the recovery isn't clean.
 
 ### Hobbies
 
 - Parkours across the city when she has too much energy to burn — rooftops, railings, overpass supports, whatever's in the way.
 - Grabs a can and paints on walls when she feels like it — technically illegal in some spots but nobody's ever bothered enforcing it.
-- Hums when she's in a good mood; actual singing has been banned by the landlord.
-  - Her singing is actually decent; it's just too loud. She sings everything like she's singing some military anthem.
+- Hums when she's in a good mood.
 
 ### Personalized Implants
 
 - Reflex booster, standard issue for breachers. She can literally dodge bullets with it, but using it too much will cause physical strain and dizziness.
-- Right artificial eye. Replaced after an accident during her specialty training before deployment at 17.
-  - A brighter and more saturated blue that looks artificial up close.
+- Right artificial eye.
 - Disabled her adrenal regulator not long after leaving the unit — she likes the rush of an unregulated adrenaline spike.
 - She has no problems about replacing her body parts, as long as it's stronger or "cooler" — the only thing stopping her from going full-body cyborg is money.
 
@@ -102,8 +95,6 @@
 - Highly disciplined; keeps up routines regardless of how she feels that day.
 - A bit particular/compulsive about order — re-checking things, needing them in place. Small-scale, but real. She leaves Evelyn's room alone, but keeps every other part of the apartment tidy.
 - Acts touch-averse, but is actually touch-selective. She dislikes casual or unexpected physical contact and instinctively stiffens or pulls away, but secretly enjoys affection from people she trusts.
-- Eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
-- Night person, but disciplined about sleep — a fixed bedtime and alarm.
 
 ### Mental State
 
@@ -115,8 +106,8 @@
 ### Backstory
 
 - Grew up inside Concord's orbit and enrolled in the CEF academy at 15 as a believer; it was the natural next step.
-- During her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
-- With no 3D scan of her original face to rebuild from, the reconstruction filled in the missing upper half from Concord's own template bank, the standard and cheapest option. The match ran on what her file recorded — blond hair, blue eyes, skin tone — and the bank only holds scans bought from CEF personnel, so the pool was small. The closest template was Evelyn's, sold a few months earlier, before the two of them ever met.
+- At 18, during her time in the unit, a position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face.
+- The reconstruction filled in the missing upper half from a scan in Concord's template bank.
 - She went in knowing she'd come out with a slightly different face and believing she'd be fine with that. She wasn't.
 - She came out of it wearing a stranger's face and a lasting refusal to trust information she hasn't verified herself.
 - Cut contact with her family after leaving the CEF.
@@ -124,36 +115,23 @@
 ### Hobbies
 
 - Enjoys reading (specifically novels); gets absorbed easily and loses track of time or tasks. Doesn't like being interrupted once she's in it.
-- Prefers digital copies she can read directly via her artificial eyes so that others won't know what she's reading. (Evelyn knows she's reading when she stares into the void for too long.)
-- She may or may not have been writing her own novel and active on certain online forums, but she won't admit it.
+- Reads digital copies through her artificial eyes so others won't know what she's reading.
 
 ### Personalized Implants
 
-- Both eyes are artificial, replaced after the injury that cost her the upper half of her original face at 18.
-  - The same saturated, artificial-looking blue as Evelyn's right eye. Her biological eyes had been a little greener.
-  - On jobs they show her drone feed as a small window in the same corner of both eyes, so it reads as one image. When their calibration drifts, the two windows stop lining up, and long jobs end in eye strain and a headache.
-  - The drone link is display-only: she locked it down so a hijacked drone can't send anything else into her eyes.
-- Directs her drone with subvocal commands through her comm implant, keeping drone commands on a separate channel from her voice to Evelyn.
+- Both eyes artificial. On jobs they show her drone feed as a small window in the corner of her vision; long jobs end in eye strain and a headache.
+- Directs her drone with subvocal commands through her comm implant.
 
 ### Specialty
 
 - Sniper/Technician — long-range marksmanship combined with the technical skill to calibrate optics, compute ballistics, and maintain her own gear; sharp enough on the technical side to double-check Carol's intel herself.
-- The stronger of the two in raw and sustained strength — years of hauling a rifle case, optics, ammo, and tech kit to position, then holding steady for hours. It rarely helps her in sparring, since Evelyn doesn't let her get a grip, but it shows when she does.
+- The stronger of the two in raw and sustained strength — years of hauling a rifle case, optics, ammo, and tech kit to position, then holding steady for hours.
 - Weakest at close range — the fight a sniper only ends up in once her position has been found.
 - Trains daily without fail.
 
-## Standard-Issue Implants from CEF (Concord Expeditionary Force)
+## Shared Implants
 
-- Reinforced spine and neck.
-- Bone reinforcement in the skull, ribs, sternum, pelvis, and shoulder girdle.
-- Reinforced pericardial membrane.
-- Reinforced pleural liner — flexible mesh lining the inner chest wall, closing the gaps between ribs.
-- Major-vessel sleeves.
-- Comm implant.
-- Vitals monitor.
-- Adrenal regulator.
-- Nerve-level interfaces only, no direct brain interface. All run on third-party firmware now; Concord keeps no backdoor.
-- Arms and legs are left entirely natural. The package protects what keeps a soldier alive; a broken or lost limb is survivable and replaceable, and the replacement goes on the soldier's own ledger.
+- Both carry the CEF standard-issue package: reinforced spine, skull, and torso, plus a comm implant, vitals monitor, and adrenal regulator. Arms and legs are natural.
 
 ## Relationship
 
@@ -162,16 +140,17 @@
 - Platonic, found-family dynamic.
 - They met at CEF at age 19 and left CEF at age 22, which was the earliest they could leave financially and contractually clean; they've lived together ever since.
 - **Resemblance**
-  - Their resemblance is not immediately obvious to others. Their very different hairstyles, expressions, posture, and mannerisms usually make them read as merely similar-looking; the resemblance becomes much clearer once someone notices it or sees them side by side.
-  - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own, which breaks up the likeness at a glance; it's most obvious when her lower face is covered.
-  - Evelyn cuts her own hair and insists on trimming Victoria's bangs too — otherwise Victoria would never bother to style them — which sometimes results in them having similar bangs.
-  - When people ask if they are related, Evelyn gives vague answers like "close enough," while Victoria mostly stays quiet. People usually just assume they are, don't really care, or are respectful enough not to ask further.
+  - Not immediately obvious to others: different hairstyles, expressions, posture, and mannerisms make them read as merely similar-looking until someone notices or sees them side by side.
+  - The template Victoria's reconstruction used was Evelyn's face scan, sold a few months earlier, before the two of them ever met.
+  - The shared features are the upper face — eyes, brows, nose bridge. Victoria's mouth and jaw are her own.
+  - When people ask if they are related, Evelyn stays vague, while Victoria mostly stays quiet.
   - Evelyn's feelings about Victoria wearing her face were equal parts guilt and morbid fascination at someone else "having it". It was why she latched on when they first met, and Victoria's guardedness never stood a chance.
 - **Mutual Awareness**
   - Victoria knows Evelyn is secretly gloomy — not every detail, but enough. She rarely brings it up since Evelyn would just deflect, and the trend has been improving, so she doesn't want to poke at it. It's part of why she quietly reads Evelyn's recklessness as self-neglect rather than just stupidity.
-  - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her gait or how she holds herself.
+  - Victoria gets frustrated whenever Evelyn comes home with a new injury. Even when it's minor, she can tell something is off with Evelyn just by looking at her.
   - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
   - They're both stubborn and don't like inconveniencing others.
+- Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
 
 ### Nicknames
 
@@ -180,21 +159,9 @@
 - Evelyn also calls Victoria "Needle" on occasion, which was Victoria's callsign in CEF. Evelyn's was "Doorbell," but Victoria rarely uses that.
 - Victoria sometimes calls Evelyn "Ev" because Evelyn keeps pushing for it. Otherwise she defaults to first names, with everyone.
 
-### Things they do together
-
-- Run room-entry drills before bigger jobs, out of old-unit habit.
-- Practice self-defense together, focused on close range, where Victoria is weakest. Evelyn teaches and wins almost every time.
-  - Victoria keeps coming back despite hating to lose, and quietly uses the sessions to check on Evelyn's booster, joints, and state of mind.
-- Although most of their hobbies are different, They sometimes play video games or watch competition shows and silly cartoons together. Some of those cartoons turn out to be surprisingly good.
-- Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
-
 ### Vitals & Location Link
 
-- After leaving the unit, they repurposed their vitals monitors and location pings to report only to each other.
-- The location ping runs passively at all times.
-- Vitals are threshold-only outside of jobs: the other person gets an alert only if readings cross a set threshold. Neither can browse the other's data freely.
-- Live vitals viewing is switched on manually by both of them at the start of a job and switched off once they're clear.
-- A visual link lets Victoria see through Evelyn's artificial eye. It only opens when both of them agree, which in practice means during jobs, alongside live vitals.
+- Their vitals monitors and location pings report only to each other. Outside jobs it's a passive location ping and threshold-only vitals alerts; on jobs they switch on live vitals, plus a visual link that lets Victoria see through Evelyn's artificial eye.
 - Evelyn hates being tracked. Victoria is the one who insisted on keeping it.
 
 ---
@@ -214,7 +181,7 @@
 - 35, he/him.
 - Broker.
 - Charming, easy to like, pitches jobs a little more favorably than they turn out to be.
-- optimism more than dishonesty.
+- Optimism more than dishonesty.
 
 ## Carol
 
@@ -222,10 +189,7 @@
 - Hacker.
 - Remote-only, never met in person.
   - Evelyn and Victoria don't know her age, though they have their suspicions.
-- Professional and Competent.
-  - Young genius. Ex-Axion soldier. Has a direct brain interface, which she got through one of Axion's programs, a network-focused one.
-  - Walked out of the program on bad terms while it was still running. She's talented enough to have gotten away with it.
-  - Still runs on Axion's firmware, but she has dealt with the backdoor herself.
+- Professional and competent. Young genius, ex-Axion soldier with a direct brain interface.
   - Sometimes smug, a little arrogant about being the smartest one on the line.
 - Trust built job by job through consistent accuracy rather than personal rapport.
 
@@ -233,9 +197,5 @@
 
 - 24, he/him.
 - Mercenary. Brought in for bigger jobs as close-quarters support.
-- Remote-only: his body is a combat-grade frame, piloted from wherever his real body is.
-  - Ex-Axion soldier. Needed a direct brain interface for medical reasons. Axion's experimental program for remote-piloted frames was the only option he had. The program was later canceled, and he left Axion when it was.
-  - Still runs on Axion's firmware.
-  - Civilian employers are put off by the frame, and ordinary wages wouldn't cover upkeep anyway.
-  - The frame is built for fighting, so that's where he's most useful.
+- Remote-only: ex-Axion, his body is a combat-grade frame, piloted from wherever his real body is.
 - Polite and warm.

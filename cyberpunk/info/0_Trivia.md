@@ -25,6 +25,12 @@
 - Evelyn buys clothes for both of them, since Victoria completely lacks a sense of fashion, which is why the apartment holds over 20 jackets.
 - While Victoria has decent savings, Evelyn is constantly broke from installment plans. Evelyn never borrows from Victoria unless it's a true emergency, though, so Victoria doesn't really comment on her purchases.
 
+## Food & Sleep
+
+- Evelyn likes junk food. Lattes in the morning (Victoria called them a "milk, coffee, and syrup abomination") and alcohol at night (mostly at a bar, sometimes at home).
+- Victoria eats things that feel healthy more out of habit than actual preference. Drinks tea daily, switches to coffee when she really needs to concentrate/stay awake.
+- Both are naturally nocturnal. Evelyn gets up at whatever time she feels like; Victoria is disciplined about sleep — a fixed bedtime and alarm.
+
 ## Liquor
 
 - Evelyn can hold her liquor; she just becomes less hyper and more relaxed when drunk.

@@ -110,6 +110,7 @@ They can spend hours in the same room barely speaking and still clearly be keepi
   - Close range is exactly where Victoria is weakest and Evelyn is strongest, so Evelyn gets to be the one teaching for once.
   - Focus: escaping grabs and holds, weapon retention, fighting from the ground, drawing a sidearm with someone already on top of you — the skills a sniper needs once her position has been found.
   - Evelyn wins almost every time, and is gleeful about it. Victoria hates losing, but keeps coming back because the practice is useful.
+  - Victoria is the stronger of the two, but Evelyn never lets her get a grip. When she does, it shows.
   - Evelyn thinks she's running a lesson. Victoria is also running an inspection: whether the booster fires cleanly, whether Evelyn favors a joint, whether she's going too hard.
   - It's one of the few things that pulls Victoria fully out of vigilance. Nobody can overthink while someone is trying to pin them.
   - Possible venues: the living room with the furniture pushed aside (which Victoria puts back exactly afterward), a cheap gym, or Jax's back room with Jax heckling from the side.
@@ -120,4 +121,4 @@ They can spend hours in the same room barely speaking and still clearly be keepi
 - Evelyn may head to a bar, end up doing karaoke with people she met for the first time, or just wander somewhere outside.
 - Some nights she drinks at home instead of going out. She might hum around the apartment when she's in a good mood.
 - Victoria sits down to read "for a minute" and loses a couple of hours.
-- Sometimes they end up playing video games or watching silly shows together.
+- Sometimes they end up playing video games or watching competition shows and silly cartoons together. Some of those cartoons turn out to be surprisingly good.

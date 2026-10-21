@@ -4,6 +4,8 @@ How narration sounds from inside each of them. Default is close third person, pa
 
 Both avoid their own heavy thoughts, in opposite directions: Evelyn swerves away from a thought, Victoria explains it into something manageable. Neither POV states the unspoken things outright — the weight lives in what the narration skips or reframes.
 
+The character bible is background, not a checklist. A scene draws on the traits, habits, and backstory that matter to it, and doesn't showcase them just because they're listed.
+
 ## Naming
 
 - Narration refers to every character by first name, whoever the POV character is: always "Evelyn" and "Victoria", never "Ev", "Vic", or "V." in the narration.

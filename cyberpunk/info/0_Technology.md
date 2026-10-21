@@ -18,6 +18,20 @@
 - Upgrades usually involve trade-offs (e.g. standard joint reinforcement costs agility); a version without the trade-off usually exists but is priced out of reach.
 - Artificial eyes act as displays and sensors: overlays, reading, optics linked to scopes.
 
+### CEF Standard Issue
+
+- Every CEF (Concord Expeditionary Force) soldier gets the same base package:
+  - Reinforced spine and neck.
+  - Bone reinforcement in the skull, ribs, sternum, pelvis, and shoulder girdle.
+  - Reinforced pericardial membrane.
+  - Reinforced pleural liner — flexible mesh lining the inner chest wall, closing the gaps between ribs.
+  - Major-vessel sleeves.
+  - Comm implant.
+  - Vitals monitor.
+  - Adrenal regulator.
+- Nerve-level interfaces only, no direct brain interface. Ex-soldiers who leave move to third-party firmware; Concord keeps no backdoor.
+- Arms and legs are left entirely natural. The package protects what keeps a soldier alive; a broken or lost limb is survivable and replaceable, and the replacement goes on the soldier's own ledger.
+
 ### Neural Interface Depth
 
 - How deep an implant connects varies by implant.
