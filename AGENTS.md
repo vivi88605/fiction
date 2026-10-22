@@ -6,7 +6,7 @@ This repo is for generating plotbeats and prose for original-character (OC) stor
 
 - `<setting>/info/` — worldbuilding & character bible. Canon reference, effectively read-only. Source of truth for personality, voice, relationships, setting, and the summary of each period. Holds **facts**, not scene-by-scene beats.
 - `<setting>/arc/` — **canon** events. Plotbeats, outlines, and prose for things that actually happen in the timeline; each `outline.md` is canon for the event it covers, and later beats must stay consistent with it. `arc/README.md` lists the beats in chronological order.
-- `<setting>/side/` — **non-canon** pieces. One-shots, what-ifs, whump/fluff that doesn't have to fit the timeline. A side piece should respect `info/` unless it's deliberately an AU, but nothing in `info/` or `arc/` may depend on it, and it never updates `info/`. `side/README.md` lists pieces with what each assumes. Promoting a piece to canon = move its folder into `arc/` and add it to `arc/README.md`.
+- `<setting>/side/` — **non-canon** pieces. One-shots, what-ifs, whump/fluff that doesn't have to fit the timeline. A side piece should respect `info/` unless it's deliberately an AU, but nothing in `info/` or `arc/` may depend on it, and it never updates `info/`. `side/README.md` lists pieces with their premise and tags. Promoting a piece to canon = move its folder into `arc/` and add it to `arc/README.md`.
 
 Generated output goes in `arc/` or `side/`, never `info/`. See "arc/ and side/ structure" below.
 
@@ -65,7 +65,7 @@ arc/
 
 ### Shared rules
 
-- When adding or renaming a beat folder, update `arc/README.md` (chronological position and tags) or `side/README.md` (premise source, assumptions, and tags).
+- When adding or renaming a beat folder, update `arc/README.md` (chronological position and tags) or `side/README.md` (premise source and tags).
 - If it's unclear whether a new piece is canon, ask; default to `side/` for standalone whump or slice-of-life requests.
 - Keep files decoupled: `info/` files and outlines don't name other files or beat folders. Refer to events by what happens ("her later meeting with Victoria"), not by where they're written. `arc/README.md` and `side/README.md` are the only places that map events to folders.
 - `outline.md` is the blueprint for the beat — the plot points, character focus, and intent for the scene. There's only ever one; revise it in place rather than versioning it (git history covers "what changed"). When a beat has one, read it before generating or revising prose for that beat.

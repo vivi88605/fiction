@@ -49,7 +49,7 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Doorbell.** _(Later.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
 
-- **Same year.** _(Middle to late.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report. Each is sure the other is wrong.
+- **Same year.** _(Early on.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report.
 
 - **Seat in the mess.** _(Early on, while Victoria is still openly hostile.)_ Evelyn saves Victoria a seat in the mess every day. Every day Victoria sits somewhere else. The rest of Turquoise starts betting on it. The day Victoria finally sits down, she doesn't say anything about it, and Evelyn is so surprised that for once she doesn't either.
 
