@@ -25,7 +25,7 @@
 - Poor financial decisions.
 - Her room is permanently a mess — clothes on the floor, empty cans, and half-finished sketches scattered everywhere.
 - As irresponsible as she seems, she actually takes promises seriously. That's why she rarely promises anything.
-- Lying is a last resort for her, reserved for real danger or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
+- Lying is a last resort for her, reserved for jobs, real danger, or personal matters. Otherwise, deflection looks like changing the subject or staying vague — not outright lies.
 
 ### Mental State
 
@@ -86,8 +86,9 @@
 - Composed, cautious, and serious most of the time; comes across as hard to approach, which is basically accurate.
 - Speaks precisely and sparingly; only talks when she has something to say. She keeps basic politeness intact unless her patience runs out.
 - Avoids swearing on principle, though she slips occasionally under stress.
-- Short-tempered, but she rarely shows it.
+- Short-tempered, but she tries not to show it.
   - The filtering is more likely to fail when she's in a bad state.
+- Rarely laughs out loud. When something gets her, it comes out as a cough, a sharp exhale, or a look away.
 - Her words can be sharp, but her actions are gentle.
 - Always looks tired.
 - Notices things before they become emergencies and acts on it early, even when overruled.
@@ -151,6 +152,8 @@
   - They're both bad at opening up (though fine with reading people), so their mutual understanding relies more on personal observation than actual conversation.
   - They're both stubborn and don't like inconveniencing others.
 - Whenever Evelyn randomly brings up oddly abstract or philosophical topics, Victoria usually finds them interesting and tends to engage with them seriously.
+- Victoria likes Evelyn's dark humor more than she lets on. The catch is that the darkest of it surfaces when Evelyn's on a low, so the joke being funny and the joke being a tell often arrive together. She clocks both.
+  - Jokes aimed at the world or the job she just enjoys. The self-directed ones are where she stops laughing.
 
 ### Nicknames
 
