@@ -35,11 +35,11 @@
 
 ### Victoria's Near Miss
 
-- Just when escape appears possible, security reaches them from an angle Victoria could not observe from overwatch. During their retreat, a round strikes Victoria's armor hard enough to knock her down behind partial cover.
-- From Evelyn's position, Victoria has visibly been hit. She disappears from sight and doesn't answer the comms for several terrible seconds. Evelyn cannot tell whether the armor held or where the shot landed.
-- Evelyn starts toward her, momentarily ready to risk the exposed crossing despite her injuries. For once, the fear is enough to override her tactical judgment.
-- Victoria finally answers: the armor stopped the round, but she's stunned and struggling to get moving. They regroup and escape, with Victoria bruised and shaken but not permanently injured.
-- For Evelyn, those unanswered seconds become more disturbing than her own injury. She has seen Victoria under fire before; this is the first time in this incident she truly believes Victoria might not make it.
+- Just when escape appears possible, security reaches them from an angle Victoria could not observe from overwatch. During their retreat, a round grazes the side of Victoria's head behind her ear and knocks her down behind partial cover.
+- The graze destroys her comm unit. From Evelyn's position, Victoria has visibly been hit and disappears from sight, and in the same moment her voice and her vitals both drop off Evelyn's feed. There is no answer and no signal. Evelyn cannot tell where the shot landed or whether Victoria is alive.
+- Evelyn starts toward her, ready to risk the exposed crossing despite her injuries. For once, the fear is enough to override her tactical judgment.
+- Evelyn reaches her and finds her conscious: the round only grazed her, but the scalp wound is bleeding heavily, she's concussed, and she can't hear on that side. She can still move and shoot, though her balance is off. They regroup and escape together.
+- For Evelyn, that silence becomes more disturbing than her own injury. She has seen Victoria under fire before; this is the first time in this incident she truly believes Victoria might not make it.
 
 ### The Choice About Her Arm
 
@@ -58,7 +58,8 @@
 - Evelyn assumes she’ll rehabilitate, adapt to a prosthetic forearm, and return to the field. Having lived with a replacement eye for years, she approaches the arm as another practical adaptation.
 - She jokes about the new arm and complains about its standard-issue appearance. Her humor is genuine, even if it doesn't always reassure Victoria.
 - Victoria concentrates on appointments, logistics, and recovery. Both are aware of the booster warnings and the role the fault played.
-- The sight of Victoria falling, followed by several seconds of silence over comms, keeps intruding on Evelyn’s thoughts.
+- Victoria's own recovery is short by comparison. Her comm unit is replaced, her hearing on that side returns over the following weeks, and the graze leaves a scar behind her ear.
+- The sight of Victoria falling, and the moment her voice and vitals cut out together, keep intruding on Evelyn’s thoughts.
 - Evelyn focuses on regaining function and making plans for her return to field work, while they settle into the routines of recovery.
 
 ### Finding Other Things to Do
@@ -72,7 +73,7 @@
 ### The Slow Realization
 
 - Evelyn continues planning as if she'll return to mercenary work. Choosing the prosthetic was partly about recovering reliable capability, and she seriously considers what she would need to make it field-ready.
-- But imagining another breach brings back Victoria dropping out of view. The event bothers Evelyn even though Victoria survived without lasting harm. A close call is normally something she can shrug off; this one isn't.
+- But imagining another breach brings back Victoria dropping out of view. The event bothers Evelyn even though Victoria's injuries healed without lasting harm. A close call is normally something she can shrug off; this one isn't.
 - The incident recalls Evelyn's lost-eye accident at seventeen. Then she refused to examine the booster trace and minimized the loss. This time she is willing to look at the logs alongside Victoria. Understanding what happened matters more than making it sound small.
 - Evelyn remains comfortable with prosthetics and with the risks she personally takes, but begins questioning the cost of work that can put Victoria in danger beyond either of their control.
 - At the same time, Evelyn finds herself more excited about an upcoming fabrication project than about the prospect of field work. Victoria discovers that archival research offers familiar intellectual satisfaction without the same stakes.
