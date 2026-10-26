@@ -37,17 +37,15 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Guess the book.** Victoria is reading on her eye implant, staring into space. Evelyn narrates the plot she imagines from Victoria's small facial reactions and gets more and more dramatic. Victoria won't confirm or deny anything, but her mouth twitches at the right moments.
 
-- **Jeffery did it.** Victoria trips over the sweeping robot in the dark and badly sprains or fractures her ankle. She's on crutches for a few weeks. The real suffering: she can't keep the apartment in order, and Evelyn is now in charge of the tidying. Evelyn insists Jeffery didn't mean it. Victoria's crutch tips go precisely around him every time.
-
 ### Service era
 
 - **The bunk inspection.** _(Middle period.)_ Turquoise gets five minutes’ warning before an inspection, and Evelyn’s bunk area looks like a small explosive event. Victoria helps her make it regulation-ready with terrifying efficiency. The inspection passes—then Victoria discovers half of Evelyn’s contraband has been hidden in her perfectly ordered locker.
 
-- **The first trim.** _(Middle period, when they trust each other on the job.)_ Victoria's bangs have grown into her scope picture and she keeps pushing them aside mid-sight. Evelyn offers to cut them. It means letting someone hold scissors next to eyes Victoria lost once already, so she says no three times before she says yes. Evelyn is very careful and pretends not to be. This works as a prequel to _Bangs day_, and the likeness could start right here.
+- **The first trim.** _(Middle period, when they trust each other on the job.)_ Victoria's bangs have grown into her scope picture and she keeps pushing them aside mid-sight. Evelyn offers to cut them. It means letting someone hold scissors next to eyes Victoria lost once already, so she says no three times before she says yes. Evelyn is very careful and pretends not to be. She'd rather take it back to the short crop Victoria had when they met, which she privately thought looked handsome, but Victoria allows the bangs and nothing else. This works as a prequel to _Bangs day_, and the likeness could start right here.
 
 - **Contraband.** _(Any time after Evelyn's transfer.)_ As second-in-command, Victoria confiscates Evelyn's junk food stash at a forward staging area. Then she hands it back at one piece a day and logs each one. Evelyn complains about the tyranny while also looking forward to the handout. On the last day of the rotation, Victoria issues two.
 
-- **Doorbell.** _(Later.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
+- **Origin stories.** _(Later.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
 
 - **Same year.** _(Middle to late.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report. Each is sure the other is wrong.
 
@@ -64,6 +62,16 @@ Applies to generating ideas as well as outlines and prose.
 - **The package won't stop helping.** An extraction of a defecting mid-level employee who is chatty, terrified, and full of suggestions. Evelyn keeps him calm by chatting back. Victoria routes the whole job around his suggestions without telling him. He thinks his ideas saved them.
 
 - **Counter-sniper.** Someone has a price on a client's head, and the job is finding the shooter first. Victoria has to think like the person on the other rooftop, and Evelyn has to walk the client around in the open as bait. Their usual roles are reversed, and both of them hate it for different reasons.
+
+- **Both sides.** Victoria takes a hired-overwatch job, and Evelyn takes a close-protection job through a different broker. At the meet they turn out to be on opposite sides of the same deal. They stay strictly professional on their private channel. The deal goes fine, and they spend all of it calmly debating who would have won if it hadn't.
+
+- **Connection lost.** Mid-job, Carol drops off the line without warning. They finish the old way: Victoria improvises from the standing kit, and Evelyn picks a lock she was promised would open itself. Forty minutes later Carol comes back, perfectly composed, and says only "power outage." Behind her on the line, someone shouts that dinner's getting cold. Evelyn's suspicions about Carol's age become a full theory. Victoria pretends she didn't hear.
+
+- **Away from keyboard.** In the middle of clearing a crew out of a warehouse, Blake's frame goes still in a doorway. "Sorry, sorry, one second, delivery." Evelyn guards two hundred kilos of frozen combat frame for ninety seconds. He comes back apologizing, very politely. Afterwards, all Evelyn wants to know is what he ordered.
+
+- **Repo.** Dell calls it "hardware recovery." The hardware is a dockworker's financed arm, eleven payments behind. He doesn't fight; he asks if he can finish his shift first. Evelyn says yes before Victoria can answer, so they sit in the van for four hours while he loads crates with an arm he's about to lose. Victoria reads the loan contract twice.
+
+- **The package is fifteen.** An extraction of a client's son from a gang. He doesn't want to leave, because the gang feeds him and gave him a bed. Evelyn knows that reasoning; it's why she enlisted at fifteen. She gets him out anyway and talks to him the whole way like he's a new recruit. She doesn't tell Victoria why she was quiet afterwards, and Victoria doesn't need her to.
 
 ## Setting satire
 
@@ -103,7 +111,9 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Seeking pain.** A bad crash lines up with a bad injury. Evelyn catches herself wanting the pain again, the way she did back in the unit, and has to hide it from someone who reads her gait. She says nothing to Victoria. The whump is entirely internal, and nobody finds out.
 
-- **The ping goes dark.** Evelyn's location ping just stops. Hours pass. Victoria does everything right (Carol, Dell, the hospitals, Jax), and none of it helps. You could write this as h/nc from Victoria's side only and never reveal what happened to Evelyn, or save the reveal for a later beat.
+- **Close range.** On a routine overwatch, someone finds Victoria's position while Evelyn is three floors deep. Victoria ends up in a close-range fight, the one she drills for and hates. Evelyn hears all of it on the comm and watches it on the vitals. Victoria tells her to finish the job. Evelyn does, and for her that's the worst part. The mirror of _Booster shutdown_.
+
+- **Dropped call.** The drone, the comm, Carol, a vehicle on the exit route, and an unscheduled guard all need Victoria in the same ten seconds. She drops one movement call, and Evelyn walks into it. The injury is minor, and Evelyn insists it was her own fault. That night Victoria replays the job log until she finds the second she missed it, then keeps replaying it.
 
 ## Unusual format
 
@@ -114,3 +124,5 @@ Applies to generating ideas as well as outlines and prose.
 - **Transcript.** A job as a raw comms transcript with Carol on the line, timestamps, and vitals readings logged as data lines between the dialogue.
 
 - **Patient file.** Jax's records on the two of them, years of entries: injuries, repairs, terse clinical notes, and his worst jokes written in the margins.
+
+- **The invoice.** A job told through Dell's invoice and the expense report Victoria attaches. Every line item is a story: one door, one replacement jacket, "drone, partial," one large pizza listed as "informant." Evelyn adds her own entries in the margins, and Dell's notes dispute most of them.
