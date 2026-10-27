@@ -44,7 +44,7 @@ Setting: two mercenaries (Evelyn, Victoria), ex-military, near-future cyberpunk.
 
 The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — that's for lookup only, not a read order. Jump straight to the file that matches the current task rather than reading them in sequence; narrative/reader-facing order is a property of the actual outlines and prose in `arc/`, not of this reference bible.
 
-- `1_` opens with an `## Arc Summary` — the period's event throughline (how they met through leaving service) — followed by the setting detail.
+- `1_` opens with an `## Arc Summary` — the period's event throughline (how they met through leaving service) and a by-age table (18–22) with each year's events and attraction stage — followed by the setting detail. Service-era pieces are placed by age, e.g. _(Age 20.)_ in `side/ideas.md`; look the age up in that table.
 - `2_` files open with a `## Summary` digest (the routine, or the job structure) before their full detail.
 - `3_` is short: an `## Arc Summary` of the future arc.
 

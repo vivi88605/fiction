@@ -13,17 +13,12 @@ Lookup-only detail on the romantic feelings between Evelyn and Victoria: how eac
 # Timing
 
 - Evelyn falls first and gets over it sooner. Victoria's starts later and lasts longer.
-- Phases are anchored to events in their service arc, not ages. A scene set in a phase should match that phase, not the present-day state.
+- The service-era stages, year by year (ages 18–22), sit in the by-age table of the service period's arc summary. After service:
 
-| Arc stretch                                 | Evelyn                                                                                  | Victoria                                            |
-| ------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| First sight, before she recognizes the face | Finds her handsome                                                                      | Leave me alone                                      |
-| Recognition → transfer → first missions     | Attraction mixed with guilt and fascination; she names it as a crush and finds it funny | Hostile; still avoiding mirrors                     |
-| Rescue → "we are not friends"               | Crush at its peak, now about Victoria rather than the face                              | Starts finding Evelyn attractive                    |
-| Comms blackout → choosing Evelyn back       | Still likes Victoria romantically                                                       | Attraction recognized; she's caught in analyzing it |
-| Settled friendship / leaving CEF            | Crush fading                                                                            | Notices the change and feels the relief             |
-| Early merc years                            | Gone; she's more relaxed and affectionate                                               | Lingers, then slowly fades                          |
-| Present                                     | Mostly gone                                                                             | Mostly gone; occasional leftover moments            |
+| When             | Evelyn                                    | Victoria                                 |
+| ---------------- | ----------------------------------------- | ---------------------------------------- |
+| Early merc years | Gone; she's more relaxed and affectionate | Lingers, then slowly fades               |
+| Present          | Mostly gone                               | Mostly gone; occasional leftover moments |
 
 # Evelyn
 

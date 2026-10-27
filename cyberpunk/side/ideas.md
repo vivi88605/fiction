@@ -39,21 +39,21 @@ Applies to generating ideas as well as outlines and prose.
 
 ### Service era
 
-- **The bunk inspection.** _(Middle period.)_ Turquoise gets five minutes’ warning before an inspection, and Evelyn’s bunk area looks like a small explosive event. Victoria helps her make it regulation-ready with terrifying efficiency. The inspection passes—then Victoria discovers half of Evelyn’s contraband has been hidden in her perfectly ordered locker.
+- **The bunk inspection.** _(Age 20.)_ Turquoise gets five minutes’ warning before an inspection, and Evelyn’s bunk area looks like a small explosive event. Victoria helps her make it regulation-ready with terrifying efficiency. The inspection passes—then Victoria discovers half of Evelyn’s contraband has been hidden in her perfectly ordered locker.
 
-- **The first trim.** _(Middle period, when they trust each other on the job.)_ Victoria's bangs have grown into her scope picture and she keeps pushing them aside mid-sight. Evelyn offers to cut them. It means letting someone hold scissors next to eyes Victoria lost once already, so she says no three times before she says yes. Evelyn is very careful and pretends not to be. She'd rather take it back to the short crop Victoria had when they met, which she privately thought looked handsome, but Victoria allows the bangs and nothing else. This works as a prequel to _Bangs day_, and the likeness could start right here.
+- **The first trim.** _(Age 20, when they trust each other on the job.)_ Victoria's bangs have grown into her scope picture and she keeps pushing them aside mid-sight. Evelyn offers to cut them. It means letting someone hold scissors next to eyes Victoria lost once already, so she says no three times before she says yes. Evelyn is very careful and pretends not to be. She'd rather take it back to the short crop Victoria had when they met, which she privately thought looked handsome, but Victoria allows the bangs and nothing else. This works as a prequel to _Bangs day_, and the likeness could start right here.
 
-- **Contraband.** _(Any time after Evelyn's transfer.)_ As second-in-command, Victoria confiscates Evelyn's junk food stash at a forward staging area. Then she hands it back at one piece a day and logs each one. Evelyn complains about the tyranny while also looking forward to the handout. On the last day of the rotation, Victoria issues two.
+- **Contraband.** _(Age 19–22, any time after Evelyn's transfer.)_ As second-in-command, Victoria confiscates Evelyn's junk food stash at a forward staging area. Then she hands it back at one piece a day and logs each one. Evelyn complains about the tyranny while also looking forward to the handout. On the last day of the rotation, Victoria issues two.
 
-- **Origin stories.** _(Later.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
+- **Origin stories.** _(Age 21–22.)_ A new replacement asks Evelyn about her callsign. She gives a new, more ridiculous origin story every time someone asks. Victoria has been keeping track of every version, and eventually she's the one who catches Evelyn contradicting herself. Nobody ever hears the true story.
 
-- **Same year.** _(Early on.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report.
+- **Same year.** _(Age 19.)_ They work out that they were in the same academy year, and that both of them were at the same infamous training incident (a failed exercise, a dorm flood, a mess-hall disaster) from opposite ends. Their accounts don't match at all. Evelyn's is an epic, and Victoria's reads like an incident report.
 
-- **Seat in the mess.** _(Early on, while Victoria is still openly hostile.)_ Evelyn saves Victoria a seat in the mess every day. Every day Victoria sits somewhere else. The rest of Turquoise starts betting on it. The day Victoria finally sits down, she doesn't say anything about it, and Evelyn is so surprised that for once she doesn't either.
+- **Seat in the mess.** _(Age 19, while Victoria is still openly hostile.)_ Evelyn saves Victoria a seat in the mess every day. Every day Victoria sits somewhere else. The rest of Turquoise starts betting on it. The day Victoria finally sits down, she doesn't say anything about it, and Evelyn is so surprised that for once she doesn't either.
 
-- **Unauthorized morale operation.** _(Later.)_ Evelyn learns Victoria’s birthday only because she sees it on a maintenance form. She assembles a “cake” from ration bars, powdered creamer, and something illegally acquired from another squad. It is structurally alarming and tastes worse. Victoria eats her entire piece.
+- **Unauthorized morale operation.** _(Age 20.)_ Evelyn learns Victoria’s birthday only because she sees it on a maintenance form. She assembles a “cake” from ration bars, powdered creamer, and something illegally acquired from another squad. It is structurally alarming and tastes worse. Victoria eats her entire piece.
 
-- **Second-in-command on crutches.** _(Service era.)_ A training-ground fall leaves her on crutches at a rear base. She still runs inspections, and she's somehow scarier this way. Evelyn carries her rifle case without being asked, and Victoria allows it without saying she's allowing it.
+- **Second-in-command on crutches.** _(Age 20.)_ A training-ground fall leaves her on crutches at a rear base. She still runs inspections, and she's somehow scarier this way. Evelyn carries her rifle case without being asked, and Victoria allows it without saying she's allowing it.
 
 ## Job
 

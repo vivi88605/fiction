@@ -4,8 +4,23 @@
 
 - How they met: Victoria is catastrophically injured (loses both eyes/upper half of her face) in a different squad, reassigned to Turquoise Nine as its new sniper/technician. Evelyn (then in Cateye Seven) recognizes the face she sold to Concord's template bank in Victoria's reconstruction and becomes fixated.
 - Evelyn engineers her own transfer into Turquoise Nine (making herself Victoria's subordinate) despite Victoria's open hostility.
-- Relationship arc: guilt/curiosity -> grudging professional trust built on missions -> Evelyn goes off-plan to rescue Victoria under fire -> Victoria realizes Evelyn matters when she panics over a comms blackout -> "we are not friends" bit -> settled, acknowledged friendship by the end of their service.
+- Relationship arc: guilt/curiosity -> grudging professional trust built on missions -> Evelyn goes off-plan to rescue Victoria under fire -> Victoria realizes Evelyn matters when she panics over a comms blackout -> settled, acknowledged friendship by the end of their service.
+- The "we are not friends" bit is a running joke, not a stage: from just after the rescue, Evelyn calls Victoria her friend and Victoria says no, until the day she finally says yes.
 - Ends with both choosing not to renew, walking away together into the mercenary life shown in the present-day file.
+
+### By age
+
+Service-era scenes are placed by age. Both are in the same academy year, so age means their shared year in service (18 = the year of Setting); birthdays don't matter for this.
+
+The attraction columns track the romantic feelings between them, which neither acts on. A scene set at an age should match that stage, not the present-day state.
+
+| Age    | Arc                                                                                                                                                   | Evelyn (attraction)                                                                                                                  | Victoria (attraction)                                         |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| **18** | Setting; first squads (Evelyn in Cateye Seven, Victoria in Garnet Four). Late in the year, Victoria's injury and reconstruction                       | —                                                                                                                                    | —                                                             |
+| **19** | Victoria joins Turquoise Nine with short hair. Evelyn finds her handsome, recognizes the face, and engineers her transfer. Victoria is openly hostile | Finds her handsome before recognizing the face; after, attraction mixed with guilt and fascination. Names it a crush, finds it funny | Hostile ("leave me alone"); still avoiding mirrors            |
+| **20** | Grudging trust built on missions. Ends with the rescue under fire, after which the "we are not friends" bit starts                                    | Crush grows and shifts from the face to Victoria; at its peak after the rescue                                                       | Starts finding Evelyn attractive after the rescue             |
+| **21** | Victoria starts noticing Evelyn's self-neglect. The comms blackout: Victoria realizes Evelyn matters and begins choosing her back                     | Still likes Victoria romantically                                                                                                    | Attraction recognized; she's caught in analyzing it           |
+| **22** | Settled, acknowledged friendship. They don't renew and leave the CEF                                                                                  | Crush fading                                                                                                                         | Notices the change; a small pang, then much bigger relief     |
 
 The rest of this file covers the setting: Concord, its culture and its wars; the CEF and its squads; and the training and service timeline.
 
