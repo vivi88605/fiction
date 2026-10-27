@@ -113,6 +113,9 @@ For the phase-by-phase breakdown, role split, and job types, read the rest of th
 - **Repossession.** Vehicles, hardware, or financed cyberware for lenders who'd rather not go to court. Grimy and morally grey.
 - **Security testing.** A small business pays them to break in and prove its security doesn't work.
 - **Planting or pulling a device.** A network tap for a client, or a bug that needs to come back out.
+- **Social recon.** Someone needs to know who's working for whom, who's selling what, or what a person says after two drinks. Evelyn goes into a bar, a party, or a fixer's back room and gets people talking. Victoria waits nearby on the comm and the visual link, keeping track of names, faces, and who said what. She feeds Evelyn the next useful detail and flags anything that doesn't match what they already know.
+  - It also doubles as prep for bigger jobs.
+  - The comm only goes one way mid-conversation: Victoria keeps her lines short and timed, and Evelyn works them in without a pause.
 
 ### Harder (the well-paying contract)
 

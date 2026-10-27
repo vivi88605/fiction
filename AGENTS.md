@@ -45,7 +45,7 @@ The numeric prefixes are chronological (1 = past, 2 = present, 3 = future) — t
 
 - `1_` opens with an `## Arc Summary` — the period's event throughline (how they met through leaving service) — followed by the setting detail.
 - `2_` files open with a `## Summary` digest (the routine, or the job structure) before their full detail.
-- `3_` is short: an `## Arc Summary` of the future arc, then `## Constraints on the Present` — the fixed points any earlier beat (canon `arc/` pieces, not `side/`) must stay compatible with.
+- `3_` is short: an `## Arc Summary` of the future arc.
 
 For checking consistency with a period, the opening section is usually enough; read on only when you need the detail below it. For exact dialogue/sequencing of an event, go to the event's outline (find it in `arc/README.md`).
 
