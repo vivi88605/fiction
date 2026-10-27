@@ -2,7 +2,7 @@
 
 How narration sounds from inside each of them. Default is close third person, past tense; an outline can override it.
 
-Both avoid their own heavy thoughts, in opposite directions: Evelyn swerves away from a thought, Victoria explains it into something manageable. Neither POV states the unspoken things outright — the weight lives in what the narration skips or reframes.
+They handle heavy thoughts in opposite directions: Evelyn swerves away before a thought lands, while Victoria goes into it and circles until she can't afford to think about it anymore, then shuts it off.
 
 The character bible is background, not a checklist. A scene draws on the traits, habits, and backstory that matter to it, and doesn't showcase them just because they're listed.
 
@@ -30,6 +30,6 @@ Applies at any weight, light or heavy.
 ## Victoria
 
 - Precise and deliberate. Full, orderly sentences; she observes, assesses, and concludes. Notices positions, counts, timings, inconsistencies, and what's out of place.
-- Analysis is also how she avoids things. Feelings get named in assessment language or converted into tasks. The narration presents this as reasonable, because to her it is.
-- A few things she won't analyze at all — the face, the bracing, wanting out. The narration files them away without looking: a sentence that starts toward one and turns to something practical instead.
+- She doesn't avoid heavy thoughts so much as spiral into them. Analysis is the way in: she names the feeling in assessment language, weighs causes, runs scenarios, and finds new angles. Because none of it resolves anything, it loops. The narration follows the loop at her pace, in the same orderly sentences, and presents each step as reasonable, because to her it is.
+- What ends a spiral is necessity, not resolution: a job, a task, Evelyn needing something, or plain exhaustion. Then she cuts the thought off and turns to something practical. The narration makes the cut abruptly and doesn't come back to the thought, as though it had been dealt with.
 - Under stress the sentences shorten and turn into lists and checks. Irritation leaks through as sharper word choice before it ever reaches dialogue.

@@ -12,7 +12,8 @@
 ## “Why are you staring at me?”
 
 - Cateye Seven and Turquoise Nine are temporarily operating out of the same staging area / base.
-- Evelyn spots Victoria and immediately gets that uncanny _wait, what the fuck?_ feeling.
+- Evelyn first sees Victoria from across the staging area. Victoria's hair is still short after the reconstruction, and Evelyn privately thinks she looks handsome.
+- Then she gets a proper look at the face and gets that uncanny _wait, what the fuck?_ feeling.
 - Victoria does **not** recognize the resemblance at first because she has been avoiding mirrors since her reconstruction.
 - Evelyn stares too long.
 - Victoria notices and assumes Evelyn is being rude, mocking her injuries, or just generally being weird.
@@ -48,6 +49,7 @@
 - Evelyn becomes intensely curious about Victoria.
   - Some of it is guilt. Some is morbid fascination.
   - Some is just that Victoria is extremely fun to annoy.
+  - Some is that she finds Victoria attractive. She names it as a crush to herself and finds it funny: _of course_ it's the woman wearing her face who can't stand her.
 - She starts finding increasingly weak reasons to be near Turquoise Nine.
   - Borrows equipment.
   - Uses their mess rotation.
@@ -146,6 +148,8 @@
   - knows exactly when Evelyn is lying by omission.
 - Victoria’s affection shows through actions long before words; she is sharp verbally but gentle in practice.
 - Evelyn finds the contradiction endlessly entertaining.
+- Evelyn's crush is at its peak, and by now it's about Victoria herself rather than the face.
+- Victoria starts finding Evelyn attractive, without naming it yet.
 
 ## Victoria starts noticing
 
@@ -187,6 +191,7 @@
 - Evelyn notices instantly.
 - She does **not** mention it because even she understands that would make Victoria stop.
 - Possibly the greatest act of restraint Evelyn has ever performed.
+- Victoria has recognized her own attraction by now and keeps analyzing it: whether it's circumstantial, what acting on it would change, whether it's worth the risk. Evelyn still likes her romantically. Neither acts on it.
 
 ## Settled friendship
 
@@ -198,10 +203,11 @@
 - “...Yes.”
 - Evelyn looks delighted.
 - Victoria immediately regrets giving her this much emotional ammunition.
+- Around here Evelyn's crush starts fading. Victoria notices Evelyn isn't looking at her _quite_ the same way and feels a small pang. But nothing else changes: Evelyn still comes looking for her. The relief is much bigger than the disappointment.
 
 ## End-state of the arc
 
-- The face is what makes Evelyn notice Victoria.
+- Victoria catches Evelyn's eye; the face is what makes her stare.
 - Guilt makes her stay nearby.
 - Professional trust gives them a reason to rely on each other.
 - Repeated danger makes them emotionally important to one another.
