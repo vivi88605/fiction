@@ -97,6 +97,28 @@ Applies to generating ideas as well as outlines and prose.
 
 - **On hold.** On the same afternoon, each of them needs customer support. Victoria has to correct a record with Concord and gets their AI support, which is endlessly polite and can't help with anything. Evelyn needs a fix from their third-party firmware vendor and reaches its one human support worker, who is fourteen hours into his shift. By the end of the call they're friends. Evelyn's problem gets fixed. Victoria's doesn't.
 
+## Ship bait
+
+Moments that don't read as entirely platonic. Neither of them acts on it, and nothing is confessed or resolved. Service-era pieces should match the attraction stage for their age. Present-day pieces stay at the level of residue.
+
+### Service era
+
+- **Perfect cover.** _(Age 19.)_ At mess, Evelyn announces to the whole table that she has a crush on Needle. Everyone laughs, because they assume it's another joke about her own face, and Victoria says "No." The one true thing Evelyn says about Victoria is hidden inside the one kind of joke nobody would take seriously.
+
+- **Elevated.** _(Age 20, after the rescue.)_ Concord's "duty of care" monitoring flags a spike in Evelyn's heart rate during something completely ordinary, like Victoria checking the fit of her plate carrier. The medic gets an automated query and has to ask about it. Evelyn gives a different medical explanation every time it happens. Victoria is the second-in-command copied on every report, and she has read all of them.
+
+- **Cold-weather protocol.** _(Age 20, after the rescue.)_ At a freezing forward post, regulations require buddy pairs to share body heat. Victoria quotes the section number and gets into the bag as if she were doing an equipment check. Evelyn can't come up with a single joke, which is the most suspicious thing she's ever done.
+
+- **Field dressing.** _(Age 20, the rescue under fire.)_ Evelyn is bleeding, and Victoria has her hands all over her, packing the wound and talking through it like a manual. For the first time on record, Evelyn is quiet. Victoria files the quiet as a finding.
+
+- **Threat assessment.** _(Age 21.)_ Victoria writes a private analysis of her attraction in after-action format: variables, confounders, recommendations. One confounder is that part of what she'd be attracted to is a face she still can't look at in a mirror, and she can't rule it out. The report concludes "Inconclusive. Further observation not recommended." She keeps observing anyway.
+
+- **Forty-eight-hour pass.** _(Age 21.)_ On leave in a garrison town, a bartender assumes they're on a date. Evelyn opens her mouth to correct him, glances at Victoria, and orders for both of them instead. Victoria doesn't correct him either, and spends the rest of the night trying to work out why.
+
+### Present
+
+- **Reverse trim.** Evelyn's dominant hand is in a cast, so Victoria cuts Evelyn's bangs. Her method is measured, she announces every cut, and she says nothing else. For once Evelyn is the one sitting still with someone's fingers on her forehead, and it turns out she can't joke her way through it either. The moment in the glass happens again, from the other side.
+
 ## Whump
 
 - **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
