@@ -2,12 +2,12 @@
 
 Applies to generating ideas as well as outlines and prose.
 
-- **slice-of-life** (or a story without a `whump` tag): small stakes, real characters, affection shown sideways, sadness kept in the background.
+- **fluff** (or a story without a `whump` tag): small stakes, real characters, affection shown sideways, sadness kept in the background.
   - Stakes are small and stay small. The engine is the situation and the bit, not a hidden feeling. Taking a trivial thing far too seriously is a good source of comedy.
   - Sadness gets at most one beat, the "leak": a single line where it shows, left unexplained, either undercut by a joke or allowed to land. Many pieces have none. If it starts carrying the piece, it's a whump piece.
   - It resets at the end. Nobody is fixed and no lesson is stated; end on a punchline or a quiet beat. Real change belongs to canon.
 
-## Slice of Life
+## Fluff
 
 ### Present
 
@@ -21,19 +21,9 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Range day, reversed.** Evelyn comes along to Victoria's budgeted live-fire session. Evelyn is great up close and hopeless at distance. For once Victoria is the teacher, and Evelyn is exactly the stubborn, sore-losing student Victoria usually is. Victoria isn't gleeful about it the way Evelyn would be, but she's close.
 
-- **Unlocked.** Evelyn spends two nights planning an elaborate breach, and Victoria briefs her on the door hardware in detail. On the night of the job, the door is unlocked. Evelyn takes it personally. Victoria notes it in her log with no comment, and that bothers Evelyn more.
-
 - **Doorbell.** On a clean job Victoria slips and uses Evelyn's old callsign over comms, which she almost never does. Evelyn doesn't say anything in the moment, since she's a professional. After the job, she won't stop talking about it.
 
 - **The nickname ledger.** Victoria has apparently been keeping a private list of every ridiculous variation of her name Evelyn has ever used. Evelyn discovers it and is delighted—until she realizes Victoria has also been rating them.
-
-- **Mystery novelist.** Evelyn finds a page of fiction Victoria forgot to hide. She doesn’t tease her about writing; instead, she spends the day loudly theorizing about the unnamed author and declaring them “obviously brilliant, devastatingly mysterious, probably very attractive.” Victoria nearly dies of restraint.
-
-- **The karaoke alarm.** Evelyn's heart rate crosses the alert threshold at midnight while she's at a bar. Victoria shows up braced for the worst and finds Evelyn doing a duet with strangers, belting it like a military anthem. Evelyn pulls her onto the stage. Whether Victoria actually sings is up to you.
-
-- **Overwatch for graffiti.** Evelyn talks Victoria into keeping watch while she paints a wall she shouldn't. Victoria takes the job far too seriously. She works out wind drift for the spray can and times the patrol gaps, then quietly critiques the color choices.
-
-- **Jacket inspection.** A job needs Victoria to blend in, so Evelyn runs a fashion show with all 20-something jackets in the apartment. Victoria rejects every one and picks the one she always wears. Evelyn is devastated. Later Victoria tries one of the others on quietly, when she's alone.
 
 - **Guess the book.** Victoria is reading on her eye implant, staring into space. Evelyn narrates the plot she imagines from Victoria's small facial reactions and gets more and more dramatic. Victoria won't confirm or deny anything, but her mouth twitches at the right moments.
 
@@ -69,8 +59,6 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Away from keyboard.** In the middle of clearing a crew out of a warehouse, Blake's frame goes still in a doorway. "Sorry, sorry, one second, delivery." Evelyn guards two hundred kilos of frozen combat frame for ninety seconds. He comes back apologizing, very politely. Afterwards, all Evelyn wants to know is what he ordered.
 
-- **Repo.** Dell calls it "hardware recovery." The hardware is a dockworker's financed arm, eleven payments behind. He doesn't fight; he asks if he can finish his shift first. Evelyn says yes before Victoria can answer, so they sit in the van for four hours while he loads crates with an arm he's about to lose. Victoria reads the loan contract twice.
-
 - **The package is fifteen.** An extraction of a client's son from a gang. He doesn't want to leave, because the gang feeds him and gave him a bed. Evelyn knows that reasoning; it's why she enlisted at fifteen. She gets him out anyway and talks to him the whole way like he's a new recruit. She doesn't tell Victoria why she was quiet afterwards, and Victoria doesn't need her to.
 
 ## Setting satire
@@ -87,17 +75,13 @@ Applies to generating ideas as well as outlines and prose.
 
 - **Thank you for your service.** On the fifth anniversary of their leaving, Concord's veterans office sends each of them a commemorative message and a coupon: 15% off Concord-licensed maintenance, valid only on Concord firmware. Evelyn wants to frame it. Victoria reads all of it twice, the way she would have back when she believed in it.
 
-- **Retro chrome.** On a job at a rich people's party, everyone's prosthetics pass for human, and visible chrome is in fashion: cosmetic shells clipped over perfectly natural arms. Guests praise Evelyn's eye as "so authentic." A collector spots Victoria's eyes as a vintage CEF model and asks where she found them. She tells him the truth, and he thinks she's being edgy.
-
 - **Five stars.** Dell moves some of his work onto a gig platform that rates mercs after every job. A job goes flawlessly and the client gives them three stars: "Sniper unfriendly." Evelyn launches a campaign to fix Victoria's rating. Victoria tries smiling at the next client, and the rating goes down.
 
 - **End of life.** Blake's frame model reaches end of life, and Axion stops making one of its joint actuators. The only spare in the city belongs to a collector who keeps a complete frame of Blake's model in a glass case as a "historic piece." Evelyn and Victoria go to buy the part, and Blake comes along through the frame, standing next to his own museum exhibit.
 
 - **Express tier.** The landlord puts the elevator on a subscription. The express tier goes straight up. The free tier stops at every floor and plays ads. Evelyn starts taking the outside of the building. Victoria won't pay on principle, so she carries the groceries up five flights every time and starts timing herself against the free tier.
 
-- **On hold.** On the same afternoon, each of them needs customer support. Victoria has to correct a record with Concord and gets their AI support, which is endlessly polite and can't help with anything. Evelyn needs a fix from their third-party firmware vendor and reaches its one human support worker, who is fourteen hours into his shift. By the end of the call they're friends. Evelyn's problem gets fixed. Victoria's doesn't.
-
-## Ship bait
+## Ship
 
 Moments that don't read as entirely platonic. Neither of them acts on it, and nothing is confessed or resolved. Service-era pieces should match the attraction stage for their age. Present-day pieces stay at the level of residue.
 
@@ -121,21 +105,21 @@ Moments that don't read as entirely platonic. Neither of them acts on it, and no
 
 ## Whump
 
-- **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
+### Present
 
-- **Drunk.** After a bad job, Victoria drinks enough to reach her quiet-crier stage, which almost never happens. Evelyn switches to caretaker, and it becomes the rare scene where Evelyn is the steady one. A good follow-up to a close call.
+- **Blind.** A site-wide EMP on a job fries every optic in range. Both of Victoria's eyes are artificial, so she has no working eye at all. Evelyn loses her right eye too. Evelyn has to lead Victoria out of a hot zone on foot, which puts Victoria in close range and total dependence, the two things she hates most. Evelyn doesn't mention her own eye until Victoria works it out. Afterwards, at Jax's, all three eyes have to come out for repair. Days without sight and without her novels, and Evelyn narrates cartoons to her badly on purpose.
 
 - **Unregulated.** Evelyn took a hit an hour ago but can't feel it, because with her adrenal regulator disabled the spike stays pinned high. She keeps working and grinning until the crash drops her mid-stairwell. Victoria had seen the gait was off and said so, and was overruled. Afterwards Victoria is furious, and the anger is care in a form she's allowed to show.
 
 - **Non-weight-bearing.** Evelyn breaks her right wrist and leg taking a shortcut down a rusted fire escape, and Jax orders six weeks off the leg. The injury takes away everything she burns energy on, so the high runs hotter and the crash lands harder, and a broken bone is pain on tap for both. Victoria knows the pattern and never names it. She manages by placement: crutches moved, a stool set out, the word "gently" handed back. Every time Evelyn gets caught, she deflects.
 
-- **Booster shutdown.** An intruder kills Evelyn's reflex booster in the middle of a fight. Without it she's a small, slow body in close quarters, a range she normally owns. She loses badly, and Victoria watches it through the scope, too far away to help. From the hurt side, it's a story about how much of who you are is rented hardware.
-
-- **Seeking pain.** A bad crash lines up with a bad injury. Evelyn catches herself wanting the pain again, the way she did back in the unit, and has to hide it from someone who reads her gait. She says nothing to Victoria. The whump is entirely internal, and nobody finds out.
-
-- **Close range.** On a routine overwatch, someone finds Victoria's position while Evelyn is three floors deep. Victoria ends up in a close-range fight, the one she drills for and hates. Evelyn hears all of it on the comm and watches it on the vitals. Victoria tells her to finish the job. Evelyn does, and for her that's the worst part. The mirror of _Booster shutdown_.
+- **Close range.** On a routine overwatch, someone finds Victoria's position while Evelyn is three floors deep. Victoria ends up in a close-range fight, the one she drills for and hates. Evelyn hears all of it on the comm and watches it on the vitals. Victoria tells her to finish the job. Evelyn does, and for her that's the worst part.
 
 - **Dropped call.** The drone, the comm, Carol, a vehicle on the exit route, and an unscheduled guard all need Victoria in the same ten seconds. She drops one movement call, and Evelyn walks into it. The injury is minor, and Evelyn insists it was her own fault. That night Victoria replays the job log until she finds the second she missed it, then keeps replaying it.
+
+### Service era
+
+- **Sector sweep.** _(Age 21, when Victoria starts noticing the self-neglect.)_ A few days after Evelyn takes the window instead of the clear stairwell and gets eleven stitches for it, Turquoise Nine pulls five days of garrison duty at a pumping station. From the tower, Victoria's sweep crosses the one corner nobody else can see, and she finds Evelyn sitting very still on the edge of a culvert, pressing on her own stitches. The vitals say nominal. Victoria doesn't ask, because asking would cost her the sightline; she restocks Evelyn's kit instead. Told twice: Victoria from the outside, working it out, then Evelyn from the inside, knowing she was seen and not mentioning it.
 
 ## Unusual format
 
