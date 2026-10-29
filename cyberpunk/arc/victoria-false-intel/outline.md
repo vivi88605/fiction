@@ -4,7 +4,7 @@
 
 **When:** Victoria is 18, a few months into active service — fresh out of the academy, still carrying its training intact.
 
-**Squad:** Garnet Four, a line squad before Turquoise Nine. She's its newest member and junior marksman/technician.
+**Squad:** Garnet Four, a line squad before Turquoise Nine. She's its newest member and junior marksman.
 
 **The intel:** The sector has been marked _stabilized_ ahead of a campaign milestone. Days earlier, a forward drone logged signs of a hostile indirect-fire capability still active in the area. Through consolidation the report goes _unconfirmed_ → _low confidence_ → _residual_ → absent from the squad-level brief. Every step is defensible. Nobody lies. The overwatch position is chosen for sightlines over cover, because the brief says cover isn't the concern.
 

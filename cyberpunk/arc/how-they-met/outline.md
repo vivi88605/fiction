@@ -5,7 +5,7 @@
 - Victoria is injured while serving in Garnet Four. A position she was covering got hit based on intel that turned out to be wrong. The blast cost her both eyes and the upper half of her face; skull reinforcement was the only reason it wasn't fatal.
 - Months of surgery, reconstruction, rehab, and retraining follow.
 - Her former billet is filled in the meantime.
-- Once medically cleared, she gets reassigned to Turquoise Nine as their Senior Operative / marksman-technician.
+- Once medically cleared, she gets reassigned to Turquoise Nine as their Senior Operative / marksman.
 - Evelyn is still with Cateye Seven.
 - Evelyn sees Victoria, stares, and the whole thing starts.
 

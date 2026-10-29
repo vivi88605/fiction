@@ -21,7 +21,7 @@
 - **Name:** Victoria. Victoria. Not Tori, not Ree, not Victor. (Pt did not ask me to write that. Her face asked me to write that.)
 - **DOB:** Jan 14. Given once. Not repeated. Did not need to be.
 - **Emergency contact:** E.
-- **Hx:** ex-CEF, sniper/technician. Full standard reinforcement package. Limbs natural.
+- **Hx:** ex-CEF, sniper. Full standard reinforcement package. Limbs natural.
 - **Implants:** both eyes (CEF, installed at 18). Comm. Vitals monitor. Adrenal regulator (on, and staying on, per pt, unprompted, while looking at E.).
 - **Other:** upper-face reconstruction — printed tissue over skull reinforcement, template-sourced.
 

@@ -448,7 +448,7 @@ She was medically cleared eight months after the hit.
 
 She wasn't going back to Garnet Four. Her billet had been filled; the squad had been rebuilt around the gap with people she'd never met. Actual had rotated to a staff post. Tamber had transferred. She learned this from a roster, not a person.
 
-Her new assignment was Turquoise Nine. Senior Operative, marksman-technician. Second-in-command.
+Her new assignment was Turquoise Nine. Senior Operative, marksman. Second-in-command.
 
 It was a promotion. A small one, and it arrived with a formal notice that used the word _recognition_. She read the notice once and understood it the way she now understood most things that came from upstream. It was compensation, and it was the cheapest kind available — a title, a slightly higher pay grade, a little more authority over people she didn't know. It cost Concord nothing. She accepted it, because refusing would also have cost her nothing and gained her less.
 

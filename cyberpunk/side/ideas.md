@@ -99,6 +99,8 @@ Moments that don't read as entirely platonic. Neither of them acts on it, and no
 
 - **Forty-eight-hour pass.** _(Age 21.)_ On leave in a garrison town, a bartender assumes they're on a date. Evelyn opens her mouth to correct him, glances at Victoria, and orders for both of them instead. Victoria doesn't correct him either, and spends the rest of the night trying to work out why.
 
+- **Replication.** _(Age 21, after the pass.)_ Victoria doesn't trust a result she's only seen once. On the next leave she sets up the same conditions on purpose: same kind of bar, same company, the same drink Evelyn ordered for her. She never says it's a test. Evelyn notices she's being steered and goes along with it. The experiment works too well, and Victoria ends the night with a finding she didn't want.
+
 ### Present
 
 - **Reverse trim.** Evelyn's dominant hand is in a cast, so Victoria cuts Evelyn's bangs. Her method is measured, she announces every cut, and she says nothing else. For once Evelyn is the one sitting still with someone's fingers on her forehead, and it turns out she can't joke her way through it either. The moment in the glass happens again, from the other side.
@@ -116,6 +118,8 @@ Moments that don't read as entirely platonic. Neither of them acts on it, and no
 - **Close range.** On a routine overwatch, someone finds Victoria's position while Evelyn is three floors deep. Victoria ends up in a close-range fight, the one she drills for and hates. Evelyn hears all of it on the comm and watches it on the vitals. Victoria tells her to finish the job. Evelyn does, and for her that's the worst part.
 
 - **Dropped call.** The drone, the comm, Carol, a vehicle on the exit route, and an unscheduled guard all need Victoria in the same ten seconds. She drops one movement call, and Evelyn walks into it. The injury is minor, and Evelyn insists it was her own fault. That night Victoria replays the job log until she finds the second she missed it, then keeps replaying it.
+
+- **One glass.** Nothing went wrong. Victoria is just tired of holding herself together, so she drinks alone on a night Evelyn is out. It's the one setup where nobody can see her. Evelyn comes home early and finds her in the dark at the kitchen table, crying without a sound. Victoria never meant this to be seen. Evelyn has to decide fast whether to pretend she didn't see it, and whatever she picks, Victoria will know she did.
 
 ### Service era
 

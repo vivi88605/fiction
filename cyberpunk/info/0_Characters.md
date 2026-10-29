@@ -71,7 +71,7 @@
 
 - 27, she/they.
 - Mercenary.
-- Ex-soldier (sniper/technician) from CEF.
+- Ex-soldier (sniper) from CEF.
 - Evelyn's roommate.
 
 ### Appearance
@@ -125,7 +125,8 @@
 
 ### Specialty
 
-- Sniper/Technician — long-range marksmanship combined with the technical skill to calibrate optics, compute ballistics, and maintain her own gear; sharp enough on the technical side to double-check Carol's intel herself.
+- Sniper — long-range marksmanship, plus the technical side that comes with it: calibrating optics, computing ballistics, maintaining her own gear.
+- Hardware and firmware, self-taught — not a CEF specialty. It started after the injury, when she read every document and patch log she could get on her own eyes. In Turquoise Nine it spread to everything that fed her information (scope, drone, comms), and after they left service it became a trade. Hardware, not hacking; sharp enough at it to double-check Carol's intel herself.
 - The stronger of the two in raw and sustained strength — years of hauling a rifle case, optics, ammo, and tech kit to position, then holding steady for hours.
 - Weakest at close range — the fight a sniper only ends up in once her position has been found.
 - Trains daily without fail.
